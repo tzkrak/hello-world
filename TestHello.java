@@ -8,4 +8,6 @@ public class TestHello {
 	public String getName(){
 		return HELLO_MSG;
 	}
+
+	public Vector getVector(){};
 }
