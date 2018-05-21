@@ -4,4 +4,8 @@ public class TestHello {
 	public static void main(String args[]){
 		System.out.println(HELLO_MSG);
 	}
+
+	public String getName(){
+		return HELLO_MSG;
+	}
 }
