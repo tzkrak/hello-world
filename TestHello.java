@@ -12,4 +12,5 @@ public class TestHello {
 	public Vector getVector(){};
 	
 	public int getEage(){};
+	public String getRevision(){};
 }
