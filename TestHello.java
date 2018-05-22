@@ -13,4 +13,6 @@ public class TestHello {
 	
 	public int getEage(){};
 	public String getRevision(){};
+
+	private boolean getStatu(){};
 }
