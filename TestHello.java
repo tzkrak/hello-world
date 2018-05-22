@@ -10,4 +10,6 @@ public class TestHello {
 	}
 
 	public Vector getVector(){};
+	
+	public int getEage(){};
 }
