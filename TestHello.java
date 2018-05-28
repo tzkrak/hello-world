@@ -2,13 +2,15 @@ import java.util.*;
 
 public class TestHello {
 	static String HELLO_MSG = "Hello\n";
-	private Vector stringVector;
+	private Vector<String> stringVector;
 
 	public static void main(String args[]){
 		System.out.println(HELLO_MSG);
 	}
 	
 	public TestHello(){
+		// Tak tez moza ale lepiej na
+		// Na insterfejsach programowac
 		stringVector =  new Vector();
 	}
 
