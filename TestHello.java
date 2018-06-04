@@ -1,7 +1,10 @@
 import java.util.*;
 
 public class TestHello {
-	// po margowaniu
+	// praca z branczhmi checkot - przelaczanie i wracanai zmian
+	// przelaczania sie na galezei	
+// po margowaniu
+	// robimy na dwa razy  commit i pull
 	static String HELLO_MSG = "Hello\n";
 <<<<<<< Updated upstream
 	private Vector<String> stringVector;
