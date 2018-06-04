@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class TestHello {
+	// po margowaniu
 	static String HELLO_MSG = "Hello\n";
 <<<<<<< Updated upstream
 	private Vector<String> stringVector;
