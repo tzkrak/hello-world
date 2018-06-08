@@ -2,38 +2,22 @@ import java.util.*;
 
 public class TestHello {
 	// praca z branczhmi checkot - przelaczanie i wracanai zmian
-	// przelaczania sie na galezei	
-// po margowaniu
+	// przelaczania sie na galeze
+	// po margowaniu
 	// robimy na dwa razy  commit i pull
 	static String HELLO_MSG = "Hello\n";
-<<<<<<< Updated upstream
-	private Vector<String> stringVector;
-=======
-	private Vector<String> strVect;
->>>>>>> Stashed changes
+	private Vector strVect;
 
 	public static void main(String args[]){
+		TestHello th = new TestHello();
 		System.out.println(HELLO_MSG);
 	}
-	
+
 	public TestHello(){
-<<<<<<< Updated upstream
 		// Tak tez moza ale lepiej na
 		// Na insterfejsach programowac
-		stringVector =  new Vector();
-=======
 		strVect =  new Vector();
->>>>>>> Stashed changes
 	}
-
-	public String getName(){
-		return HELLO_MSG;
-	}
-
-	public String getName(){
-	public String getName(){
-	public String getName(){
-	public String getName(){
 
 	public String getName(){
 		return HELLO_MSG;
