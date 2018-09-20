@@ -5,6 +5,7 @@ public class TestHello {
 	// przelaczania sie na galeze
 	// po margowaniu
 	// robimy na dwa razy  commit i pull
+	// przypomnienie commitowania praca na branchach + scenariusze
 	static String HELLO_MSG = "Hello\n";
 	private Vector strVect;
 
