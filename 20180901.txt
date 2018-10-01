@@ -5,4 +5,12 @@ ibm linux technololgy center
 architekura systemow informatyccznych ksiazka
 ====
 blade ceneter thin clinet rich client - nie ucz sie na poamiec technologi
+---
+cienki klient uruchamianie na przegladarecie
+cienki klinet uruchamienie na pulpitach zdalnych
+---
+technologi grupeb klineta komunikacja z baze przez odbc ower tcp/ip - protokol
+---
+gniazda sieciowe 
 
+poczytaj o tcp/ip
