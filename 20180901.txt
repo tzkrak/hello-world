@@ -13,4 +13,5 @@ technologi grupeb klineta komunikacja z baze przez odbc ower tcp/ip - protokol
 ---
 gniazda sieciowe 
 
-poczytaj o tcp/ip
+poczytaj o tcp/ ip
+ta linijka zostala dopisana w przegladarce
