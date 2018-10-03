@@ -1,0 +1,138 @@
+zaczne dzisiaj od blockchain, bezpieczenstwo i kryptowaluta
+----
+block chain - technololgia do przechowywania dancych - rozproszoana baza dancyh podstwa kryptowalut
+---
+
+serwer w sejfie
+
+
+----
+robie porzadek z eclipsem
+---
+
+technologia klucza publicznego
+
+peer, swiadkowei, gornicy
+---
+Steemit—a social network that pays its community
+---
+rozposzona baza danych rejest, bloki transakcje, lancuch blokow
+===
+czyli jedna spraw 100GB - 2016 rok tyle zawieral lancuch ale jest w serwerach na chmurach
+---
+
+kryptografia asymetryczna klucza publiczny i prywatny ( na tam si opiera(
+000
+
+alice i bob / przelewanie, / portfel jest generowany z klucz publicznego
+---
+jak to mozna wykorzystac
+
+vpn ssh, szyfrowanie i podpisy cyfrowe (zastosowania)-- kryptografia asemeytczna 1976 rok
+
+----
+openPGP
+----
+kryptografia symetreczna szyfrfownaie kluczu AES,
+----
+
+podpis cyfrwoey - szyfrowanie szprzetowe
+----
+
+czyli musze miec klucz publiczny zeby zaszyfrowac wiadomosc
+
+RSA I AES dlugosci kluczy i blokow ssh
+
+PGP - prety good privacy - podpisy certyfikaty protokol https ( o co w tym chodzi)
+AES - to jest sysmetryczny - klucz generowany za kazdym razem
+
+CA - certifkata autoryiatiy
+----
+dalej nie rozumiem tych kluczy RSA - 
+----
+
+ceftyfikaty i klucze szyfroniew i dzszyfrownie
+
+UniClud PaaS
+
+modele chmur obliczeniowych PaaS 
+
+SaaS - OneDrive - WindowsLive - po prostu uslugi
+PaaS - platform as Serwice
+IaaS - infrastukara as serwow
+
+---
+dostarcza wlasne oprogramowanie
+---
+Mobile "backend" as a service (MBaaS) --- mobilne rozwiazania chmurowe
+----
+asseco :: centrum danych
+
+----
+docker kontenery
+
+firma Jelastic - rozwiaznani chmurowe
+----
+czyli wyszlo szydlo technologia : Jelastic provides support of Java, PHP, Ruby, Node.js, Python, .NET, Go environments and custom Docker containers. 
+----
+SSD Uni Cloud
+---
+elektroniczne portfelee
+
+---
+portfel eletkoniczny przelew24 - co to jest
+----
+
+adress portfela jest generowanyh
+
+100 razy wieksza od serwoer google
+----
+ja polecałbym Tailsa, ponieważ ma już wgrany portfel Electrum
+---- bitcoiny + blockchiana
+
+// o co chodzi //
+
+----
+ekslorep blok chainowy
+----
+smart contrakty /// co wymyslil zabicki
+----
+co jest potrzebne do tego blockchaina (na pewno kryptografia na pewno co s tam i cos tam
+
+custom DOCKER CONTENER - 
+
+Integrated IDEs: IntelliJ IDEA,[13] Eclipse,[14] NetBeans
+=====
+
+Stos technologiczny
+UniCloud zapewnia programistom technologię i narzędzia, które gwarantują komfortowe i efektywne tworzenie serwisów oraz aplikacji webowych:
+
+    stos technologiczny obejmujący języki takie jak Java, PHP, Ruby, Node.js, Python
+    szeroki wybór pluginów np. Maven, Eclipse, IDEA, NetBeans
+    wsparcie dla GIT/SVN oraz MemCachE
+    
+---
+	rozwiazania chmurowe
+---
+	pluginy typu MAVEN ECLIPSE I INNE -- load balancer (admin zmienil sie na devOpsa i obsluguwajace chmure obliczniowa)
+	
+00---
+
+
+TimeToMarket
+Krótszy czas realizacji projektów to większa liczba zadowolonych klientów i większe zyski dla Twojej Firmy. Z UniCloud jest to możliwe dzięki:
+
+    efektywnej współpracy pomiędzy programistami oraz administratorami
+    wsparcia dla pracy grupowej (w tym z podwykonawcami) dzięki łatwemu współdzieleniu środowisk
+    mechanizmom raportowania i monitoringu gwarantującym pełną kontrolę nad zasobami
+
+----
+	do zapisow ksiegowych technologia wizjonerzy (rozposzona baza zakodowana za pomoco kryptografi klucza publicznego i prywatnego Pgp
+	
+----
+	bloki maja rozna wielkosc i ilosc transakcji do 1MB
+----
+	blockchian wchodzi oojecie protokolu (IoT)
+	blockchian to cos podobnego jak gitHUb
+	
+	https://klubjagiellonski.pl/2017/06/20/blockchain-dla-laikow-na-czym-polega-technologia-ktora-ma-zmienic-swiat/
