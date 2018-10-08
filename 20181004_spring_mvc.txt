@@ -30,3 +30,7 @@ generowanie kluczy generowanie adressow
 
 podpisywnie kluczem prywatnym
 transakcja zawiera dwa klucze publiczne i podpis kluczem prywatnym ktory mozna odczytac kluczem publicznym
+
+
+----
+skrot git commit -a wklada zmiany
