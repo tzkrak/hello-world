@@ -1,0 +1,32 @@
+pojecie patcha
++ bitcoin (uwaga na pojecie KRYPTOWALUTY - kryptowaluta)
+----
+umowne jednostki zwane portfelami krypotowaluta - rozproszony system ksiegowy
+----
+wydobywanie wykopywanie waluty
+
+---
+kryptogieldy - 
+---
+Technologia rozproszonego rejestru (DLT)  - mozna pobrac kod zrodlowy - wiekszas oparta o lancuch blokow
+
+100 milionow satoshi
+
+klucz prywatny (zarzadza portfelem) - (portfel to klucz prywatny) BTC
+
+----
+gielda kryptowalut poszukaj :: takiej gieldy
+
+----
+ używając koncepcji łańcuchowych dowodów matematycznych wykonanych działań (proof of work, w skrócie PoW). Dlatego też cała historia transakcji musi być przechowywana w bazie, a w celu ograniczenia rozmiaru magazynu używane jest drzewo funkcji skrótu. 
+ ----
+ 
+specyfikacja techniczna
+
+---
+bitcoin w praktyce:
+---
+generowanie kluczy generowanie adressow
+
+podpisywnie kluczem prywatnym
+transakcja zawiera dwa klucze publiczne i podpis kluczem prywatnym ktory mozna odczytac kluczem publicznym

@@ -1,0 +1,63 @@
+d7
+bus 5.30 sobota
+19 rzeszow wraca spowrotem -- () no to siadaj w busa
+---
+---
+sprzedac - wycenic : trzeba
+
+
+9:45 sobota 	12:40 spo
+19.15 ; 22:10 (flis przemyslawa " podkarpacki ekspreseA
+
+-----
+KRAKOW - NOWA SARZYNA
+9.45 sobota
+19.15 niedziela 22:00 nowa sarzyna
+
+=====
+Nowa Sarzyna - Krakow (sobota)
+5.30 : 08:25 (sobota)
+15:00 : 17.55 (niedzila)
+=====
+moze byc ciezkoa
+
+d7 stanowisko
+----
+powtorka z systemu linux () - 
+
+
+----
+javascript
+
+----
+angielski jest niestety niezbedny w systemach komputerowych - wszstko jest robione na plikach 163 MB - usniecie logow
+
+---
+powtorka z linuksa - sciage sobie zrobic 
+---
+praca na terminalach kopowianie inforamcji 
+
+github / sorgeforce
+
+----
+firehose fileter red (social web)
+====
+et cetere - / dana ktore nie miesciely sie gdzie indziej
+slash/dot : nerd yro - belkot korporacyjny blogi
+---
+bakckdor : maszyna dostepna tylko przez klucz glowny
+
+es6, es5 plain
+
+----
+flow elm - zarzadznie stanem aplikacji 
+====
+na front endzie
+
+-----
+podsumowanie zaczelo sie od git-a, skonczylo na stateofJS i wszechobecnym angielskim i przyjezdzie do sarzyny
+------
+
+podsumowanie git-a i comandlina linuxowgo kobiedy do kodu:
+	git workflow - podsumowanie z innymi systemiai
+	maven porownanie

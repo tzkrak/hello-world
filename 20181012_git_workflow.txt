@@ -1,0 +1,46 @@
+czasami sama informacja w katalogu to juz informacja : rekurencujne zastosowania
+----
+to juz informaja w systemi na ls nie mozna polaegac
+
+
+wbudowane skrypty
+twrzenie kopi czyli backupy i zipy
+
+cp 
+----
+menadzery pakietow
+
+----
+poleceni mv -R
+----
+
+jest kilka subtelnych roznic i trzeba uwazac
+
+rm -R * - gwiazdak
+
+su (switrz user root 
+
+su (autentyktation failure)
+
+----
+urzytkownik
+
+su - (skrot przjecie zmiennych srodowiskowch) root  niedostepny 
+----
+programista : mlodszy programista
+
+rss/atom suport ::: 
+---
+
+posluchaj jak to taraz leci sygnalo, cheatscheat (write protekc usuwanie)
+---
+szyfrownie klucze symetrczne 
+
+du -s (sumary)
+
+// nie mam // one places /
+----
+zarzadzanie systemem ukryty user, haslo do user
+----
+admin
+sudo

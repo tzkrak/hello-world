@@ -1,0 +1,142 @@
+accomplish ukonczyc
+encourage zachecac
+an agreed upon  uzgadniac
+agreed zgoda
+
+survey = ankieta badanie
+surveying - ankietowac
+
+through - 
+suit - komplet garnitur
+
+enhance - wzmacniac narzucac - 
+burden - brzemie tonarza ciezar
+
+impose - narzucac 
+ cognitive overhead - poznawczy narzut cognitive overhead
+
+ Does this - / czy
+ Is it - czy
+
+ instaed of - zamiast
+ trunk - bagaznik
+
+ daunting - zniechecajacy
+
+ advantages --- zaleta
+ adventages --- disadventage (push - pul) - nie ma requsteow i forking paternow
+
+
+defer - odraczanie
+
+
+ ----
+ po co na co te komputere- procesory framwoki aplikacji / paranoja
+ ----
+
+ koniec miesiaca ide na rozmowe
+ ----
+ po kureva ::: praca w kilka osob na serwerze ::: sudo
+ ----
+ substitude user
+ ----
+ powtorka z mavena java script (*** co pamietasz z mavean-a)
+ budowanie projektu mavenem (mongo , gredle , java7)
+ /etc/enviroment zmienna PATH - aviation serwice
+ node nie blokujace asynchroniczne przetwarzanie zdarzen , npm - menadzer pakietow
+ ----
+ homee.cloud - serwis z rowiazaniami chumurowymi
+ unicloud.pl - pierwsza chmura w polsscie (wikipedia poczytaj o cloudcomputinkcu)
+ ----
+ amazon ec2 - to byl poczatek (servis orinted architektura - tendencja do pracy w domu)  - object prototype function (git czyli dzisiaj burza muzgu)
+ java script bezytopowe wartosci i walue
+
+ ---
+ The sixth edition, initially known as ECMAScript 6 (ES6) and later renamed to ECMAScript 2015 (ES2015)[10] adds significant new syntax for writing complex applications, including classes and modules, but defines them semantically in the same terms as ECMAScript 5 strict mode. Other new features include iterators and for/of loops, Python-style generators and generator expressions, arrow functions, binary data, typed arrays, collections (maps, sets and weak maps), promises, number and math enhancements, reflection, and proxies (metaprogramming for virtual objects and wrappers). As the first "ECMAScript Harmony" specification, it is also known as "ES6 Harmony." 	Allen Wirfs-Brock
+7 	June 2016[11] 	ECMAScript 2016 (ES2016)[11], the seventh edition, intended to continue the themes of language reform, code isolation, control of effects and library/tool enabling from ES2015, includes two new features: the exponentiation operator (**) and Array.prototype.includes. 	Brian Terlson
+8 	June 2017[12] 	ECMAScript 2017 (ES2017), the eighth edition, includes features for concurrency and atomics, syntactic integration with promises (async/await).[13][12] 	Brian Terlson
+9 	June 2018[8] 	ECMAScript 2018 (ES2018), the ninth edition, includes features for asynchronous iteration and gene
+----
+evauluacja java scriptu uwazaj b wciaz pracuja nad tym
+promiseess 
+es5 i es6 (transpiling - tlumaczenie skryptow - na zgodne z czyms tam)
+webKit - caly czas zyje
+
+it's (jest)
+
+====
+git podsumowanie :::
+ jest kilka scheamotw pracy nalezy warabc jeden z nich ///
+---
+
+jeden obrazek mowi wiecej niz inne : przyjde pozniej - 
+
+eage(computing) - powtorz sobie o blockchainach i kryptografi klucza
+---
+portrel, IoT - chome ntworeak
+---
+eclipse , gradle
+---
+scp
+---
+ ssh-keygen -f "/home/lukasz/.ssh/known_hosts" -R 192.168.2.57
+--- mongo haslo sedes; 
+--- contest of use gradle build
+--- collectio gredle build
+---
+ssh-keygen -i -f arteteka.ppk > arteteka.pub
+  166  sudo ssh-keygen -i -f arteteka.ppk > arteteka.pub
+  167  man ssh-keygen
+  168  ssh-keygen -i -f arteteka.ppk > arteteka.pub
+  169  chmod 777 arteteka.ppk 
+  170  ssh-keygen -i -f arteteka.ppk > arteteka.pub
+  171  ls
+  172  rm arteteka.pub 
+  173  sudo apt-get install putty-tools 
+  174  puttygen arteteka.ppk -O private-openssh -o arteteka
+  175  puttygen arteteka.ppk -O private-openssh -o arteteka.pub l
+
+---
+brak prawa listowania : brak prawa zmiany katalogu : brak prawa wykonania katalaogu
+----
+
+chmod -R rekurencyjne
+
+---
+bitBucket code guru
+---
+clonowanie rapozytorium przez   (nastepny raz mapy i jezioro :: rozbic sobie namiot)
+
+kurs pisania skryptow w powloce
+--- odwoalania do zmiennych przez dolara
+--- czyli jest dodatkowy myk z nawiasami klramoroweymi ${} <- pozwala powloce laczyc zmienne z tekstem bez spacji czyli "${}"
+--- kolejny chit
+$# - szel rowziaja zmienne () kolejny hit rozija na wartosci liczbower
+0 - nazwa progaramu
+# - liczba parametrow
+
+----
+jest troche dziwna skladnia ; - sredniki w instkcjach steujacy + odstepy w testach : jest jescze jedne test in
+----
+dynamiczne wykowywnae poelecen
+
+---- czemu jest while czemu untili i czemu case a czemu elif
+
+* - lista plikow bez kropki :)
+$() - mechaniz rozwijania polecen - uwaga git - mozna klonowac po ssh albo na swoim komputerze : mozliwosc wozka i ()
+
+lista li
+expr 'operacje matematyczn'
+
+---- kodowanie mozliwosc wolania skryptu
+---- (dwie podsteoweo opoeracje to commitowanie i branczhowanie)
+
+---- myslenie w kategori branchy i commitowanie
+
+----
+piatek / colaboracja w gicie
+
+colabraoracje w gacie ()- git bitbuckwet tutowial
+
+dpf i gpf - filtr
+fap - francuski

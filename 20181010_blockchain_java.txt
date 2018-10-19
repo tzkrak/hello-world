@@ -1,0 +1,153 @@
+stc/test/java - testy jednostkowe
+===
+zblogowanie
+blogwin
+redit
+wykop
+----
+fanpage
+
+---
+blog + face book
+---
+dobry test to taki ktory zaskoczy piszacego
+----
+maven
+
+to do zrobic brancha i go jakosc nazwac : git++ : poznac wroga
+----
+dostac sie do czelo i do slacka (wazna jest motywacj apo co na co
+---
+webserwisy urvhomic projekt
+
+----
+przykrycie kodu
+----
+
+40, 70 - 85 % kodu 100 patologia	
+
+CoC - konwenction over confiuguration
+RoR - framwork / fajnie by bylo nowy projekt utrzymanie starego tez moze byc
+---
+kod przechywytujacyj wywolaani funkcji ewnetno i masaageow hooks - hakig
+---
+rozszrzenia funkcjonalnosci - wykorzystane w debagowanieu
+---
+poszukaj haslo do kodu
+
+hookin + wrapingliblary 	
+jest jeszcze pojecie portowania
+----
+wrapoer liblary
+
+IVT - dispach table
+===
+Most compilers place the hidden VMT pointer at the first 4 bytes of every instance of the class.
+===
+tabela motod vitualnych
+===
+TUG GUST
+
+---
+interfejsy pliki konfiguracyjne liczba plikow konfiguracyjnych zmienszenie
+===
+approach podejscie - java Benacn
+---
+
+technika pracy na rapozotyrioach - nie testujemy encji
+----
+root-context.xml (konfiguracja)
+----
+technika tworzenia oprogramowania mockowanie
+===
+moks's aren't stubs
+----
+mocki testowanie interakcji = poczytaj o Mockito, JUnikt
+---
+Załóżmy że stosujemy IoC bez żadnego frameworka DI i mamy do przetestowania klasę A.
+---
+
+framwokr DI - dependency injection
+
+for programers net - for programers net / 
+
+stackoverflo;
+
+-----
+
+notatnki nie dzienne ale tematayczne tyle w temacie
+----
+looking for a jo
+
+stackoverflow  jobs :: ruskie
+
+----
+dzisiaj webServisy ogranoac
+
+remowe unlik filese
+===
+163 mega zysgtalem 
+----
+lekkie podejscie podejscie ciezkie ocenanie zadzan obroslo tluszczem
+----
+biznes cyrk korporacyjny
+---
+Dokładnie. Nikt za nic nie odpowiada, ale każdy jest specem od wszystkiego (i np. backendowcy się wpieprzają do frontendu i robią tam sajgonki, spaghetti i parę innych rzeczy. No bo przecież Scrum i "self-organized teams", czyli w rezultacie taka wielka samowolka i chaos, gdzie każdemu się wydaje, że jest full stackiem)
+----	
+spring poker
+
+----
+scrum nie dziala - nie sprawdza sie/ spadnie velocity wystrcajaco dobre na sprint
+
+-----
+
+WAZNE SPRAWDZIC, WITALIJ SIEDZI, 
+----
+INZYNIERIA OPROGRAMOWANI (SCRUM NIE DZIALA)
+
+rm find - command line to posttwa
+
+waterflowe kanban - 
+stytyczne typowanie czyli typescript
+----
+Kod źródłowy napisany w C/C++ zostaje skompilowany do kodu bajtowego LLVM, a następnie Emscripten kompiluje go do JavaScriptu (asm.js).
+----
+
+chrome.os
+
+typescript interferencja typow, coffe script
+----
+internetowych. To dzięki ogromnej pracy twórców przeglądarek i wprowadzeniu bardzo wydajnych silników JavaScript (jak np. V8, SpiderMonkey) od niedawna możemy cieszyć się szybkim działaniem JavaScriptu. Jednakże nic nie może równać się z możliwością uruchomienia kodu bajtowego tak blisko „metalu”, jaką daje nam WebAssembly. Jeśli chcesz zgłębić temat wnikliwiej polecam zajrzeć na Awesome WASM.
+----
+
+filozofia linuxa to taka ze "wszystko jest plikiem" rowniez folder jest plikiem ???
+
+---
+wprowadzenie do unit tesotl
+---
+microcontelery
+
+SOAP - list w kopercie z babalkami
+---
+jakis przykald uruchomic maven git i aruchitektura
+
+----
+dto data transfer object
+
+---
+cvs - mamy jednsa wersja kodu
+----
+tam bylo pratkywana zakladania tagow : branczhowanie to wyjatek
+
+-----
+jak sa praowadzoen projekty w gitcie dom
+
+---
+usuwanie branchy - po jaka cholere i poc co
+----
+pull rugiest : (zadanie zmergowania brancha)
+----
+
+przyrowania do konroli wersji ::: rebase :: 
+)poczytaj o git chabie jak sie pracuje)
+
