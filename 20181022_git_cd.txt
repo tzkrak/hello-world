@@ -71,3 +71,25 @@ Merge the remote changes (e.g. 'git pull') before pushing again.  See the
 'Note about fast-forwards' section of 'git push --help' for details.
 
 ----
+
+Password for 'https://tzkrak@github.com': 
+To https://github.com/tzkrak/hello-world.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/tzkrak/hello-world.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ ^C
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ git pull
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/tzkrak/hello-world
+   440b5dc..bbd9de9  master     -> origin/master
+Merge made by the 'recursive' strategy.
+ 20181015-18_git_workflow.txt |    4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ 
+
