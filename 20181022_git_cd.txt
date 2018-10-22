@@ -1,0 +1,73 @@
+essential - istotny
+essentially - glownie
+
+git remote - konfigurje polacznia
+
+gir remote - helper method do pull i push mettod
+
+
+UWAGA : git clone
+====
+ssh://user@host/path/to/repo.git
+===
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-copy/hello-world$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/tzkrak/hello-world.git
+  Push  URL: https://github.com/tzkrak/hello-world.git
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (local out of date)
+---
+podstawoe info co sie dzieje (tolle to przykrywaja wazna jest to ze 
+	1. workflow tem
+	
+---
+	git essential
+---
+	sporo rzeczy dzieje sie poza scena
+----
+	remote branches master tracked
+	
+origin : to jest defaltowa opcja kluczowe jest rozumienie mechanizmu synchronizacji i branchy
+---
+svn : sobveriosn : 
+
+comiit
+files
+refs - ??? co to jest ale nie (odnisienia to branche) 
+
+fetch bierze ale nie marguje
+
+bachind the scene - (wszystko rozgryw sie poza scena) 	
+remote-repo
+
+----
+chek-out (lokalnie przelaczam sie na brancha)
+
+----
+jakis projekt	: angielski poworzyc podstawowa gramateyke
+----
+git log - (egzaminuje loklany brancha)
+----
+esnecja caledgo zamiszania ::: get fetch --- kodoanie
+----
+bechaind the sciene
+
+---
+jednak branch wazne ogigin master
+---
+
+Username for 'https://github.com': tzkrak
+Password for 'https://tzkrak@github.com': 
+To https://github.com/tzkrak/hello-world.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/tzkrak/hello-world.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
+
+----
