@@ -203,3 +203,8 @@ wilkie pojecia :: wielkie idede :: co sie dziaje za scena :: potrzebny bedzie ja
  git excdrsis cos nie wychodzi
 
  ---- git ignore ,,, jest jeszcze stash option
+
+ --- strony
+ https://blog.atena.pl/wstep-do-rozproszonej-kontroli-wersji-na-przykladzie-gita
+ http://rogerdudler.github.io/git-guide/index.pl.html
+ http://think-like-a-git.net/sections/the-end.htmls
