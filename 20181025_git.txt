@@ -1,0 +1,205 @@
+no i mi sie 
+namiszalo chyba zrobilem na gicie jakiegos brancha
+-----
+
+klucz to pozanienie idei : tego badziewia praca z referencjami i branchami
+
+
+current checked out commit branch
+	nazwy branchy to referencje-do-branchy
+
+	git pull po cichu marguje zmiany
+
+
+[pierwsze wyciagam zmiany pozniej sprawdzam co sie zmienlo]
+
+takie cos mi powstalo:
+
+ Merge branch 'master' of https://github.com/tzkrak/hello-world  - i nie wiem dlaczego
+
+ czuli mam brancha mastere - defaltowego i przy klonowaniu sa robione dowiazania
+ -----
+
+ 1. usuwanie plikow
+ 2. modyfikacja pliku git ignore
+
+
+ ----
+ obsluga gita z poziomu eclipsa :
+ ----
+ no branch --- (** )
+
+ ----
+ cwieczenia z gita  nie wiem jak to sie stalo
+
+ ===== (tak sie skonczyl y zabawy z komenda commmit)
+ lukasz@lukasz-Aspire-5560:~/HelloGit/hello-copy/hello-world$ git checkout master
+Warning: you are leaving 1 commit behind, not connected to
+any of your branches:
+
+  b898d63 test commit
+
+If you want to keep them by creating a new branch, this may be a good time
+to do so with:
+
+ git branch new_branch_name b898d63432ad4311dcdd6b988cd37631f787c4a2
+
+Switched to branch 'master'
+Your branch is behind 'origin/master' by 12 commits, and can be fast-forwarded.
+
+----
+Updating efc795b..0336ffe
+Fast-forward
+ 20180901.txt                 |   17 +++++
+ 20180901.txt~                |    8 +++
+ 20181003_spring_mvc.txt      |  140 ++++++++++++++++++++++++++++++++++++++
+ 20181003_spring_mvc.txt~     |  138 +++++++++++++++++++++++++++++++++++++
+ 20181004_spring_mvc.txt      |   36 ++++++++++
+ 20181004_spring_mvc.txt~     |   32 +++++++++
+ 20181008_spring_mvc.txt      |   55 +++++++++++++++
+ 20181010_blockchain_java.txt |  153 ++++++++++++++++++++++++++++++++++++++++++
+ 20181011_git_workflow.txt    |   63 +++++++++++++++++
+ 20181012_git_workflow.txt    |   46 +++++++++++++
+ 20181015-18_git_workflow.txt |  144 +++++++++++++++++++++++++++++++++++++++
+ 20181022_git_cd.txt          |   95 ++++++++++++++++++++++++++
+ 12 files changed, 927 insertions(+)
+ create mode 100644 20180901.txt
+ create mode 100644 20180901.txt~
+ create mode 100644 20181003_spring_mvc.txt
+ create mode 100644 20181003_spring_mvc.txt~
+ create mode 100644 20181004_spring_mvc.txt
+ create mode 100644 20181004_spring_mvc.txt~
+ create mode 100644 20181008_spring_mvc.txt
+ create mode 100644 20181010_blockchain_java.txt
+ create mode 100644 20181011_git_workflow.txt
+ create mode 100644 20181012_git_workflow.txt
+ create mode 100644 20181015-18_git_workflow.txt
+ create mode 100644 20181022_git_cd.txt
+
+----- czyli dostaje raport co sie zmienilo mniej wiecej ok --- sprubujmy wywalic pliki i ignore 
+---- 
+	git rm stagin indeksy i referncje cos z baza danych
+
+staging , workin dir 
+
+staging index -- git rm
+
+git reset HEAD git remowes branchewes  \* - wersja gwiazdii niezachalanej
+
+cachaed (ide komandlina gitowego )  - work flowy ::: git rm to po prostu rm i git add
+
+---
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (1/1), done.
+Unpacking objects: 100% (2/2), done.
+remote: Total 2 (delta 1), reused 2 (delta 1), pack-reused 0
+From https://github.com/tzkrak/hello-world
+   0336ffe..e4c1f72  master     -> origin/master
+Updating 0336ffe..e4c1f72
+Fast-forward
+ 20180901.txt~            |    8 ---
+ 20181003_spring_mvc.txt~ |  138 ----------------------------------------------
+ 20181004_spring_mvc.txt~ |   32 -----------
+ 3 files changed, 178 deletions(-)
+ delete mode 100644 20180901.txt~
+ delete mode 100644 20181003_spring_mvc.txt~
+ delete mode 100644 20181004_spring_mvc.txt~
+
+ --- usnicie
+
+ marege by racursive stategy
+
+ ---
+ it clone username@host:/path/to/repository
+ ---
+  git clone git@gitrepo:server/1places.git
+user@host:
+----
+podstaowa sprawa :: nie ma kontroli dostepu tylko bazuje na uprawnieniach systemu (nie ma zadnej werfykicjai usera)
+
+origin i master
+
+----
+git push origin master - working dir index HEAD
+git branch
+git checkout -b tworzenie brancza skroty
+----
+filozofia jest ciezka do tej pory nie wiem gdzie jest sukces
+
+
+git merge <branch>
+git diff <source_branch> <target_branch>
+
+--- filizofia pracy
+--- tagowanie gid add - rozwiazywanie konfliktow
+
+----
+git fetch origin
+git reset --hard origin/master
+----
+prog wejscia jest duzy bo nie ma stadnardow i duza elastycznac narzedzi wizualnych
+---
+lekkie zamieszanie
+---
+
+git add -i
+
+
+(obsluga pliku wyjatkow)
+
+git repo
+----
+ith issuing Git commands, we'll build a Git repository out of kid's toys showing what's going on behind the scenes. Mind bending concepts like remote branching, rebase and the staging area become child's play.
+----
+trzeda wymysles jakis realny scenariusz
+
+HEAD - bachaind the scdne
+
+followes follower :: b folooowa A obsrwujeea a
+
+rebase :: klucz do git-a jako grap
+
+----
+alias to a dot.file 
+----
+robimy w caomand line : sprawdzamy wizualnie ; GtiX 
+----
+ref to tylko 40 bitow ::: branchowanie ::: prowadzenie projektu ::: commit commentarz jak jbo sie omskala myszka pamietasz
+----
+referecje sie poruszaj i taki ktore sie nie poruszaja
+---
+git commit --amend
+----
+
+wazna jest linia komenda
+
+git gc - czysci komminiyt ammend
+----
+wilkie pojecia :: wielkie idede :: co sie dziaje za scena :: potrzebny bedzie jakis work flow
+---
+ You might also consider changing everyone's default pull strategy to "rebase" instead of "merge".
+ ---
+ cheerr-pick ::: czyli aplikuje patche z jedenjej galezie do drugiej ()
+ ----
+
+ rabase = / merege
+
+ ----
+
+ cherry peek rabase
+
+ hash contesk i history
+ ----
+ uwaga na rebeas uwaga na marage
+ ----
+ uwaga na synchonoziowanie, robimy z palaca i comiity nazywamy node E node G and so on, branche nazywamy isue 
+ ----
+ wkladamy jakis posty projekt (think like a git) ---- kolory branchy
+
+ ----
+ git ignore obsluga
+ ---
+ git excdrsis cos nie wychodzi
+
+ ---- git ignore ,,, jest jeszcze stash option
