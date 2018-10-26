@@ -1,0 +1,41 @@
+git comit ammnet
+
+1. podstawa jest taka musisz 
+---
+veryone's default pull strategy to "rebase" instead of "merge".
+---
+trzaba to uzgodnic
+----
+refs 
+
+----
+podstawowa rzez w svnie commit dotyczyl pojednyczgo pliku, tuta komit to zbior :
+
+1. zapisuje kolejne wersji pliku i ustawia jak by taga-a commit jest migawka i ma swoj sha-1
+
+--- dowiazanie do zmiany poprzedniej
+--- graf galezie i branch tip
+--- branches bez branchy si enie nie obejcie
+
+--- scalenie tymczasowe
+--- branch (to jest po prostu      (vizualizacja)
+
+--- galaz domylsnA master/ orrigin/master
+--- galaz sledzienie origin/topic origin/master
+
+---
+pull przyklad wycigania galezie i margowania
+
+---
+index katalog robioczy , galezie
+
+tag = commiy adresowani sha-1 wewnetrzna archytektura / no Head no branch
+
+head-- zmiana to sha-1 usuniecie galezie moze spowodowac usniecie miani
+----
+przylkald galzie to oporacja pull - ktora robi fetch i marge : mergowanie zmian powoduje powstenie nowego commmita to wazne
+----
+
+fast forward - opearacja szybkiego scalanie a
+
+uwaga na galezie moga sia konczyc 
