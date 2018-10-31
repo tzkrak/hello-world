@@ -1,0 +1,45 @@
+REST - architekuta w aplikacjach - nie protkolu nie cos tam 
+
+--- web tamplarte
+--- xml = rpc remote procedure call
+
+jersey : jax-rs
+
+----
+web service nastepnca aplikacji internetoweych
+===
+adresem URL. Często są pisane w Java EE,PHP,Ruby,Python.
+
+---
+Ale to wszystko masz w tych poradnikach u góry.
+
+Polecam wejsc na freecodecamp.org tam masz aż  3 albo 4  fajne projekty do zrobienia z użyciem API. Najlepiej chyba zrobic apke od pogody. ;)
+---
+zrodkla kodow
+----
+Ale to wszystko masz w tych poradnikach u góry.
+
+Polecam wejsc na freecodecamp.org tam masz aż  3 albo 4  fajne projekty do zrobienia z użyciem API. Najlepiej chyba zrobic apke od pogody. ;)
+----
+codecamp nie stac w miejscu
+----
+webservice kobiedy do kodu backednowcy ; przyklad API przyklad jakiego s api 
+---
+websercie
+webHoock 
+---
+webAPI  ::: restfull api - uwaga na powtarzanie zapytan - pozniej jest jeszcze microservicy
+----
+mikrokontrolery, języki programowania bez bibliotek itp)
+---
+REST / postman / 
+git bash
+
+RESTFull - six contra
+
+przykladowe api ;; praca z wielomo i tworzenie brancha
+---
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ git reset --hard
+HEAD is now at e5fd3c0 Merge branch 'master' of https://github.com/tzkrak/hello-world
+
+---
