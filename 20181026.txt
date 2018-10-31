@@ -38,4 +38,4 @@ przylkald galzie to oporacja pull - ktora robi fetch i marge : mergowanie zmian 
 
 fast forward - opearacja szybkiego scalanie a
 
-uwaga na galezie moga sia konczyc 
+uwaga na galezie moga sia konczyc w srodki fizyczej galezi moga byc porzuczone 
