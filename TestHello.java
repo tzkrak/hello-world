@@ -38,4 +38,7 @@ public class TestHello {
 	private boolean getStatu(){
 		return true;
 	};
+	private boolean getComflict(){
+		// symulacja konfliktu po fast-forward merge
+	}
 }
