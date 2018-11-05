@@ -1,0 +1,28 @@
+java bootcamp - javastart
+---
+spring-to-juz-bylo
+
+---
+Wygodnym elementem jest także moduł Spring Data REST, który w bardzo prosty sposób pozwala także stworzyć RESTowe endpointy udostępniające dane.
+
+---
+tworzone restowe end pinty
+---
+Neo4j is implemented in Java and accessible from software written in other languages using the Cypher Query Language through a transactional HTTP endpoint, or through the binary "bolt" protocol.[8][9][10][11]
+---- znowy end pointy dostepne (plan wypadl mi z kontroli)
+
+181 000 tysciecy tabela sesji
+
+3437169
+---
+restower endPointy + system widolko Thymeleaf ?
+----
+spring boot konfiruacja automatayczn koszyste z serweletow
+---
+STS - spring toll site srodowikko do konfigurowania alikacji springowych
+---
+graph databases
+---
+java start - tu sa przyklady aplikacji zarchiwisuj o olej to co tu masz 
+----
+RESTOWY beack end + webserwisy
