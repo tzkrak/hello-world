@@ -1,0 +1,545 @@
+aplikacja webowa:
+	dodawanie tresci
+	rejestracja
+---
+	inzynier infromatyk magister dziennikarsktaw
+---
+	styl flat : material designe
+---
+	wyjezdzic gaz do konca na dodatek jeszcze wypalic na zankmietym zawoerze
+---
+	projekt strony w psd - dodatkowa platna prtaktycka
+---
+	szerokie fonty siatka interaktywne menu : ciecie grafiki : kodowanie
+---
+	ux i projektowanie zorintowana na urzytkonwnika
+---
+	listy action bar-y
+---
+	spring kurs tworzenia aplikacji webowych
+---
+	java 10 , 5, 7, 
+---
+	wzorzec dependency injection ::
+---
+	maven, serwer tomacata, serwer vps (wdrazanie aplikacji)
+---
+	jsp - servlet : php
+---
+	kursy wprowadzajace
+---
+	angular js , nodejs + bower fire fox developoer tolls
+----
+	jsf - sie nie stosuje nie czytac : Podejście oparte o REST i frameworki Javascriptowe jest naszym zdaniem bardziej przyszłościowe.
+===
+	300 zloty brutto caly zestaw kosztuje lovato rg80
+====
+	lovato - eletronik : sprawdzic laczenia elektorniczne podogkrecac
+----
+	rge 90, 92 eletronick zawor: bierze impolsy od cewki : rownolegle do chlodnicy :
+---
+	membrany 40 i 120
+---
+	zmenil stacje tankowania gazu
+---
+	gaznik gazu
+---
+	regulacja skladu mieszanki : regulacja wolnych obrotkow : hamowanie silnikiem
+	
+----
+	rgv - podcisnieniowy
+	rge - elctronic brak cewki startera
+---- historia polecen ---
+  297  sudo apt-get install  git
+  298  git clone git@gitrepo:server/1places.git
+  299  git clone lukasz.drozd@gitrepo:server/1places.git
+  307  git clone git[B@gitrepo:server/1places.git
+  313  git clone git@gitrepo:server/1places.git
+  315  git clone git@gitrepo:server/1places.git
+  492  git
+  975  git
+  976  history | grep git
+ 1055  history | grep git
+ 1273  git
+ 1279  git
+ 1280  git show
+ 1281  git
+ 1282  git log
+ 1283  git
+ 1285  git log
+ 1289  git
+ 1290  git status
+ 1291  git show
+ 1292  git log
+ 1293  git
+ 1294  git status
+ 1295  git diff
+ 1296  git config 
+ 1297  git config --get-all
+ 1298  git config --global --get-all
+ 1299  git config --global
+ 1300  git config -l
+ 1301  git config --global -l
+ 1302  git diff
+ 1303  git config --global color.ui auto
+ 1304  git diff
+ 1305  history | grep git
+ 1309  git stach --list
+ 1310  git stash --list
+ 1311  git stash list
+ 1312  git status
+ 1319  history | grep git
+ 1336  git log
+ 1338  git log
+ 1341  git log
+ 1342  git sho
+ 1343  git show
+ 1344  git status
+ 1345  git config
+ 1346  git config l
+ 1347  git config -l
+ 1352  git clone
+ 1355  ping -a gitrepo
+ 1359  git
+ 1360  git status
+ 1361  git clone https://github.com/tzkrak/hello-world.git
+ 1363  git status
+ 1365  git status
+ 1366  git log
+ 1378  git status
+ 1380  cd .git/
+ 1384  git add TestHello.java
+ 1385  git status
+ 1387  git commit --help
+ 1388  git commit --patch
+ 1389  git log
+ 1390  git push --help
+ 1391  git push 
+ 1392  gitgui
+ 1393  git status
+ 1396  git status
+ 1397  git add TestHello.java
+ 1398  git commit --interactive
+ 1399  git status
+ 1400  git push
+ 1401  git config --global user.name "tzkrak"
+ 1403  git config --global user.email "t.zajac@interia.pl"
+ 1406  git status
+ 1407  git log
+ 1408  git status
+ 1409  git commit -a
+ 1410  git push
+ 1414  git gui
+ 1415  gitgui
+ 1416  git gui
+ 1417  qgit
+ 1422  qgit
+ 1423  git status
+ 1424  git staus
+ 1425  git status
+ 1426  git log
+ 1429  git diff
+ 1430  git status
+ 1431  git pull --help
+ 1432  git pull
+ 1436  cd .git/
+ 1445  git status
+ 1446  git push
+ 1447  git pull
+ 1448  git push
+ 1449  git status
+ 1450  git log
+ 1454  git diff
+ 1455  git status
+ 1459  git push
+ 1460  touch .gitignore
+ 1461  git status
+ 1462  nano .gitignore 
+ 1463  git status
+ 1465  git
+ 1466  git branch
+ 1467  git diff
+ 1468  git diff -stager
+ 1469  git diff -- stager
+ 1481  git diff -- stager
+ 1482  git diff --stager
+ 1486  git
+ 1487  git status
+ 1490  git status
+ 1491  nano .gitignore 
+ 1492  git status
+ 1498  git steger
+ 1499  git
+ 1558  git status
+ 1561  nano .gitignore 
+ 1562  git log
+ 1563  git diff
+ 1564  git status
+ 1565  git commit -a
+ 1566  git status
+ 1567  git push
+ 1568  git diff
+ 1569  git log
+ 1576  git status
+ 1582  git status
+ 1583  git log
+ 1584  git diff
+ 1585  git diff --stat master@{1} master
+ 1586  git status
+ 1587  git diff
+ 1588  git fetch 
+ 1589  git diff
+ 1590  git status
+ 1592  git status
+ 1593  git branch
+ 1594  git branch --help
+ 1595  git checkout --help
+ 1596  git checkout 
+ 1597  git checkout origin/master
+ 1598  git stash
+ 1599  git checkout origin/master
+ 1600  git diff
+ 1601  git status
+ 1602  git checkout
+ 1603  git status
+ 1604  git log
+ 1606  git status
+ 1607  git rebase
+ 1608  git status
+ 1609  git log
+ 1611  git unstash
+ 1612  git status
+ 1613  git stash
+ 1614  git stash pop
+ 1615  git status
+ 1616  git log
+ 1617  git diff
+ 1618  git reset HEAD
+ 1619  git status
+ 1620  git checkout master
+ 1621  git checkout -b err_owerwriting
+ 1622  git status
+ 1623  git diff
+ 1624  git commit -a 'merge_conflict_concurency change'
+ 1625  git status
+ 1626  git commit -a
+ 1627  git checkout master
+ 1628  git marge err_owerwriting
+ 1629  git merge err_owerwriting
+ 1630  git branch -d err_owerwriting 
+ 1631  git status
+ 1633  git status
+ 1634  git reset --hard HEAD 
+ 1635  git diff
+ 1636  git push
+ 1666  git status
+ 1668  git commit -a
+ 1669  git push
+ 1751  git status
+ 1759  git status
+ 1760  git commit -a
+ 1761  git statu
+ 1762  git status
+ 1763  git push
+ 1830  git sho
+ 1831  git show
+ 1832  git status
+ 1833  git show
+ 1834  git log
+ 1877  git status
+ 1937  git status
+ 2158  git log
+ 2159  git status
+ 2160  git diff
+ 2161  git remote -v
+ 2162  git fech
+ 2163  git tetch
+ 2164  git fetch
+ 2165  git log
+ 2166  git config
+ 2167  git config --global
+ 2168  git config -l
+ 2169  git branch
+ 2175  git status
+ 2180  git status
+ 2181  git commit -a "taki sobie commit"
+ 2182  git commit -a
+ 2183  git push
+ 2189  git clone
+ 2190  git clone https://github.com/tzkrak/hello-world.git
+ 2196  git log
+ 2205  git status
+ 2206  git log
+ 2207  gittk
+ 2208  gitk
+ 2209  git status
+ 2211  git status
+ 2214  git status
+ 2215  git fetch
+ 2216  git status
+ 2217  git pull
+ 2236  git status
+ 2238  git
+ 2239  git status
+ 2240  git add
+ 2241  git add .
+ 2242  git status
+ 2243  git commit
+ 2244  git status
+ 2245  git log
+ 2246  git push
+ 2247  git
+ 2248  git status
+ 2249  git commit -a
+ 2250  git push
+ 2253  git status
+ 2256  git status
+ 2257  git pull
+ 2269  git status
+ 2270  git add 20181003_spring_mvc.txt
+ 2271  git status
+ 2272  git push
+ 2275  git status
+ 2276  git add 20181004_spring_mvc.txt
+ 2277  git status
+ 2278  git stauts
+ 2279  git status
+ 2280  git commit -a
+ 2281  git status
+ 2282  git pull
+ 2283  git push
+ 2288  git status
+ 2289  git commit -a
+ 2290  git push
+ 2323  git status
+ 2325  cd .git
+ 2463  git status
+ 2464  git remote
+ 2465  git remote -v
+ 2466  git add 20181008_spring_mvc.txt
+ 2467  git status
+ 2468  git commit 
+ 2469  git push
+ 2470  git stauts
+ 2471  git status
+ 2472  git commit -a
+ 2473  git add
+ 2474  git add .
+ 2475  git commit -a
+ 2476  git push
+ 2494  git status
+ 2495  git remote
+ 2496  history | git
+ 2514  git status
+ 2515  git remote
+ 2516  history | git
+ 2517  history | grep git
+ 2518  git remote -v
+ 2520  echo .git/config 
+ 2522  cat .git/config 
+ 2523  git remote -v
+ 2524  git remote show
+ 2525  git remote show --all
+ 2526  git remote show origin
+ 2527  git branch
+ 2529  git branch -f
+ 2530  git branch -r
+ 2531  git fetch
+ 2532  git branch -r
+ 2533  git log
+ 2534  git remote -r
+ 2536  git remote show origin
+ 2537  git branch
+ 2538  git branch -r
+ 2539  git checkout origin/master
+ 2540  git log
+ 2541  git merge
+ 2542  git remote
+ 2543  git remote -r
+ 2544  git branch
+ 2545  git log
+ 2546  git status
+ 2547  git marge origni/master
+ 2548  git merge origin/master
+ 2550  git status
+ 2552  git branch
+ 2553  git remote
+ 2554  git remote -r
+ 2555  git bransh show
+ 2556  git branch show
+ 2557  git remote show
+ 2559  git remote show origin
+ 2568  git log
+ 2569  git status
+ 2570  git commit -a
+ 2571  git status
+ 2572  git remote
+ 2573  git branch
+ 2574  git push
+ 2575  git log
+ 2576  git diff
+ 2577  git merge
+ 2583  git status
+ 2584  git add 20181022_git_cd.txt
+ 2585  git status
+ 2586  git commit 
+ 2587  git push
+ 2588  git pull
+ 2589  git status
+ 2590  git commit -a
+ 2591  git log
+ 2592  git push
+ 2603  nano 20181022_git_cd.txt
+ 2608  history | grep git
+ 2609  git status
+ 2610  git log
+ 2611  git remote
+ 2612  git remote -v
+ 2613  git branch
+ 2615  history | grep git
+ 2616  git remote -r
+ 2617  git branch
+ 2618  git branch show master
+ 2623  ls .git/hooks/
+ 2624  nano .git/hooks/commit-msg.sample 
+ 2625  ls .git/refs/
+ 2626  ls -l .git/refs/
+ 2627  cat .git/refs/heads/master 
+ 2628  git log
+ 2629  ls .git/refs/heads/master 
+ 2630  ls .git/refs/heads/master
+ 2631  ls -a .git/refs/heads/master
+ 2632  ls -a .git/refs/heads
+ 2633  history | grep git
+ 2635  git show origin
+ 2636  git remote show origin
+ 2637  git branch
+ 2638  git pull
+ 2639  cd .git
+ 2643  git branch
+ 2644  git status
+ 2645  git diff
+ 2646  git checkout
+ 2647  git dif
+ 2648  gitt diff
+ 2649  git dif
+ 2650  git diff
+ 2651  git status
+ 2652  git branch
+ 2658  git status
+ 2660  git branch
+ 2661  git pull
+ 2662  git branch
+ 2663  git checkout master
+ 2664  git branch
+ 2665  git pull
+ 2669  git log
+ 2670  git status
+ 2671  git rm *.txt~
+ 2673  git status
+ 2674  git commit
+ 2675  git push
+ 2678  git status
+ 2679  git pull
+ 2680  git diff
+ 2681  git status
+ 2682  git commit -a
+ 2683  git push
+ 2686  git status
+ 2687  git pull
+ 2688  git diff
+ 2689  git pull
+ 2693  git status
+ 2694  history | grep git
+ 2695  git help checkout
+ 2702  git status
+ 2703  git log
+ 2704  git log --author=lukasz
+ 2706  git log --author=lukasz
+ 2707  git log --author=lukasz --pretty=online
+ 2708  git log --author=lukasz --pretty=oneline
+ 2709  git log --graph --oneline --decorate --all
+ 2710  git log --name-status 
+ 2711  gittk
+ 2712  gitk
+ 2714  git help rebase 
+ 2716  git status
+ 2718  nano .gitignore 
+ 2719  git status
+ 2721  git status
+ 2722  git add *
+ 2723  git status
+ 2724  git add 20181025_git.txt
+ 2725  git status
+ 2726  git commit
+ 2727  git push
+ 2737  git status
+ 2739  git status
+ 2743  git status
+ 2744  git dif
+ 2745  git diff
+ 2746  git add 20181026.txt
+ 2747  git diff
+ 2748  git status
+ 2749  git commit -m "Dzienny kommit"
+ 2750  git push
+ 2752  gitk
+ 2753  gitgui
+ 2754  qgit
+ 2759  cd hello-world/git status
+ 2761  git status
+ 2762  git help checkout
+ 2763  git gui
+ 2774  git status
+ 2775  git diff
+ 2776  git clean -n
+ 2777  git reset --hard 
+ 2779  git status
+ 2782  git status
+ 2783  git add
+ 2784  git add .
+ 2785  git status
+ 2787  git diff
+ 2788  git commit -m "sprawdzenie konfliktu w obrebie dwoch plikow"
+ 2789  git push
+ 2790  git pull
+ 2791  git gui
+ 2792  git status
+ 2793  git push
+ 2794  git status
+ 2795  qgit
+ 2797  qgit
+ 2800  gitstatus
+ 2801  git status
+ 2803  git status
+ 2804  git diff
+ 2806  git reset --hard
+ 2807  git staus
+ 2808  git status
+ 2809  git diff
+ 2810  git checkout -b 'test-pull-req-branch'
+ 2811  git branch
+ 2812  git status
+ 2813  git add .
+ 2814  git diff
+ 2815  git status
+ 2816  git push
+ 2817  git commit -m 'Test pull requst commit'
+ 2818  git push
+ 2819  git push --all 
+ 2820  git pull
+ 2821  git branch
+ 2822  git checkout master
+ 2823  git pull
+ 2831  git status
+ 2832  git add 2018_listopad.txt
+ 2833  git status
+ 2834  git commit -m 'notatka'
+ 2835  git status
+ 2836  git gui
+ 2837  gittk
+ 2838  qgit
+ 2839  git pull
+ 2840  git push
+ 2842  history | grep git
+---
