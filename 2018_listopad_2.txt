@@ -49,7 +49,7 @@ aplikacja webowa:
 ----
 	rgv - podcisnieniowy
 	rge - elctronic brak cewki startera
----- historia polecen ---
+---- historia polecen --- git history -- commit na githubie
   297  sudo apt-get install  git
   298  git clone git@gitrepo:server/1places.git
   299  git clone lukasz.drozd@gitrepo:server/1places.git
