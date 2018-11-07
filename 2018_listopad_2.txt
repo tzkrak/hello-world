@@ -543,3 +543,8 @@ aplikacja webowa:
  2840  git push
  2842  history | grep git
 ---
+https://gazeo.pl/poradniki/eksploatacja/Reduktory-w-gazowych-ukladach-zasilania,artykul,5886.html
+---
+https://forum-mechanika.pl/threads/regulacja-parownika.2987/
+---
+regeneracja gaznika : gazu
