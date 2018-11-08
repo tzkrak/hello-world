@@ -1,0 +1,116 @@
+local data model, client server model
+----
+fork kode - czyszczenie gaznika
+
+bk clone
+bk push
+bk commit -y" -- beet keeper
+
+---
+vcs
+
+---
+moaven - powtorka ale bez przesady
+---
+linux byl patchowany :: rownie dobrze jak apacha :: pozniej dopiero byl system kontrolki wersji
+
+----
+rozpoisz sobie po lepkach zagadnienie i nie wnikaj : znajdz firme i uderz
+-----
+java / c++/ python/ perl python/ ruby / erlang
+----
+
+kursy / websamuraj / kursy stron / drukarki 3d
+---
+
+ericson
+
+---
+system architectk
+
+---
+po pol godziny plan:
+maven
+computer
+git
+java,
+--- (plan
+
+developoer
+tester
+disignegr
+architeckt - gazela bizneso
+
+---
+Stos technologiczny: Java, Spring, Javascript, C++, C#, .Net, SQL,
+Node.js, React, 
+--- stos technologiczny
+--- rocksana carrreta, Marcelina Wellbrock, Monika Delegos
+, >>>>::::: kod sie nie / finase / it
+--- java devlepor ???  ;;;; finanse /it (block chain developoer)
+
+----- mlodszy programista --- krosno amortyzator i zawieszenia
+---- cba /starachowice
+---- chrzanow dan-cace
+
+---- apraszamy  do  współpracy  pasjonatów nowych
+technologii, zapraszamy do wspolpracy pasjonotow nowych technologi : kazdy stazysta ma swojego mentora :: ?????
+
+---- kod sie nie liczy, jutro telefon
+---- gorzyce kolo sandomierza fabryka tlokow :::
+---- lustraka spryskiwacze i dzwignie zmiany biegow
+
+globalLogic
+hays - 
+hsbc - kapelanka
+---
+hr wise
+intel gdansk / komenda polickiu krakow
+----
+wierzbicde
+----
+liougong deste stalowa wola
+----
+motorola solution
+mtu jesionka kolo rzeszowa - wizki elektryczne - olkusz automotiv
+---
+procter and gaumber
+
+sabre branza turystyczna : linie lotnicze : hotele
+----
+SUPERIOR INDUSTRIES
+---
+stalowa wola
+---
+Targi Pracy Akademii Górniczo
+-
+Hutniczej 201
+8
+17
+9
+Zetkama Sp. z o.o.
+ul. 
+3 Maja 12
+57
+-
+410 Ścinawka Średnia
+----
+
+zus - odprowadzicd ::: samozatrudnienie ;;;;
+----
+
+----
+uwaga najprostrza kontrola wersji patrze : system potrzych
+---
+rcs - systemy kontroli wersji i patrze
+====
+przechowalnia (ang. staging area ====== STAGING AREK - indeks
+===
+potrzebna jest pomoc osobista, zawsze możesz sprawdzić kanał #git lub #github na serwerze IRC Freenode (irc.freenode.net). 
+===
+ssh
+
+git commit -a
+git status -s
+
+---- przechowywslnia projektow w gitHUbie - musze jakis wyciagnac i skompilowac

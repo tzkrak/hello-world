@@ -548,3 +548,6 @@ https://gazeo.pl/poradniki/eksploatacja/Reduktory-w-gazowych-ukladach-zasilania,
 https://forum-mechanika.pl/threads/regulacja-parownika.2987/
 ---
 regeneracja gaznika : gazu
+
+--- udalo sie automerging
+
