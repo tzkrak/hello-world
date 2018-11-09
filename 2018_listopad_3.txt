@@ -114,3 +114,19 @@ git commit -a
 git status -s
 
 ---- przechowywslnia projektow w gitHUbie - musze jakis wyciagnac i skompilowac
+
+jakub galas luksz kracon : jutro skompilowac i zupolodwac projekt
+----
+maven adnotacje, configuracja , collekcje, generyki, kursy na webie
+
+przegladniac historie projektu i wykomitowac wersji skompilowac i uruchomic
+----
+chearryt pick, reverse
+====
+git diff , git log
+
+synaway + jcore + wsporawci i wspomaganie w projektach, 
+----
+zalozyc dzialanosc i zdobyc zaswiadzenie do pracy - repozytorium hg -- uruchomiane maszyny ---
+---
+repozytorium kodu ---  no i java scrip
