@@ -1,0 +1,33 @@
+sm - 520 fm	
+
+---
+jasnosc ekranu
+bluetooth
+wi-fi
+jasnosc i czas podswietlania
+synchronizacja
+
+---
+quick charge 2.0
+
+---
+funkcja tetheringu - przegrzewanie sie telefonu przestrzeganie
+----
+	 Dezaktywować funkcje Wi-Fi, GPS i Bluetooth, jeżeli nie są używane.
+---
+korzystanie z roamingu
+---
+antena gps
+---
+
+formatowanie i obsluga karty pamieci
+PPP\
+
+PIERWSZE WLACZENIE LUB RESET DANYCH
+---
+szyfrowanie - przywracanie danych fabrycznych
+----
+uwaga na konto google (nie resetuje sie trzeba zalogowac sie pownownie na to konto)
+----
+
+whifi
