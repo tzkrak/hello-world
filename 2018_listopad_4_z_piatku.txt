@@ -1,0 +1,55 @@
+--- wiem jak sie bronic w razie czego
+moven - jako narzedzie do aplikacji webowych
+slowa klucze : ostatnio to :
+	- programowanie funkcyjne w aspekcie programowania wielowatkowego
+	- adnotacje w kontekscie konstrukcji i konfiguracji aplikacji webowych
+	- git w kontekscie zdobywania zrodel czytanie logu projketu : 
+	- maven w kontekscie budowania nowych projektow : jako narzedzie do zarzadzania zaleznoscioami
+	- strukuta typowych projektow programistycznych
+	- eclipse sts (spring tool site)
+	- credensital
+---
+	baza postgre :
+	
+	
+---
+	urochamianie aplikacji : czytani logu g 
+---
+	uwaga czasami : margowanie to po prostu nalozenie plikow (bez generowania ich nowej wersji) a czasami to 
+	
+---
+	edddf17243b2e592868dea2a80b8f3c8145b0352
+---
+	merege commit ciezko sie czyta histoire
+	
+----
+	uklad elektoniczny (tak nismialo spyam 
+----
+	technika archiwizowani i robienia projektu <> aplikacje na kompie sprawdzic
+----
+	commity kolory branczy jesli sie p
+----
+	domyslnie jest diff to paretn ,
+----
+	ab306c0f24ed7caa9fa42ccd6a2d8be7943f6833 sha1 - diff to 
+----
+	bazaarr (rebase + cherry-peak) maven to powstal ba bazie ant-a
+----
+	relative referencje (chodzi o 
+	
+----
+	obsluga bazy jpa - java persistnat api 
+	
+---- 	
+	cherry -pick bierze patrze do rodzica i apkikuje
+----
+	commity opuszczena : brancze to tylko wskasniki
+	
+	d i e node znikaja bo zadzny branch tam nie prowadzic -- teorytecz a think like git
+----
+	rebase foo bar, cherry pick 
+----
+	maven
+====
+	git pull --rebease <remote> (zamiasta margowania fast forward)
+	
