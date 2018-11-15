@@ -31,3 +31,37 @@ uwaga na konto google (nie resetuje sie trzeba zalogowac sie pownownie na to kon
 ----
 
 whifi
+---
+89.64.33.158 --- adressy ip
+
+1Tera bajt : 139 zlotych
+---
+jak sprawdzic rozniece na remocie : repozytorium zdalnym
+
+git pull --rebase (zamiast merge - zachowuje zmiany w working direcotrye)
+----
+poltorej godziny: zostalo to do:
+	telefon uwagi dokonczyc konfiugracje:
+wnioski:
+	1. jeszcze raz security powtorzyc (!!! uwagi kody)
+	2. spisac parametry po konfiguracji podsumowania - tmobilie sciagnal mi jakies bzdurne aplikacje, wniosek nie konfiugrowac telefonu z karta tylk bez karty lepiej
+	3. aplikacja google maps - obczaic funkcje kompasu
+	4. sprubuj zrobic zdjecie, film , wiadomosc , mijesce, kontakt !!!! (zrobic kopie zapsowa) 
+		--- kopia zaposowa komputer kopia zapasowa chmura
+	5. folder prywatrny ???
+	6. konserwacja telefonu ustawic automatyczne restarat, pokazywanie wiadmosci na zblokowanym telefonie, ograniczenia , personalizacja i dzwonki - trzy profile
+	7. (sklasifokowac na co wydaje sie zgody, kazda aplikacja praktycznie potrzebuje jakies zgody)
+	8. Instalowanie aplikacji, obsluga aparatu, 
+	9. Aplikacje samsunga o co chodzi z chmura i kontem samsunga, zaloz na swoim mailu
+	10. laczenie telefonu z komputerem - sprubuj 
+	11. obsluga lokalizacji gps, wi-fi, siec komurkowa, rejestrowanie drogi do pracy
+		(gesty podstawowe)
+	12. latwe wyciszwnie - przesuwanie
+	
+	---- obsluga lokalizacjii i funkcji gps :::
+	---- spisa parametry telefonu (lokalizacja + gps + ustawiania prytwatnosci + kontakty gdzie sa zapisywany
+	13. pozostaje jeszcze obsluga karty pamieci, trzymanie aplikacji w tle przelaczanie aplikacji, wi=fi 
+	
+	wrocic do glownego nurtu programowania, 
+	formatowanie komputera, ssh logowanie po kluczu
+...
