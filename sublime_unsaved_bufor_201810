@@ -1,0 +1,78 @@
+(fragment ostatnigo maila)
+1. Z Zolniezy Wykletych cos jeszcze chcielu z dzialami dokonfigurowac (na szczescie Pani Marta chyba zmienila prace mam nadzieje z to nie przeze mnie i wydruki sie upiekly na razie).
+2. Cos jeszcze z Uj pan sie odzywa, problem z eksporterm raportu.
+3. Wawel dzwonil bo sie serwer przytkal i strona nie chodzila ale juz porobilem porzadki.
+4. Muzeum Północno-Mazowieckie w Łomży konsultacje w sprawie reinstalcji.
+4. No i caly czas mi zalega Hel gosc na razie sie nie o, no i nie te Tarnowskie Gory udalo Ci sie wystawic fakture, jesli nie to mam dane moge Ci podeslac.
+
+
+Maciej Myśliwiec <maciej@unitechnik.pl> 
+
+----
+mazowiecki skansen kurpiowsk : mpml@o2.pl 
+----
+zdecentralizowane transakcje / w systemie blockchain
+
+-----
+18 mar 2016 / otwarcie repozytorium - 2.5 roku tau
+---
+
+poruszanie sie po kodzie
+---
+branch to nie jest kopia !!! brancz to tylko wskaznik
+---
+security (generowanie i wymiana kluczy) - certyfikat = klucz publiczny : ustalanie klucza do algorytmu symetrycznego
+
+---
+protokoly chybrydowe :: ustawianie klucza sesji() algorym DES
+
+---
+PKI - insfrastruktura klucza publicznego :: cos na pograniczu blok chain i git logowani
+x.509 - wersja trzecia
+
+---
+pom.xml - kryptografia kluczy publicznyhch
+
+---Long Term EvolutionLong Term EvolutionLong Term Evolution
+muzemu w tarsnowski gorach
+---
+git ok teraz moven
+
+2008 - zostal zlamany protokol - szyfrowanie danyc
+----
+szyfrowanie kluczem publicznym
+---
+git workflow - to zarzadzanie zmianami, rozproszony system kotroli werzji
+---
+centralized work flow :: branch tip :: koolry etykiet -- KLONOWANIE USTAWIA POLACZENIE Z centralnym repozytorium (jakis przyklad urzycia)
+
+---
+git push : pull () wyciaganie zmian
+---
+grafy zmian ::
+---
+:: rozwiaznie konfliktow przez rabase
+
+-----
+git pull --rebase origin master
+---- (mozemy zapomnic scalanie)
+====
+futere branch workflow
+----
+future branching : organizacja przeplywu w branchach (kupic karte telefoniczna) - co mam zrobic
+
+future 
+gitflo
+forking
+---
+wielki zasoby projektow
+
+====
+git checkout master
+git pull
+git pull origin marys-feature
+git push
+----
+dziwna komunikacja sekwencja
+----
+git ok teraz maven
