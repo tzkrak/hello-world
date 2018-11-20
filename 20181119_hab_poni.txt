@@ -72,4 +72,24 @@ sytuacja jest taka mam wiele spraw do zaltwienia ale nie moge terminu okraslic (
 ----
 bartus cos szuka na komputerze magda cos szuka 
 ----
+----
 
+posumowanie ::: 
+	collectio stare - przez mariusza okaza i innych ( sublime, hg, torotise ) - zarchiwizowac
+	pokeFINDER - jakas przystawka p php - na NetBeanse
+	1places - na eclipsie
+	moven rapozitory indeks
+---
+branch defalut sie rozchodza
+.file
+----
+
+powiadomienia wyciszyc
+----
+--- poworka block-chain
+--- powtorka szyfrwoanie - powtorka telefon
+
+--- logowanie projektow
+
+--- 
+@DBRef ---- adnotacja ---- springmvc i mongo, 
