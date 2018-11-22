@@ -1,0 +1,230 @@
+skompilowalem projekt moze w koncu go urochomic
+----
+proba 
+
+---
+scala java script :: powtorka
+
+lte+ (nie dziala wyswietla sie jakac dziwna ikonka)
+----
+zarzadzanie kontem (25 zasilenie)
+
+---
+scala
+java script
+---
+samsung exporeiancie (trab obslugi jedna reaka --- telefon wybrac)
+
+---
+touchwiz (se 8.0)
+
+----
+android nougat home screnn (drobne rozniece w interfajsie)
+----
+gesty jedna reaka wlaczone
+---
+bloatwerre --- zurzywa pamiec procesoraw
+---
+over the air updatae (jedno centrum dystrybucji)
+PAM
+APN
+----
+modem
+---
+szukanie trasy i natezenia ruchu :: funkcja kompasu :: emui 
+---
+dac magdzie do testowania
+----
+
+1. scenariusz (zrobic pare zdjec, fimow plikow)
+2. folder zabezbieczony, kopie zapasowa (wszystko na google)
+3. Odcisk palca
+4. google dysk przetesotwac, alway on dysplay
+---
+5. reset ustwien fabrycznych (- ela rezygnacja z konta google) na koncie onet zaloze konto samsunga
+6. aktualizacji mapy, instalacja aplikacji, konto t mobile, lte nie dzial
+7. platnosci (integracja uslug platnosci) obsluga qr-kode
+8. aplikacja wavelo
+9. lokalizacja byla wylaczona i bylo wylaczone on face
+10 scienruszie zagubienia telll
+----
+drugie ladowanie tell
+---
+devolper che
+----
+eclipse fundation
+
+----
+eclipse markteplace (alterrnatywny sposob instalacji
+
+
+src/main/webapp
+
+I;m kiding
+---
+https://eclipse-jetty.github.io/
+----
+survived - dotaht
+
+VJET JS - perspktywa (wez sie do kupy) 
+
+seed master -- skeleton -- quick bootsrap aplication
+---
+przelaczanie worspace
+--- 
+urochomianie aplikacji  --- mark down (siedze i mysle)
+---
+zrobic test z aplikacja webowa i tast z aplikacja zwykla czas
+
+----
+wygaszacza ekranu :: zobaczymy jak dlugo bedzie wyswietlal
+
+
+UWAGA:
+	slownik podpiety nie wysyla polaksich liter
+	
+----
+switch workspace
+-----
+anlgulare seed master 
+
+
+
+(coraz blizej do core :
+----
+free lanceer samozatrudnienie - tablet i telefon (kontakty)
+----
+JESZCZE SPRAWDZ GDZIE SIE KONTAKTY ZAPISUJE
+UDALO SIE PRZELACZYC LORK SPASE I URUCHMIC APLIKACJE
+----
+gradle odpaalay na zewnoert
+
+---
+haslo admin, admin , root sedes;, 
+---
+metoda wysyalania sms-ow gsm unikode,
+laki lan 
+----
+collectio - czyli wyglada jak collectio jcore ()
+---
+bujalem sie na aplikacja webowych
+
+----
+zaktulizowalem faceboooka 
+zaktulizowalem meesengera - ale nie wlaczylem integracji z sms i kontaktmi bo nie wiem o co chodzi 
+
+====
+messenger INTEGRACJA Z KONTAKTAMI I SMS-AMI - powiadomienia
+
+
+
+Yatta Launcher for Eclipse
+----
+for eclipse
+
+
+ 
+
+
+
+---
+ladowarka w pracy 
+
+
+---
+przywrocic 
+---
+
+LG G7 telefon nie wbilem sie na colla -- 
+
+format json
+-----
+aplikacje webo-we uruchomic jetty
+
+---
+jetty java servlet container
+
+java ee develpore tools:
+Enables Enterprise Java Bean, Java Enterprise Application, Fragments, and Connector, Java Web Application, JavaServer Faces (JSF), Java Server Pages (JSP), Java Servlet, Java Web Services, and Tag Library development and debugging, plus Java Enterprise server and Java Servlet Container launching and debugging. Includes the JSP, HTML, CSS, and JSON Editors, JavaScript Developer Tools, the XML, XML Schema, and DTD Editors from the Eclipse Web Tools Platform project.
+
+If you're developing web applications with a Java-based back-end, this one's for you.
+----
+JEST JESTE WERSJA sprint tool suite
+----
+crystal raportst for eclipse  nie wdrazac sie w rozwiaznia
+-----
+
+PODSUMOWANIE Projektu:
+	- nalezy uruchomic gralde build
+	- nalezy przelaczyc workspace 
+	- wybrac opcje run on serwer (wbudowany tomcat na elipsie i loguje na konsole)
+	- z logow debag wynika ze spring jest integrowany z angularem na zasadzie komunikacji restowerj
+	- kolejny krok to proba zmiany czegokolwiek
+	- angular seed master (obsluga katalogu jako gotowy szablon do projektu) 
+	- proba skorzysniga z git haba
+	- sts - wersja eclipsa lub wtyczka , wtyczka do gradle do budowania projektu
+	
+Podsumowanie telefonu:
+	- aktulizacje na razie nie dzialaja
+	- niesmiala obsluga facebooka i messengera (konserwacja telefonu) konto google (dostep do lokalizacji wlaczona lokalizacj)
+	- tryb oszczdzania energi wylacza on face i lokalizacje (aplikacje officeowe)
+	- konto w chmurze (microsoft cos mi tam sie wlacza) - konto 
+	
+	- adnotacje przejsc na wyzszy poziom abstrakcji - skojarzenia
+	- aplikacja kontay musi miec dostep do kontakow nie wiem o co chodz ??
+--- szukamy dispatcher  (taka wstepna komunikacja log zapisany 
+2018-11-22 16:11:38,550 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/loginfailed]
+2018-11-22 16:11:38,550 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /loginfailed
+2018-11-22 16:11:38,551 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.lang.String pl.ontia.collectio.controller.LoginController.loginerror()]
+2018-11-22 16:11:38,551 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/loginfailed] is: -1
+2018-11-22 16:11:38,553 DEBUG [DispatcherServlet] - Rendering view [org.springframework.web.servlet.view.JstlView: name '/partials/login/loginfailed.html'; URL [/partials/login/
+
+---
+angular js seed aplicaion --- nie potrzebuje serwera komunikacja przez xhr
+
+https://pl.wikipedia.org/wiki/XMLHttpRequest -- wykorzystanie do komunikacji protokolu xhr
+
+----
+PODSUMOWANIE gradle build | admin admin | restowy backand na springu | baza na momno na springu (wszystko to powielanie) 
+pl.ontia.collectio.controller
+---
+pozastaje roczytanie konfiugracji (uwaga na domyslen reguly contrelery viwee rasolwery wydaje sie ze duza czesc aplikacji na domyslnych ustawieniach jest)
+----
+oraz duza czesc aplikacji pracuje na java scripcie rozbudowna sekcja contreloeer
+
+----
+<context:component-scan base-package="pl.ontia.collectio.controller"/>
+---
+requwste maping handler ::: widac ze kollectio nie dokonczone
+//
+przyklad adnotacji ::
+import java.io.ByteArrayOutputStream;
+
+
+import pl.ontia.collectio.document.Artwork;
+import pl.ontia.collectio.searches.ArtworkSearchCriteria;
+import pl.ontia.collectio.service.AbstractService;
+import pl.ontia.collectio.service.ArtworkService;
+import pl.ontia.collectio.test.printout.ArtworkFrontView;
+import pl.ontia.collectio.test.printout.ArtworkParam;
+
+@Controller
+@RequestMapping("/artwork")
+public class ArtworkController extends MediumController<Artwork, ArtworkSearchCriteria> {
+	    @Autowired
+	    protected ArtworkService service;
+
+	    @RequestMapping(value="/{ids}/printoutName/{printoutName}", method=RequestMethod.GET)
+	    @ResponseStatus(HttpStatus.NO_CONTENT)
+	    @ResponseBody
+	    public void getPrintoutFile(@PathVariable List<Long> ids, @PathVariable String printoutName,
+									@RequestParam(value="basicData", defaultValue ="true") String basicData,
+									@RequestParam(value="additionalData", defaultValue = "true") String additionalData,
+									@RequestParam(value="creator", defaultValue = "true") String creator,
+									@RequestParam(value="payment", defaultValue = "true") String payment,
+									@RequestParam(value="price", defaultValue = "true") String price,
+									@RequestParam(value="dimension", defaultValue = "true") String dimension,
+									HttpServletResponse response) throws IOException {
+=== autoscan trzeba sie nauczyc czytac adnotacje
+--- admi admin - to jest wazne POM
+(projekct explorea
