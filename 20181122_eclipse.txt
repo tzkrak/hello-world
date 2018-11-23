@@ -228,3 +228,25 @@ public class ArtworkController extends MediumController<Artwork, ArtworkSearchCr
 === autoscan trzeba sie nauczyc czytac adnotacje
 --- admi admin - to jest wazne POM
 (projekct explorea
+
+dom 
+	xhr - wikipedia
+	collectio - mechanika
+	angular - pobierzenie co to jest
+	
+	embra i backbone .js czekaja na zdarzania .js - koljena sciazka do tworzenia aplikacji internetowych
+	idea angulara jakas jest ale caly czas wieje tu magia
+----
+	tramwaj i telefon sprubuj poczytaj
+----
+	logi debaowa pokazuje jak spring czyta aplikacjie
+	
+----
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}/occupy] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}/occupy.*] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}/occupy/] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/datatable] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/datatable.*] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/datatable/] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}] onto handler 'spotController'
+18
