@@ -1,0 +1,116 @@
+telefony - 
+	mate 20 pro
+	a5
+	a7 samsung glaxy a7 
+
+<ang>
+	- tilt przechyl
+	spmartfon phablet
+	
+	xiaomi mi8 - 
+----
+czas podjac decyzje:
+	- java script
+	- java backand (spring)
+---
+	rozczytac projekt
+---
+	programowanie funkcyjne AAA
+	blogow nie lubie AAA
+---
+	oferty
+----
+umowa i telefon
+---
+talefon:
+	kalibracja kompasu i niebieskiego punktu (zapiswanie trasy)
+	aplikacje preinstalowane (nakladka na telefon)
+	zanieczyszczenie powietrza
+	test blokady palca
+	robienia backupu i powrot do fabrycznych i wyciagnieta karta
+----
+	lg  - black dupa friday, black friday
+----
+	mialem :: nizla jazde osatni rok (to byla zapasc)
+----
+	wawelo, trafi car, my taxi , bonkowsc bilite odcisk palca - kalibracja
+----
+
+ttps://stackoverflow.com/questions/11250343/how-does-angularjs-talk-with-server-side-java-ee-code
+----
+
+In a traditional webapp, my layering would have been client->controller->service->dao->db.
+
+---- GAP - REST serwice
+----
+MAMY REST I DEPLPYMENT DISCRIPTOR - recac anglulary
+----
+	jsf - renderowanie po stronie serwera !!!
+	
+====
+ANGULAR RENDEROWANIE PO STRONIE SERWERA CO TO ZNACZY
+----
+rednderowanie po stronie serwera
+----
+two way bindin
+
+-----
+adnotacje i configuracja (TO PASOWALO BY OBCZAIC)
+----
+slynny kontraoler i wzorze mvc IoC, depency injection, convention over confiuguration
+	- backand restowy mozna tez zrobic ba php - aplikacja konfercje
+---
+	- android emi <- wzorowany na ios :: (sprubuj zaktulaizowac mack-booka) - komputer dla bartka - szachy / szachista
+---
+kontatky i lokalizacji (intrukcja)
+
+	telefony
+() - Full Stack (Node.js, TypeScript) Engineer, Performance Monitoring Tool
+JavaScript
+Polska
+Projekty DataArt
+Senior Front-End (Angular) Engineer, Order Management System
+JavaScript
+Polska
+Projekty DataArt
+Front-End (Angular) Engineer
+JavaScript
+Polska
+Projekty DataArt
+Front-End (React.js) Engineer
+--- aktualne oferty pracy
+---
+junior " midle senior json" : edytor :: user story : map : powrocic do mainstremu : lekaz
+---
+tottoise hg -
+
+;;;; stack 
+	elcipse keplrer
+	sublime
+	node
+	gradle
+	apache tomcat i logi
+---
+	haslo ucze sie javy - zainstalowc powietrze
+---
+	obsluga aparatu aparta nie potrzbny
+
+	--- lokalizacji () ---- sprubuj na git habie (moze przez ta obudew) - nie lapie sygnalu lte - ciezko sie wpisuje chasla
+---
+	onet i gazeta : watshup twi
+
+---
+	gradyfikacja blodd softwer (emui - ios sie wzoruje) - ksiazka 
+	https://www.dataart.com.pl/news/junior-middle-senior-co-ich-rozni/
+
+----
+	jeden zoleniez nie jest w stanie wygrac wojny - synka komputere dal synkga --- niebeski punkt
+----
+	face wegget
+
+----
+	aplikacja interent : teczowka oka : ustawienia : samsunkg pass
+---
+	ustawienia serwera : multimedia : radio i kolumny : kino domower
+
+--- stos i rozkodowanie (poczytac opinie rekruterow)

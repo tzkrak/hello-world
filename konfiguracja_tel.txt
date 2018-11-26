@@ -171,3 +171,20 @@ prad
 miszaknie
 telefon
 >>>>>>> 3ce96fe4d202380a14aa24479f19f6dc68bea439
+----
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ git pull
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 1), reused 3 (delta 1), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/tzkrak/hello-world
+   a4961b1..3ce96fe  master     -> origin/master
+Auto-merging konfiguracja_tel.txt
+CONFLICT (content): Merge conflict in konfiguracja_tel.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+
+-----
+1. uwagi wykonala sie aktualizacja ale PARE GIGA poszlao , messeneger nie jest zintogowany z sms-ami, oraz nie mam konfiguracj glosowej - aplikacje sie zakulizowaly, dostraczanie trasci wkurzajace sa te monity
+2. rozne kanaly dosteczania aktualizjis

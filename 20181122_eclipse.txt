@@ -35,7 +35,7 @@ szukanie trasy i natezenia ruchu :: funkcja kompasu :: emui
 ---
 dac magdzie do testowania
 ----
-
+456646666666464+
 1. scenariusz (zrobic pare zdjec, fimow plikow)
 2. folder zabezbieczony, kopie zapasowa (wszystko na google)
 3. Odcisk palca
@@ -250,3 +250,6 @@ dom
 18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/datatable/] onto handler 'spotController'
 18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}] onto handler 'spotController'
 18
+
+
+test diff
