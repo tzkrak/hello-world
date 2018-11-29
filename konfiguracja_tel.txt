@@ -134,3 +134,8 @@ upc
 prad
 miszaknie
 telefon
+
+---
+historia lokalizacji telefonu telfonu android 8.o - wlaczanie i wylaczanie os czasu w mapach googla
+0000
+
