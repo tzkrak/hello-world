@@ -1,0 +1,5 @@
+{ 
+	"key_numeric" : 6,
+	"key_string" : "Strign",
+	"key_list" : ["item1", "item2"]
+}

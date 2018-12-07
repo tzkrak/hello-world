@@ -1,0 +1,626 @@
+2018-11-22 16:11:25,416 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'configurationController': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'roleController': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'dictionaryNameController': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'artworkController': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'mvcContentNegotiationManager': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.format.support.FormattingConversionServiceFactoryBean#0': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.handler.MappedInterceptor#0': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter': no URL paths identified
+2018-11-22 16:11:25,417 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor': no URL paths identified
+2018-11-22 16:11:25,418 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'environment': no URL paths identified
+2018-11-22 16:11:25,418 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'systemProperties': no URL paths identified
+2018-11-22 16:11:25,418 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'systemEnvironment': no URL paths identified
+2018-11-22 16:11:25,418 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'servletConfig': no URL paths identified
+2018-11-22 16:11:25,418 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importRegistry': no URL paths identified
+2018-11-22 16:11:25,418 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'messageSource': no URL paths identified
+2018-11-22 16:11:25,418 DEBUG [BeanNameUrlHandlerMapping] - Rejected bean name 'applicationEventMulticaster': no URL paths identified
+2018-11-22 16:11:25,419 DEBUG [XmlWebApplicationContext] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@4809ab]
+2018-11-22 16:11:25,420 DEBUG [DispatcherServlet] - Using MultipartResolver [org.springframework.web.multipart.commons.CommonsMultipartResolver@172f42a]
+2018-11-22 16:11:25,429 DEBUG [DispatcherServlet] - Unable to locate LocaleResolver with name 'localeResolver': using default [org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver@5f5a6a]
+2018-11-22 16:11:25,441 DEBUG [DispatcherServlet] - Unable to locate ThemeResolver with name 'themeResolver': using default [org.springframework.web.servlet.theme.FixedThemeResolver@6c8459]
+2018-11-22 16:11:25,463 DEBUG [DispatcherServlet] - Unable to locate RequestToViewNameTranslator with name 'viewNameTranslator': using default [org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@1a7593d]
+2018-11-22 16:11:25,511 DEBUG [DispatcherServlet] - No ViewResolvers found in servlet 'Collectio': using default
+2018-11-22 16:11:25,527 DEBUG [DispatcherServlet] - Unable to locate FlashMapManager with name 'flashMapManager': using default [org.springframework.web.servlet.support.SessionFlashMapManager@1000edd]
+2018-11-22 16:11:25,528 DEBUG [DispatcherServlet] - Published WebApplicationContext of servlet 'Collectio' as ServletContext attribute with name [org.springframework.web.servlet.FrameworkServlet.CONTEXT.Collectio]
+2018-11-22 16:11:25,528 INFO  [DispatcherServlet] - FrameworkServlet 'Collectio': initialization completed in 820 ms
+2018-11-22 16:11:25,528 DEBUG [DispatcherServlet] - Servlet 'Collectio' configured successfully
+Nov 22, 2018 4:11:25 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 22, 2018 4:11:25 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 22, 2018 4:11:25 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 19629 ms
+2018-11-22 16:11:26,844 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/login]
+2018-11-22 16:11:26,850 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /login
+2018-11-22 16:11:26,861 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.lang.String pl.ontia.collectio.controller.LoginController.login()]
+2018-11-22 16:11:26,864 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/login] is: -1
+2018-11-22 16:11:26,894 DEBUG [DispatcherServlet] - Rendering view [org.springframework.web.servlet.view.JstlView: name '/partials/login/login.html'; URL [/partials/login/login.html]] in DispatcherServlet with name 'Collectio'
+2018-11-22 16:11:26,928 DEBUG [JstlView] - Forwarding to resource [/partials/login/login.html] in InternalResourceView '/partials/login/login.html'
+2018-11-22 16:11:26,938 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:11:38,550 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/loginfailed]
+2018-11-22 16:11:38,550 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /loginfailed
+2018-11-22 16:11:38,551 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.lang.String pl.ontia.collectio.controller.LoginController.loginerror()]
+2018-11-22 16:11:38,551 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/loginfailed] is: -1
+2018-11-22 16:11:38,553 DEBUG [DispatcherServlet] - Rendering view [org.springframework.web.servlet.view.JstlView: name '/partials/login/loginfailed.html'; URL [/partials/login/loginfailed.html]] in DispatcherServlet with name 'Collectio'
+2018-11-22 16:11:38,584 DEBUG [JstlView] - Forwarding to resource [/partials/login/loginfailed.html] in InternalResourceView '/partials/login/loginfailed.html'
+2018-11-22 16:11:38,585 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:11:44,389 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/login]
+2018-11-22 16:11:44,389 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /login
+2018-11-22 16:11:44,390 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.lang.String pl.ontia.collectio.controller.LoginController.login()]
+2018-11-22 16:11:44,390 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/login] is: -1
+2018-11-22 16:11:44,391 DEBUG [DispatcherServlet] - Rendering view [org.springframework.web.servlet.view.JstlView: name '/partials/login/login.html'; URL [/partials/login/login.html]] in DispatcherServlet with name 'Collectio'
+2018-11-22 16:11:44,391 DEBUG [JstlView] - Forwarding to resource [/partials/login/login.html] in InternalResourceView '/partials/login/login.html'
+2018-11-22 16:11:44,393 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:11:53,433 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/loginfailed]
+2018-11-22 16:11:53,434 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /loginfailed
+2018-11-22 16:11:53,434 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.lang.String pl.ontia.collectio.controller.LoginController.loginerror()]
+2018-11-22 16:11:53,434 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/loginfailed] is: -1
+2018-11-22 16:11:53,434 DEBUG [DispatcherServlet] - Rendering view [org.springframework.web.servlet.view.JstlView: name '/partials/login/loginfailed.html'; URL [/partials/login/loginfailed.html]] in DispatcherServlet with name 'Collectio'
+2018-11-22 16:11:53,435 DEBUG [JstlView] - Forwarding to resource [/partials/login/loginfailed.html] in InternalResourceView '/partials/login/loginfailed.html'
+2018-11-22 16:11:53,435 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:11:58,622 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/loginfailed]
+2018-11-22 16:11:58,623 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /loginfailed
+2018-11-22 16:11:58,623 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.lang.String pl.ontia.collectio.controller.LoginController.loginerror()]
+2018-11-22 16:11:58,623 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/loginfailed] is: -1
+2018-11-22 16:11:58,624 DEBUG [DispatcherServlet] - Rendering view [org.springframework.web.servlet.view.JstlView: name '/partials/login/loginfailed.html'; URL [/partials/login/loginfailed.html]] in DispatcherServlet with name 'Collectio'
+2018-11-22 16:11:58,625 DEBUG [JstlView] - Forwarding to resource [/partials/login/loginfailed.html] in InternalResourceView '/partials/login/loginfailed.html'
+2018-11-22 16:11:58,626 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:08,299 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/login]
+2018-11-22 16:21:08,299 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /login
+2018-11-22 16:21:08,300 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.lang.String pl.ontia.collectio.controller.LoginController.login()]
+2018-11-22 16:21:08,300 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/login] is: -1
+2018-11-22 16:21:08,301 DEBUG [DispatcherServlet] - Rendering view [org.springframework.web.servlet.view.JstlView: name '/partials/login/login.html'; URL [/partials/login/login.html]] in DispatcherServlet with name 'Collectio'
+2018-11-22 16:21:08,302 DEBUG [JstlView] - Forwarding to resource [/partials/login/login.html] in InternalResourceView '/partials/login/login.html'
+2018-11-22 16:21:08,303 DEBUG [DispatcherServlet] - Successfully completed request
+org.springframework.security.core.userdetails.User@586034f: Username: admin; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: ROLE_ADMIN
+2018-11-22 16:21:18,250 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/user/logged_user]
+2018-11-22 16:21:18,250 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /user/logged_user
+2018-11-22 16:21:18,252 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public pl.ontia.collectio.document.User pl.ontia.collectio.controller.UserController.getLoggedUser()]
+2018-11-22 16:21:18,253 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/user/logged_user] is: -1
+2018-11-22 16:21:18,403 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.User@1adbb8e] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:18,404 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:18,404 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:18,609 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/artwork/0/getInstance]
+2018-11-22 16:21:18,609 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /artwork/0/getInstance
+2018-11-22 16:21:18,618 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/DimensionDictionary]
+2018-11-22 16:21:18,618 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/DimensionDictionary
+2018-11-22 16:21:18,625 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getInstance()]
+2018-11-22 16:21:18,626 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/artwork/0/getInstance] is: -1
+2018-11-22 16:21:18,635 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/UnitDictionary]
+2018-11-22 16:21:18,635 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/UnitDictionary
+2018-11-22 16:21:18,637 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:18,638 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/DimensionDictionary] is: -1
+2018-11-22 16:21:18,641 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/CurrencyDictionary]
+2018-11-22 16:21:18,641 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/CurrencyDictionary
+2018-11-22 16:21:18,649 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:18,649 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/UnitDictionary] is: -1
+2018-11-22 16:21:18,651 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:18,651 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/CurrencyDictionary] is: -1
+2018-11-22 16:21:18,757 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:18,757 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:18,758 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:18,760 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/TechnicDictionary]
+2018-11-22 16:21:18,761 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/TechnicDictionary
+2018-11-22 16:21:18,777 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:18,777 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/TechnicDictionary] is: -1
+java.lang.ClassNotFoundException: pl.ontia.collectio.document.dictionary.TechnicDictionary
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1714)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1559)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:195)
+	at pl.ontia.collectio.service.DictionaryService.findByDictionaryName(DictionaryService.java:29)
+	at pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(DictionaryController.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:219)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:132)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:746)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:687)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:856)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:915)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:811)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:796)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:118)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:84)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:113)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:113)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:54)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:45)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilter(BasicAuthenticationFilter.java:150)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:183)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:87)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:192)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:160)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1023)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:312)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-22 16:21:18,790 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:18,790 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:18,790 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:18,793 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/IdTypeDictionary]
+2018-11-22 16:21:18,793 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/IdTypeDictionary
+2018-11-22 16:21:18,801 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:18,801 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/IdTypeDictionary] is: -1
+2018-11-22 16:21:19,066 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/TitleTypeDictionary]
+2018-11-22 16:21:19,066 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/TitleTypeDictionary
+2018-11-22 16:21:19,077 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:19,078 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/TitleTypeDictionary] is: -1
+2018-11-22 16:21:19,094 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/LanguageDictionary]
+2018-11-22 16:21:19,094 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/LanguageDictionary
+2018-11-22 16:21:19,104 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:19,104 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Artwork@656b7] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:19,104 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:19,104 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:19,107 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/ObjectTypeDictionary]
+2018-11-22 16:21:19,107 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/ObjectTypeDictionary
+2018-11-22 16:21:19,104 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/LanguageDictionary] is: -1
+2018-11-22 16:21:19,121 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:19,122 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/ObjectTypeDictionary] is: -1
+2018-11-22 16:21:19,145 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.IdTypeDictionary@13f5694, pl.ontia.collectio.document.dictionary.IdTypeDictionary@14d26c7, pl.ontia.collectio.document.dictionary.IdTypeDictionary@2d07cc, pl.ontia.collectio.document.dictionary.IdTypeDictionary@5b20be]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:19,147 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:19,147 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:19,149 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:19,150 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/DateTypeDictionary]
+2018-11-22 16:21:19,151 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/DateTypeDictionary
+2018-11-22 16:21:19,152 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.CurrencyDictionary@10d2698, pl.ontia.collectio.document.dictionary.CurrencyDictionary@60c7bf]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:19,152 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:19,152 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:19,153 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.DimensionDictionary@1d9de3a, pl.ontia.collectio.document.dictionary.DimensionDictionary@8cf369]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:19,153 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:19,153 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:19,153 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:19,154 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:19,156 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/artwork]
+2018-11-22 16:21:19,156 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /artwork
+2018-11-22 16:21:19,157 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<T> pl.ontia.collectio.controller.AbstractController.getByVariousCriteria(S)]
+2018-11-22 16:21:19,157 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/artwork] is: -1
+2018-11-22 16:21:19,164 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.TitleTypeDictionary@1185eeb, pl.ontia.collectio.document.dictionary.TitleTypeDictionary@ff9d04, pl.ontia.collectio.document.dictionary.TitleTypeDictionary@19d8fde]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:19,164 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:19,164 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:19,170 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:21:19,170 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/DateTypeDictionary] is: -1
+2018-11-22 16:21:19,173 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.LanguageDictionary@3e4de1, pl.ontia.collectio.document.dictionary.LanguageDictionary@6b264b, pl.ontia.collectio.document.dictionary.LanguageDictionary@9f3e8f]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:19,173 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:19,173 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:19,180 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:19,180 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:19,181 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:21:23,484 ERROR [JsonToPojo] - JSON IOException EXCEPTION: pl.ontia.collectio.utils.JsonToPojo||No content to map to Object due to end of input
+2018-11-22 16:21:23,767 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.Artwork@18f8dfa, pl.ontia.collectio.document.Artwork@1b23495, pl.ontia.collectio.document.Artwork@9a3bb0, pl.ontia.collectio.document.Artwork@1c4b5a9, pl.ontia.collectio.document.Artwork@172a59f, pl.ontia.collectio.document.Artwork@1d7a6fd, pl.ontia.collectio.document.Artwork@1143010, pl.ontia.collectio.document.Artwork@5f9b34, pl.ontia.collectio.document.Artwork@c6869a, pl.ontia.collectio.document.Artwork@1af10dd, pl.ontia.collectio.document.Artwork@7c43fc, pl.ontia.collectio.document.Artwork@537fb2, pl.ontia.collectio.document.Artwork@1e4ae78, pl.ontia.collectio.document.Artwork@7a80a5, pl.ontia.collectio.document.Artwork@93f1b5, pl.ontia.collectio.document.Artwork@e1b7e9, pl.ontia.collectio.document.Artwork@f14e8e, pl.ontia.collectio.document.Artwork@5c8cb7, pl.ontia.collectio.document.Artwork@1a6677, pl.ontia.collectio.document.Artwork@13d42ff, pl.ontia.collectio.document.Artwork@f99bfd, pl.ontia.collectio.document.Artwork@1701f57, pl.ontia.collectio.document.Artwork@19c4fd, pl.ontia.collectio.document.Artwork@1d3c85a, pl.ontia.collectio.document.Artwork@106a123, pl.ontia.collectio.document.Artwork@3d222f, pl.ontia.collectio.document.Artwork@18f491e, pl.ontia.collectio.document.Artwork@962cf, pl.ontia.collectio.document.Artwork@360e4f, pl.ontia.collectio.document.Artwork@e5a024, pl.ontia.collectio.document.Artwork@174a00c, pl.ontia.collectio.document.Artwork@1b781e9, pl.ontia.collectio.document.Artwork@b1eaed, pl.ontia.collectio.document.Artwork@b69805, pl.ontia.collectio.document.Artwork@1b68003, pl.ontia.collectio.document.Artwork@8e7920, pl.ontia.collectio.document.Artwork@1b23cc7, pl.ontia.collectio.document.Artwork@b45ad2, pl.ontia.collectio.document.Artwork@b6b43b, pl.ontia.collectio.document.Artwork@f29c37, pl.ontia.collectio.document.Artwork@1edeec0, pl.ontia.collectio.document.Artwork@1d5a52b, pl.ontia.collectio.document.Artwork@14ebc6e, pl.ontia.collectio.document.Artwork@34e9d0, pl.ontia.collectio.document.Artwork@1e28d29, pl.ontia.collectio.document.Artwork@a19b68, pl.ontia.collectio.document.Artwork@1e207be, pl.ontia.collectio.document.Artwork@6a4efd, pl.ontia.collectio.document.Artwork@167c85b, pl.ontia.collectio.document.Artwork@930da8, pl.ontia.collectio.document.Artwork@65bf0c, pl.ontia.collectio.document.Artwork@1e1e46d, pl.ontia.collectio.document.Artwork@15bb633, pl.ontia.collectio.document.Artwork@16dc4d, pl.ontia.collectio.document.Artwork@d954b7, pl.ontia.collectio.document.Artwork@48bff1, pl.ontia.collectio.document.Artwork@318936]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:21:23,767 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:21:23,767 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:25:14,246 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/category/0/getInstance]
+2018-11-22 16:25:14,246 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /category/0/getInstance
+2018-11-22 16:25:14,250 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/category]
+2018-11-22 16:25:14,250 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /category
+2018-11-22 16:25:14,251 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<T> pl.ontia.collectio.controller.AbstractController.getByVariousCriteria(S)]
+2018-11-22 16:25:14,251 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/category] is: -1
+2018-11-22 16:25:14,255 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getInstance()]
+2018-11-22 16:25:14,255 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/category/0/getInstance] is: -1
+2018-11-22 16:25:14,269 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Category@e7f2c9] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:25:14,270 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:25:14,270 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:25:14,717 ERROR [JsonToPojo] - JSON IOException EXCEPTION: pl.ontia.collectio.utils.JsonToPojo||No content to map to Object due to end of input
+2018-11-22 16:25:14,723 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.Category@ae3235, pl.ontia.collectio.document.Category@627065, pl.ontia.collectio.document.Category@c0fc36]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:25:14,724 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:25:14,724 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:25:28,352 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionaryName]
+2018-11-22 16:25:28,352 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionaryName
+2018-11-22 16:25:28,353 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.DictionaryName> pl.ontia.collectio.controller.DictionaryNameController.getByVariousCriteria(pl.ontia.collectio.searches.DictionaryNameSearchCriteria)]
+2018-11-22 16:25:28,353 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionaryName] is: -1
+2018-11-22 16:25:28,353 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionaryName]
+2018-11-22 16:25:28,354 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionaryName
+2018-11-22 16:25:28,354 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.DictionaryName> pl.ontia.collectio.controller.DictionaryNameController.getByVariousCriteria(pl.ontia.collectio.searches.DictionaryNameSearchCriteria)]
+2018-11-22 16:25:28,356 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionaryName] is: -1
+2018-11-22 16:25:28,361 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.DictionaryName@d8384b, pl.ontia.collectio.document.dictionary.DictionaryName@157d3bf, pl.ontia.collectio.document.dictionary.DictionaryName@10ea356, pl.ontia.collectio.document.dictionary.DictionaryName@58892, pl.ontia.collectio.document.dictionary.DictionaryName@1495a7e, pl.ontia.collectio.document.dictionary.DictionaryName@d40bfb, pl.ontia.collectio.document.dictionary.DictionaryName@15ecbc3]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:25:28,361 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:25:28,361 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:25:28,363 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.DictionaryName@1116051, pl.ontia.collectio.document.dictionary.DictionaryName@1caa4f6, pl.ontia.collectio.document.dictionary.DictionaryName@1142c03, pl.ontia.collectio.document.dictionary.DictionaryName@155b1ee, pl.ontia.collectio.document.dictionary.DictionaryName@1148b33, pl.ontia.collectio.document.dictionary.DictionaryName@1bed864, pl.ontia.collectio.document.dictionary.DictionaryName@709d84]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:25:28,363 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:25:28,363 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:01,070 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/contactAdditionalDataDictionary]
+2018-11-22 16:52:01,071 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/contactAdditionalDataDictionary
+2018-11-22 16:52:01,084 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:01,084 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/contactAdditionalDataDictionary] is: -1
+2018-11-22 16:52:01,105 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.ContactAdditionalDataDictionary@1298796, pl.ontia.collectio.document.dictionary.ContactAdditionalDataDictionary@184c0d7, pl.ontia.collectio.document.dictionary.ContactAdditionalDataDictionary@9084db]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:01,105 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:01,105 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,590 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/artwork/0/getInstance]
+2018-11-22 16:52:10,590 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /artwork/0/getInstance
+2018-11-22 16:52:10,595 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/DimensionDictionary]
+2018-11-22 16:52:10,595 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/DimensionDictionary
+2018-11-22 16:52:10,602 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/CurrencyDictionary]
+2018-11-22 16:52:10,602 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/CurrencyDictionary
+2018-11-22 16:52:10,610 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/UnitDictionary]
+2018-11-22 16:52:10,610 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/UnitDictionary
+2018-11-22 16:52:10,612 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/IdTypeDictionary]
+2018-11-22 16:52:10,612 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/IdTypeDictionary
+2018-11-22 16:52:10,612 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,612 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/CurrencyDictionary] is: -1
+2018-11-22 16:52:10,616 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/TechnicDictionary]
+2018-11-22 16:52:10,616 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/TechnicDictionary
+2018-11-22 16:52:10,618 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,618 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/DimensionDictionary] is: -1
+2018-11-22 16:52:10,621 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getInstance()]
+2018-11-22 16:52:10,621 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/artwork/0/getInstance] is: -1
+2018-11-22 16:52:10,628 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,628 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/UnitDictionary] is: -1
+2018-11-22 16:52:10,629 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,630 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/IdTypeDictionary] is: -1
+2018-11-22 16:52:10,633 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Artwork@196953a] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,633 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,633 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,638 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.DimensionDictionary@1ae3836, pl.ontia.collectio.document.dictionary.DimensionDictionary@ec83f0]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,639 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,639 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,643 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.IdTypeDictionary@1ca344d, pl.ontia.collectio.document.dictionary.IdTypeDictionary@2fb668, pl.ontia.collectio.document.dictionary.IdTypeDictionary@706d1e, pl.ontia.collectio.document.dictionary.IdTypeDictionary@10bfd02]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,643 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.CurrencyDictionary@fa255, pl.ontia.collectio.document.dictionary.CurrencyDictionary@6a7c88]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,643 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,643 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,644 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,643 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,647 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/TitleTypeDictionary]
+2018-11-22 16:52:10,647 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/TitleTypeDictionary
+2018-11-22 16:52:10,648 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/LanguageDictionary]
+2018-11-22 16:52:10,648 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/LanguageDictionary
+2018-11-22 16:52:10,643 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,652 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/TechnicDictionary] is: -1
+java.lang.ClassNotFoundException: pl.ontia.collectio.document.dictionary.TechnicDictionary
+2018-11-22 16:52:10,657 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,658 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,658 DEBUG [DispatcherServlet] - Successfully completed request
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1714)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1559)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:195)
+	at pl.ontia.collectio.service.DictionaryService.findByDictionaryName(DictionaryService.java:29)
+	at pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(DictionaryController.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:219)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:132)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:746)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:687)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:856)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:915)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:811)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:796)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:118)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:84)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:113)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:113)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:54)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:45)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilter(BasicAuthenticationFilter.java:150)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:183)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:87)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:192)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:160)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1023)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-22 16:52:10,670 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,671 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/TitleTypeDictionary] is: -1
+2018-11-22 16:52:10,673 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/DateTypeDictionary]
+2018-11-22 16:52:10,673 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/DateTypeDictionary
+2018-11-22 16:52:10,666 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/ObjectTypeDictionary]
+2018-11-22 16:52:10,675 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/ObjectTypeDictionary
+2018-11-22 16:52:10,677 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.TitleTypeDictionary@7ce4a6, pl.ontia.collectio.document.dictionary.TitleTypeDictionary@1878e23, pl.ontia.collectio.document.dictionary.TitleTypeDictionary@84d2fc]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,677 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,677 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,683 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,683 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/ObjectTypeDictionary] is: -1
+2018-11-22 16:52:10,668 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,687 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/LanguageDictionary] is: -1
+2018-11-22 16:52:10,688 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:10,688 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/DateTypeDictionary] is: -1
+2018-11-22 16:52:10,686 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,671 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,690 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,690 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,690 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,691 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,691 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,689 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,709 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.LanguageDictionary@14e4295, pl.ontia.collectio.document.dictionary.LanguageDictionary@f55d7d, pl.ontia.collectio.document.dictionary.LanguageDictionary@ccbe23]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:10,710 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:10,710 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:10,710 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:25,399 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/artwork/0/getInstance]
+2018-11-22 16:52:25,399 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /artwork/0/getInstance
+2018-11-22 16:52:25,400 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/DimensionDictionary]
+2018-11-22 16:52:25,400 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/DimensionDictionary
+2018-11-22 16:52:25,404 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/UnitDictionary]
+2018-11-22 16:52:25,404 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/UnitDictionary
+2018-11-22 16:52:25,404 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/CurrencyDictionary]
+2018-11-22 16:52:25,404 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/TechnicDictionary]
+2018-11-22 16:52:25,404 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/CurrencyDictionary
+2018-11-22 16:52:25,405 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/TechnicDictionary
+2018-11-22 16:52:25,409 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/IdTypeDictionary]
+2018-11-22 16:52:25,410 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/IdTypeDictionary
+2018-11-22 16:52:25,418 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,422 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/TechnicDictionary] is: -1
+2018-11-22 16:52:25,422 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,422 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/UnitDictionary] is: -1
+java.lang.ClassNotFoundException: pl.ontia.collectio.document.dictionary.TechnicDictionary
+2018-11-22 16:52:25,421 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,424 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/IdTypeDictionary] is: -1
+2018-11-22 16:52:25,419 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,423 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,424 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/CurrencyDictionary] is: -1
+2018-11-22 16:52:25,425 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/DimensionDictionary] is: -1
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1714)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1559)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:195)
+	at pl.ontia.collectio.service.DictionaryService.findByDictionaryName(DictionaryService.java:29)
+2018-11-22 16:52:25,425 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getInstance()]
+	at pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(DictionaryController.java:28)
+	at sun.reflect.GeneratedMethodAccessor113.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:219)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:132)
+2018-11-22 16:52:25,426 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/artwork/0/getInstance] is: -1
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:746)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:687)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:856)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:915)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:811)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:796)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:118)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:84)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:113)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:103)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:113)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+2018-11-22 16:52:25,430 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:25,430 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:54)
+2018-11-22 16:52:25,430 DEBUG [DispatcherServlet] - Successfully completed request
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:45)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilter(BasicAuthenticationFilter.java:150)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:183)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:87)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:192)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:160)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+2018-11-22 16:52:25,432 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.CurrencyDictionary@31a2eb, pl.ontia.collectio.document.dictionary.CurrencyDictionary@bf1b6e]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)2018-11-22 16:52:25,432 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+
+2018-11-22 16:52:25,432 DEBUG [DispatcherServlet] - Successfully completed request
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1023)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:312)2018-11-22 16:52:25,433 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Artwork@a20982] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-22 16:52:25,434 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/LanguageDictionary]
+2018-11-22 16:52:25,434 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/LanguageDictionary
+2018-11-22 16:52:25,435 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:25,436 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:25,436 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:25,436 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.IdTypeDictionary@1e4aa5, pl.ontia.collectio.document.dictionary.IdTypeDictionary@b6aa30, pl.ontia.collectio.document.dictionary.IdTypeDictionary@5f3cdb, pl.ontia.collectio.document.dictionary.IdTypeDictionary@948ca1]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:25,436 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:25,436 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:25,438 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/DateTypeDictionary]
+2018-11-22 16:52:25,438 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/DateTypeDictionary
+2018-11-22 16:52:25,438 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/ObjectTypeDictionary]
+2018-11-22 16:52:25,438 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/ObjectTypeDictionary
+2018-11-22 16:52:25,439 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.DimensionDictionary@9c9f59, pl.ontia.collectio.document.dictionary.DimensionDictionary@a1c0b0]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:25,440 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:25,440 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:25,441 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,442 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/LanguageDictionary] is: -1
+2018-11-22 16:52:25,443 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:25,443 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:25,434 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/TitleTypeDictionary]
+2018-11-22 16:52:25,444 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/TitleTypeDictionary
+2018-11-22 16:52:25,448 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,448 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/DateTypeDictionary] is: -1
+2018-11-22 16:52:25,452 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.LanguageDictionary@1fa9470, pl.ontia.collectio.document.dictionary.LanguageDictionary@276c08, pl.ontia.collectio.document.dictionary.LanguageDictionary@2599ea]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:25,452 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:25,452 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:25,453 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,454 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/TitleTypeDictionary] is: -1
+2018-11-22 16:52:25,454 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:25,455 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:25,456 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:25,461 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.TitleTypeDictionary@9c091e, pl.ontia.collectio.document.dictionary.TitleTypeDictionary@1a9d31, pl.ontia.collectio.document.dictionary.TitleTypeDictionary@1461296]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:25,462 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:25,462 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:25,462 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:52:25,462 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/ObjectTypeDictionary] is: -1
+2018-11-22 16:52:25,464 DEBUG [RequestResponseBodyMethodProcessor] - Written [[]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:25,464 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:25,464 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:31,703 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/person]
+2018-11-22 16:52:31,703 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /person
+2018-11-22 16:52:31,704 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<T> pl.ontia.collectio.controller.AbstractController.getByVariousCriteria(S)]
+2018-11-22 16:52:31,705 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/person] is: -1
+2018-11-22 16:52:31,858 ERROR [JsonToPojo] - JSON IOException EXCEPTION: pl.ontia.collectio.utils.JsonToPojo||No content to map to Object due to end of input
+2018-11-22 16:52:31,871 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.Person@10e84b3, pl.ontia.collectio.document.Person@2a0763, pl.ontia.collectio.document.Person@14b1a9f, pl.ontia.collectio.document.Person@1c0c38a, pl.ontia.collectio.document.Person@65b8b2, pl.ontia.collectio.document.Person@40cc11, pl.ontia.collectio.document.Person@15a79d, pl.ontia.collectio.document.Person@1af3db1]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:31,871 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:31,871 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:52:37,518 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/person/201381993507756]
+2018-11-22 16:52:37,518 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /person/201381993507756
+2018-11-22 16:52:37,529 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getById(java.lang.Long)]
+2018-11-22 16:52:37,529 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/person/201381993507756] is: -1
+2018-11-22 16:52:37,538 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Person@7fdffc] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:52:37,538 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:52:37,538 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:53:05,829 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/person/201381996286034]
+2018-11-22 16:53:05,830 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /person/201381996286034
+2018-11-22 16:53:05,841 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getById(java.lang.Long)]
+2018-11-22 16:53:05,841 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/person/201381996286034] is: -1
+2018-11-22 16:53:05,847 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Person@fa1e98] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:53:05,847 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:53:05,847 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:53:06,684 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/person/201381996286038]
+2018-11-22 16:53:06,684 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /person/201381996286038
+2018-11-22 16:53:06,696 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getById(java.lang.Long)]
+2018-11-22 16:53:06,696 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/person/201381996286038] is: -1
+2018-11-22 16:53:06,699 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Person@eebdde] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:53:06,699 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:53:06,699 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:53:48,598 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/person/201381993507755]
+2018-11-22 16:53:48,598 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /person/201381993507755
+2018-11-22 16:53:48,609 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getById(java.lang.Long)]
+2018-11-22 16:53:48,609 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/person/201381993507755] is: -1
+2018-11-22 16:53:48,613 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Person@1dbcfd2] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:53:48,613 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:53:48,613 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:54:00,159 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/person/201382093373903]
+2018-11-22 16:54:00,159 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /person/201382093373903
+2018-11-22 16:54:00,167 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getById(java.lang.Long)]
+2018-11-22 16:54:00,167 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/person/201382093373903] is: -1
+2018-11-22 16:54:00,169 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Person@28ee2d] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:54:00,169 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:54:00,170 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:54:07,923 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/OrganizationTypeDictionary]
+2018-11-22 16:54:07,924 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/OrganizationTypeDictionary
+2018-11-22 16:54:07,926 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/organization]
+2018-11-22 16:54:07,926 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /organization
+2018-11-22 16:54:07,927 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<T> pl.ontia.collectio.controller.AbstractController.getByVariousCriteria(S)]
+2018-11-22 16:54:07,927 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/organization] is: -1
+2018-11-22 16:54:07,932 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:54:07,932 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/OrganizationTypeDictionary] is: -1
+2018-11-22 16:54:07,944 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.OrganizationTypeDictionary@13a01ca, pl.ontia.collectio.document.dictionary.OrganizationTypeDictionary@14ba6a4]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:54:07,944 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:54:07,945 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:54:07,951 ERROR [JsonToPojo] - JSON IOException EXCEPTION: pl.ontia.collectio.utils.JsonToPojo||No content to map to Object due to end of input
+2018-11-22 16:54:07,959 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.Organization@3c41cb, pl.ontia.collectio.document.Organization@39137, pl.ontia.collectio.document.Organization@32e320, pl.ontia.collectio.document.Organization@dd4f1b, pl.ontia.collectio.document.Organization@1747f49, pl.ontia.collectio.document.Organization@150d2fe]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:54:07,959 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:54:07,959 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:54:40,475 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/OrganizationTypeDictionary]
+2018-11-22 16:54:40,475 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/OrganizationTypeDictionary
+2018-11-22 16:54:40,480 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/dictionary/ContactAdditionalDataDictionary]
+2018-11-22 16:54:40,480 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /dictionary/ContactAdditionalDataDictionary
+2018-11-22 16:54:40,485 DEBUG [DispatcherServlet] - DispatcherServlet with name 'Collectio' processing GET request for [/collectio/rest/organization/201382093373898]
+2018-11-22 16:54:40,485 DEBUG [RequestMappingHandlerMapping] - Looking up handler method for path /organization/201382093373898
+2018-11-22 16:54:40,488 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:54:40,488 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/OrganizationTypeDictionary] is: -1
+2018-11-22 16:54:40,499 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public T pl.ontia.collectio.controller.AbstractController.getById(java.lang.Long)]
+2018-11-22 16:54:40,499 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/organization/201382093373898] is: -1
+2018-11-22 16:54:40,504 DEBUG [RequestMappingHandlerMapping] - Returning handler method [public java.util.List<pl.ontia.collectio.document.dictionary.Dictionary> pl.ontia.collectio.controller.DictionaryController.getByDictionaryName(java.lang.String)]
+2018-11-22 16:54:40,505 DEBUG [DispatcherServlet] - Last-Modified value for [/collectio/rest/dictionary/ContactAdditionalDataDictionary] is: -1
+2018-11-22 16:54:40,510 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.OrganizationTypeDictionary@14bfd33, pl.ontia.collectio.document.dictionary.OrganizationTypeDictionary@1dc4c0b]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:54:40,510 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:54:40,511 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:54:40,511 DEBUG [RequestResponseBodyMethodProcessor] - Written [pl.ontia.collectio.document.Organization@f326a7] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:54:40,511 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:54:40,511 DEBUG [DispatcherServlet] - Successfully completed request
+2018-11-22 16:54:40,514 DEBUG [RequestResponseBodyMethodProcessor] - Written [[pl.ontia.collectio.document.dictionary.ContactAdditionalDataDictionary@16ed6d9, pl.ontia.collectio.document.dictionary.ContactAdditionalDataDictionary@1db4fa7, pl.ontia.collectio.document.dictionary.ContactAdditionalDataDictionary@14a8a00]] as "application/json" using [org.springframework.http.converter.json.MappingJacksonHttpMessageConverter@f479ee]
+2018-11-22 16:54:40,515 DEBUG [DispatcherServlet] - Null ModelAndView returned to DispatcherServlet with name 'Collectio': assuming HandlerAdapter completed request handling
+2018-11-22 16:54:40,515 DEBUG [DispatcherServlet] - Successfully completed request
+
