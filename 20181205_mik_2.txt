@@ -53,7 +53,7 @@ change set czyli komit
 		"ksiazki komiksy"
 		"dane"
 		"obsluga danych w perlu"
-
+n
 	"collectio": ["monga", "spring rest", "angular", "gradle"];
 	"oneplaces": ["postgre", "maven", "springrest ?", "servis mobilny" ]
 	"uwaga":"mechanika kdu js "
