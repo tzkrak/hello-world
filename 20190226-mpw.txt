@@ -1,0 +1,77 @@
+history : urochomic collectio 
+
+---
+pooszukac -- do uruchomienia collectio
+
+---- wyliczanie tef_name
+pooszukac
+---2019-02-26 17:49:50:776	SELECT * FROM TemporaryFiles WHERE Tef_Name = 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\C1C80.htm' AND Use_Id = 1 AND Tef_Machine = 'VPS317345' AND Tef_ApplicationName = 'multiArch'	TMuDbTemporaryFiles.Add
+2019-02-26 17:49:50:776	Tef_Name	C:\Users\ADMINI~1\AppData\Local\Temp\2\C1C80.htm	TMuDbRs.AddNew
+2019-02-26 17:49:50:776	Tef_Machine	VPS317345	TMuDbRs.AddNew
+2019-02-26 17:49:50:776	Tef_ApplicationName	multiArch	TMuDbRs.AddNew
+2019-02-26 17:49:50:776	Use_Id	1	TMuDbRs.AddNew
+2019-02-26 17:49:50:776	INSERT INTO TemporaryFiles (`Tef_Name`, `Tef_Machine`, `Tef_ApplicationName`, `Use_Id`) VALUES ('C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\C1C80.htm', 'VPS317345', 'multiArch', 1)	TMuDbRs.InsertSql
+
+
+T - skrot od type
+----
+2019-02-26 17:58:20:838	Finalizing macros	MacroProcs
+2019-02-26 17:58:20:838	Finalizing tools	Tools
+2019-02-26 17:58:20:838	Finalizing MDialogs	MDialogs
+2019-02-26 17:58:20:838	Finalizing Viewer Clipboard	ViewerClipboard
+2019-02-26 17:58:20:838	Finalizing macros	Macros
+2019-02-26 17:58:20:838	Finalizing Envitoment Variables	SysEnv
+2019-02-26 17:58:20:838	Finalizing CRC	Macros
+2019-02-26 17:58:20:838	Finalizing profiler	Profiler
+
+---
+finalize profiler
+
+---
+debagowanie analiza logow : srodowisko pliki tymczasowe : 
+----
+wszystko sie loguje i wszystko sie zapisuje :
+Interface_COMPOSITION_1_default_
+zmienne konfiguracjane - pod spodemm u gory
+----
+
+2019-02-26 18:18:46:964	SELECT * FROM CardSet cs, CompositionItem ci WHERE cs.Car_Id = ci.Car_Id AND Com_Id = 1  AND (Dii_DivisionId IN (182))  ORDER BY cs.Car_Id	TMuDbRsComposition.Open
+
+---- to jest wazne
+Interface__default_
+---- poszukac git-a === to co czytales
+---- wszystko kodowane xml-em
+---- trzeba sobie ustawic :: Interface_COMPOSITION_1_MUZ_TECHN_ -- wszystko zapsisuj
+Interface_COMPOSITION_1_default_ -- defatlua
+
+---- podsumowanie nalez urochomic webExport :: webExport z galbralrae test zdjec z napoleona :::
+lista html 4 godizny 
+----
+wspolbierzene przetwarzanie lokowanie produkote TListString - podstawowa struktura turbo pascaal
+
+----
+nie koniecznie trzeba logowac do pliku w zestawieniach faktycznie dane sa obciane ogolenie 
+---
+jast:: (slynna historia z przebudowa spisu kart ze jest obciete lub znika
+
+--- cv, --- poszukac , --- historia znikaani i przycinania danych z tabeli (generatory) --- dodatc do git-a
+
+// przygotowac sie do pracy
+//
+https://2017.stateofjs.com/2017/state-management/results/
+----
+state off
+
+---
+the state off --
+
+====
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+====
+dziczenie klasyczne , dziczenie  przez prototypy
+
+https://poznajprogramowanie.pl/10-powodow-dzieki-ktorym-jezyk-javascript-jest-tak-popularny/
+---
+https://jcubic.pl/2014/08/funkcje-w-javascript.html
+----
+poziom abatrakcji powtorzyc wszystk i sie zwijac
