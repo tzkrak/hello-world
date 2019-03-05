@@ -1,0 +1,101 @@
+monady - pracuj/pl ;
+
+w haskelu warosci sa pierwszorzedne ::: ()
+
+
+:: - ma typ wazny jest kompilatore 
+--- debag console :: tworzenie cosnoli
+--- collectio spring-web-2.0
+
+git
+---
+interfejs restowy
+
+
+http://localhost:8080/collectio/#/artwork/201382009092242
+
+http://localhost:8080/collectio/#/artwork/201381996286039
+
+http://localhost:8080/collectio/#/person/201381993507756
+
+http://localhost:8080/collectio/#/configuration/list
+---
+aplikacje webowe powtorak collectio (spruboj cos zakodowac)
+---- stos collecio
+
+tak sie pisze aplikacji
+---
+stos / gradle : budowane na zewnatrze adnotacje
+merculiar/mongodb/tomacat/spring-mvc-rest/angular
+
+---
+mongod / mongo interfejs js() - 
+
+----
+local
+test
+
+---- bez userta
+---- db.help()
+---- podszybie zapchane /
+----
+	log do mongo db :: () sprubuj cos dziabnac zmienic
+----
+db.artwork.find().pretty() 
+---
+2 GB limited usage
+---
+stare komputery stawiam linuxa
+---
+show collections
+
+--- ralen problemy aplikacji to:
+wydruki raporty
+wyszukiwanie
+kwestia wspolbierznosci edycji
+kwestia
+kwastia administracji konfiguracji, bezpieczenstwa danych (mhf) - tomek
+wersje jezykowe
+
+---- kwestia oplat
+----
+http://localhost:8080/collectio/#/configuration/list
+----
+ok nie bede wchodzil w logi
+----
+db.techniqueDictionary.insert({sortOrder:'0', _class:"pl.ontia.collectio.document.dictionary.TechniqueDictionary", value:"olejna"})
+----
+przyklad kodu js-a
+
+---
+it - for more
+
+---
+  190  gradle build
+  198  gradle eclipse
+  216  gradle build
+  217  gradle cleanEclipse
+  218  gradle eclipse
+  219  gradle build
+  235  gradle build
+  240  gradle build
+ 3064  gradle bild
+ 3065  gradle build
+ 3091  gradle tesk
+
+---
+	tego sie nie rusza zaleznosci
+---
+	gredle build
+	
+----
+trzy glowne czesci
+
+src/
+
+bare / powtoreka z gita
+
+uwaga to jest collectio gosci a ni jcora
+----
+
+javascript i difff /atena 
