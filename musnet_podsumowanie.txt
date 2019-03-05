@@ -1,0 +1,53 @@
+Uzupełnienie do rozmowy. 
+
+1. Pierwszy projekt to nazwa SIGEDAV (pewnie nazwa od zarządzania prawami ) dla instytucji:
+
+https://www.adagp.fr/   : Société des Auteurs dans les Arts graphiques et plastiques.
+
+w sumie nie miał wspólnego z systemami rodziny musnet ale stanowił bazę technologiczna dla Musnte na Javie.
+
+3. Musnet czyli flagowa :) implementacja Delphi 7.0 Object Pascal, natywne okienka Widnows.
+
+3. Musnte NG czyli (nie brałem udziału to GColl nazwa polska Integra) w zamierzeniu następca Musneta czyli (Java 5.0, backand (EJB,Hiberanate) i front (SWT):
+
+Integra do zarządzania zbiorami sztuki współczesnej i nowoczesnej, stworzony wspólnie ze stowarzyszeniem Videomuseum skupiającym kilkadziesiąt francuskich muzeów sztuki współczesnej i nowoczesnej, m.in. Centrum Pompidou oraz Narodowy Fundusz Sztuki Współczesnej (FNAC).
+
+https://www.videomuseum.fr/en
+https://www.centrepompidou.fr/
+
+Z rożnym skutkiem wdrożony (to ten system który okazał się dość ciężki w utrzymaniu i skomplikowany).
+
+- Muzeum Narodowym w Gdańsku
+- Muzeum Historii Żydów Polskich w Warszawie
+- Muzeum Morskim w Gdańsku.
+
+4. Musnet PHP, powstała wersja beta w php działająca na tej samej bazie co Musnet ale nie udało się obsłużyć wersji w trybie zapisy, (wymagało to dozo przepisania zbyt dozo logiki) żeby operacje na bazie były transparentne.
+
+5. Collectio 1, czyli kolejna próba już udana pośrednia wersja java - js, czyli backend java i spring, front js i angular.
+
+6. Arteia to już znasz full-stack js.
+
+---
+Co do Musneta tak na szybko to:
+
+Mocne strony aplikacji:
+- szybki wgląd w tekstowa zawartość sortowanie w pionie, poziome (widoki)
+- ukierunkowanie na szybka edycje tekstu (wpisy grupowe)
+- dość rozbudowa implementacja logiki zarządzania "zdarzeniami", czyli zarządzania stanem całego zbioru, aczkolwiek nie często wykorzystywana
+- posiada wersje stand-alone, czyli posiada własny instalator i jest w architekturze "całość u klienta"
+- stosunkowo małe wymagania sprzetowo softwerowe. 
+
+Słabe strony:
+
+- działa tylko na Windows
+- słaby system obsługi multimediów (repozytoriom oparte o system plików windows, kłopoty załącznikami typu tiff - powzyje 10 GB np.) ogólnie musnet nie nadaje się do katalogowania dużych plików multimedialnych. (Jeśli ktoś takie coś potrzebuje musi sobie zorganizować archiwizacje we własnym zakresie na katalogach lub aplikacja dedykowana) czasami były takie zapędy ale szybko sie weryfikowały np. trzymania oryginalnych skanów starodruków.
+- zawodny i kłopotliwy w utrzymaniu system wydruków oparte o templaty html (trzymanie wymiarów, skalowanie treści, stronicowanie - księgi inwentarzowe)
+- słowniki bazodanowe - skomplikowany mechanizm implementacji mało intuicyjna obsługa słaba obsługa dużych słowników, przykład Autor - Dzieło.
+- szczątkowy i mało elastyczny mechanizm raportów i statystyk (głównie oparte o eksport do excela)
+- brak obsługi np qr-kodów w kontekście automatyzacji i ewidencji zarządzania kolekcjami (były zgłaszane takie zapotrzebowania)
+- ograniczenia do sieci lokalnej brak dostępu zdalnego aczkolwiek w dzisiejszych czasach można próbować na łączach VPN lub pulpitem zdalnym wymaga dodatkowej administracji i lub np. hostingu
+- brak aktualnego utrzymania i aktualizacji kodu do wersji bibliotek i narzędzi aczkolwiek na razie jest stare wersje sa nadal wspierane lecz możne się to zmienić ... kiedyś :) teraz np jest Delphi 10.2  baza mysql 5.6. (Musnet chodzi na Delphi 7.0 i w porywach mysql 5.0) aczkolwiek konwersja i przejście na nowe środowisko może być dużym wyzwaniem (siede efekty drobne rozniecę w implementacji bibliotek mogo spowodować inne lub blednę działanie dość dużej części aplikacji).
+- brak natywnej obsługi unikodu (czasami jest kłopot z obsługa np. "egzotycznych" inskrypcji opisów, wymaga dodatkowych zabiegów w konwersji danych) aczkolwiek przejście na unikod to dość spore wyzwanie i nawet duże aplikacje sobie z tym rożnie radzą nie wiem jak jest w nowym Collectio, ale chyba lepiej pod tym katem.
+
+
+To chyba tyle co pamietam. Na koniec przesylam jeszcze plan szkolenia ktory pokrywa sie z podstawowa funkcjnalscia Musneta, oraz przykladowa liste klientow (wyciag z bazy klintow).
