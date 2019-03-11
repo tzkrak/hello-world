@@ -1,0 +1,156 @@
+tutaj chcę zwrócić uwagę na pewną rzecz — zmieniając naszą klasę DAO z ArrayListy na bazę danych nie będziemy modyfikować żadnej innej części naszej aplikacji!
+
+
+potrzebujecie kogos do kodowania ok - to jestem
+do wymyslania nie ok, 
+
+co mozna zrobic z tabela dancch (optymalizaja kodu i podmiana) normalizacja bazy danych
+
+uruchanie i sprawdzanie przykladu jeszcze mieszanie na przykladzie
+
+dorowsnij wiec to wazne
+
+----
+Middleman is a static site generator using all the shortcuts and tools in modern web development.
+---
+
+static generatora : praca z branczami
+
+---
+wszyskie komendy to jak opearacje na grapchie
+	(cel zrobic brancha ) --- wylewarowac samochod (to wazne)
+	howerl long-work
+
+
+---
+	spruj lamnda :: buzz word / how to 
+
+--- speach talk () -- serwice olejwy - klucz
+
+freaks - swiry
+freak - wybryk
+screencasts
+
+- caly process programowania -- stytyski
+---
+You'll find more information at my resume website, and at GitHub, LinkedIn, and Twitter.
+---
+konto na git9e
+
+----
+rabase staginga areak - co mam robic to jest graph
+
+---
+git commit ammned - poskoczyl na kwas
+----
+wizula toll wazne
+----
+praca z branczami wazne :: brancz wiev
+---
+origin/HEAD
+---
+
+PRACA Z GRAPEHEM
+----
+commmity i referencje to local branc, remote branch and tag
+
+branch bardzo tani tylo 40 bytow - 	dlatego pracowac na branchach
+---
+branch to tylko 40 bitow --- przlamac
+
+local branche refeerjre 
+
+----
+to juz romzumiem co to jest :
+pull = fetch -rebase --- adnotacje
+
+orignin/master
+orignin/HEAD
+origin - cos tam
+
+spot ore typo
+
+commit is is a sha-1 hash
+
+---- rerefence meake commits rechable (EURAKA USUWANIECIE BRACHA 
+
+---- pull request - co to jest (moze byc tak ze usunieci branca powoduje useniecie komitoote)
+
+---- git log --- renge select ==== 
+---- on git hub  (wazne sa cwiczenia)
+
+marge pull reguste - tworzy osobny kommit (pytynie czy usunieie branchy )
+
+czy usunieci branchy usuwa commity !!! Q git - dzien po dniu
+
+
+bechind maste :: 
+-----
+margowanie branchy synchronizowanie brancy (dobra wywalam brancha)
+
+----
+show branche sie nie synchronizuja
+----
+vadin desciption	
+
+----BAREDZO WAZNA UWAGA USUNIECIE BRANCHA PO MARGOWANIEU  POWODUJE USNIECIE KOMITU
+
+----
+	PYTANIE CZY BRANCHE SIE SYNCHRONIZUJA
+----
+	PRZEGLADANE REPOZOTYRIOW KODE
+----
+	PRACA Z REOP - DO BRANCHA MOGE WROCIC ---- WAZNE
+====
+	SPRING I HIBENRATE NIE MA SENSU SIE UCZYC
+====
+	FORK
+----
+	pomitej workign directory to odzeilne commit (nie ma praw)
+
+----
+	powrot do znanenego stanu rapozytoriom waznws - przpinowac gwozdziem
+----
+	battle the boss - sawing game
+----
+	co znaczy ze jestem na branchu
+--- 
+	developo fiutecze uzywalem branchy ::: komiity manifusteja jakas calsc pracy :: zapisuaja prace
+---
+	4 procesory i 6TB danychn ReFS - file system
+
+----
+	wkladam dane i robie pull requeste
+
+-----
+PODSUMOWANIE chodzenie po grafie : branche sa lokalne i zdalne : branch to tylko referencja : ktore sie przesowa : lokalne brancze sie nie synchronizuja
+
+----
+git checkout -b 'vaadinn-description'
+
+-----
+git checkout, git checkout -b 'nazwa brancha'
+
+w domu git pull-marge
+
+=====
+podstaowa sparaw pracujem na brachach widac co sie dziejewa
+
+zmmiany  w centalnym
+
+
+UWAGA GIT PUSH --all spwrotem wgralo branche
+zarzadzanie commitami
+---
+Username for 'https://github.com': tzkrak
+Password for 'https://tzkrak@github.com': 
+To https://github.com/tzkrak/hello-world.git
+ * [new branch]      all -> all
+ * [new branch]      show -> show
+ * [new branch]      test-branch-1 -> test-branch-1
+ * [new branch]      two -> two
+ * [new branch]      vaadinn-description -> vaadinn-description
+---
+
+
+two head off teh master
