@@ -137,3 +137,21 @@ w domu git pull-marge
 podstaowa sparaw pracujem na brachach widac co sie dziejewa
 
 zmmiany  w centalnym
+
+
+UWAGA GIT PUSH --all spwrotem wgralo branche
+zarzadzanie commitami
+---
+Username for 'https://github.com': tzkrak
+Password for 'https://tzkrak@github.com': 
+To https://github.com/tzkrak/hello-world.git
+ * [new branch]      all -> all
+ * [new branch]      show -> show
+ * [new branch]      test-branch-1 -> test-branch-1
+ * [new branch]      two -> two
+ * [new branch]      vaadinn-description -> vaadinn-description
+---
+
+
+two head off teh master
+
