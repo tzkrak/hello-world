@@ -1,0 +1,214 @@
+powtorka z jawy
+
+kurdwanow 16 - 74
+kurwanow 17 - 71 pm10
+
+
+dodatkowe znaczenie to - threadsafe proraming
+dodatkowe znaczenia to - adnotacje mete dane o kodzie
+dodatkowe znaczenie - deskryptory wdrozenia
+
+--
+jsp-
+
+---
+wyjatak statyczne
+wyjatek 
+
+---
+kodowanie
+---
+bootsrapy i gneeratory kodu -
+
+Tablice to tez refejrencj - tablice 
+
+(String[] args) 
+
+---
+herroku mikrosreewi
+---
+portfolio
+----
+wypisywaniue, cztanie tekstu, laczenie z baza
+---
+integracja synchronizacje procesy laczace, 
+
+===
+wjp os herring full time, mentor, hab-raum - asseco, ho is hiring
+
+----
+abb, sabre, altkom , ericson , nowomatic, schibsted
+---
+
+who is hiring statystyki,
+jakas nowa pani kolezanka - miesiac czasu na zastanowienie
+
+---
+Frameworks, libraries, tools
+---
+jakas przestrzen wymiany
+---
+posiadam maila - organizacja pracy
+---
+
+UWAGA: - nagminne programowanaie na interfjsach z pomonieciem danych
+----
+
+WAZNE OD DUPNEJ STRONY: jak nie to javascript - bazuja na roznicach i dziwadlach skladniowcyh
+--
+html - podstwy, css - podstwy
+
+- podstawowa roznica programowanie ewentowe first clas object : funkcja jako obiekt pierwszej kalsy, programowanie prototypwe, programowanie funkcyjne, gita powtorzyc,
+
+generyki, wyjatki, adnotacje, kolekcje i interfejsy
+
+---
+niemutowalne thred sefe objekty
+---
+podstewowe opearcja na gitiec
+
+
+---
+konfronatacja z rynkiem pracy 
+
+====
+od dopnej strony musze podejscie i juz
+
+====
+justro musze otworzyc karty - 
+OD DUPNEJ STTRONY
+----
+GENERYKI - sugar synktatycznu
+wyjatki
+adnotacje
+---
+hashcode - ekalsdie
+----
+generuje sie bajtowy 
+---
+nie chce byc dalej przynies podaj pozamiataj :: od dupy strony
+----
+javascript node.js - 
+
+---
+kultura pracy, b2b stos ft, stos technologiczny i takie tam pierdoly
+---
+
+---
+b2b - musze zalozyc dzialanosc, skarbowka sie czepila, regenocjowac umowa z markiem
+
+b2b - nie mam komputerea - utilizacja sprzetow
+----
+
+sprawa kopi danych: utilizajc ; 
+----
+akutart jestem chyba na ustaleniach bo format wspolpray sie wyczerpuje
+
+----
+lista aplikacji :
+delphi 7.o
+--- zostalem zeslany
+
+Mocne strony apliacji:
+-- szybki wglad tekstowy storowanie w pionie piziome widoki
+-- ukierunkowanie na edycje tekstu
+-- wpis grupowy
+
+-- slabe strony
+- wydruki oparte o html (elestyczne klpotliwe w porawie - trzymanie wymiarow, skolowanie treacie stronicowanie)
+- slowniki bazodanowe - skomplikowany mechanizm implementacji malo intyicyjna obsluga slaba obsluga duzych slownikow
+- malo elastyczny mechanizm raportow (oparte o eksport do excela) brak statystyk
+
+---
+historia aplikacji:
+	sigedav - adagp
+	<xml>
+	jcol
+	integra / mms - poszukac
+	
+	cmm - morskie - musnet ng
+	muzeum nardodowe gdans
+	mhzp- 
+	cmm - integra menager jboss - serwer aplikacjiny
+	
+	siwz
+	
+---
+   URL: https://suivi.videomuseum.fr/browse/CMM-167 - wideomuzemu
+----
+
+Czesc!
+
+Proponowalbym odejsc od TAWeba i zrealizowac to w SOLR apachowym (na Lucynce).
+Napewno troche wiecej czasu to zajmie (moge zrobic wprowadzenie), ale bedzie zysk z uruchomienia nowego narzedzia
+Solr to JAva smiga wiec na wszystkim i nie ma ograniczen starego CPLA.
+Bylby tez idealny do MSZ ..
+
+pozdrawia i  spokojnych Swiat Bozego Narodzenia zyczy 
+jbo
+
+---
+	widomsci w przeszukiwanei wiadomosci
+--
+1098,1099, 4444-4448 oraz 8083
+
+Pozostale aplikacje (Navigart, MediaStore) uzywaja portow standardowych 
+czyli albo 80 albo 8080.
+--
+
+
+---
+	blockchaine
+---
+	gcoll -o 18 napolenon - jak tam lecie
+	
+---
+	git i nowosci / napi :: z logiki biznesowej / szkolenie
+	
+---
+at net.infogenia.gcoll2.client.gui.mvc.AbstractModel.setText(AbstractModel.java:371)
+        at net.infogenia.gcoll2.client.gui.mvc.AbstractModel.setText(AbstractModel.java:358)
+        
+abstrac model mvc
+
+--- architektura aplikacji :: microserwisy (wszyscy mi napitalaja) 
+
+
+https://www.videomuseum.fr/en
+https://www.adagp.fr/en/node
+
+--- sigedav szukaj maili
+
+--- gcoll - w jakiej architektuerz byl napisany :: to jest ciekawe
+---
+
+Société des Auteurs dans les Arts graphiques et plastiques
+Search
+
+---
+
+stowarzyszenie autorow i grafikow
+----
+projekty poboczen
+OnePlacs - uruchomic
+
+ejb - entity beans - (skrypty i patrze na baze danych) - powtorki z perla (cokolwiek)
+
+---
+koraspondacja ptototypowanie apliakcji :: foramtki deployowanie
+----
+aplikacje webowe
+
+====
+jak  sie laczy hiberante ze springiem, 
+
+----
+angular + restowe API w domu poczytaj - git
+
+--- urochomenie aplikacji
+
+--- collectio jaspore raport
+
+:::: WYRWAC SIE Z TEGO CUGU :::: - is na kurs :::: core javy i gita powtroz
+---
+pom aplikacje webowe w miedzy czsie jedna fimre obczaic
