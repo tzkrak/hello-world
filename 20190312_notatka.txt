@@ -160,4 +160,14 @@ Fast-forward
 ----
 
 
+To https://github.com/tzkrak/hello-world.git
+ ! [rejected]        test-branch-1 -> test-branch-1 (non-fast-forward)
+error: failed to push some refs to 'https://github.com/tzkrak/hello-world.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
+
+i mi sie zblikowalo wszystko ::::
+
+
 
