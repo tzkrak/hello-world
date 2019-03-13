@@ -1,0 +1,93 @@
+wnioski :
+
+origni - to jet nazwa remote
+----
+
+git push --tags
+
+---
+UWAGA GENERALNA- 
+::: branch wskazuje pewien wiszcholek w grafie
+::: przy przelaczaniu branchy working directory sie zminia stad chekout komentda
+::: koszt tworzenia brancha jest znikomy
+::: commity przesuwaj wieszcholek branch
+
++++ mi jednak cos zblokowalo
+
+---
+ew tracking branch 
+---- (ostrzerzenie przed strata zmian)
+error: Your local changes to the following files would be overwritten by checkout:
+	20190312_notatka.txt
+Please, commit your changes or stash them before you can switch branches.
+Aborting
+
+--- margowanie + nazwy branchy
+--- wytluszczone jest na ktorym branchu jestem	
+
+--- zrobiem ekspryment i mi sie rozjechaly brancha non-fast-forward push 
+---
+pierw musze pociagnac
+
+fajne komunikaty:
+----
+KOMUNIKATY:
+---- git pull (nowy branch niestniejocy na remocie)
+You asked me to pull without telling me which branch you
+want to merge with, and 'branch.test-branch-2.merge' in
+your configuration file does not tell me, either. Please
+specify which branch you want to use on the command line and
+try again (e.g. 'git pull <repository> <refspec>').
+See git-pull(1) for details.
+
+If you often merge with the same branch, you may want to
+use something like the following in your configuration file:
+    [branch "test-branch-2"]
+    remote = <nickname>
+    merge = <remote-ref>
+
+    [remote "<nickname>"]
+    url = <url>
+    fetch = <refspec>
+
+See git-config(1) for details.
+----
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ git checkout master 
+error: Your local changes to the following files would be overwritten by checkout:
+	20190312_notatka.txt
+Please, commit your changes or stash them before you can switch branches.
+Aborting
+---
+proba przelaczenia na brancha
+---
+git pull <repository> <refspec>
+
+---
+kodowanie olac toturiale zrobic specifikacje
+
+----
+rozwiaznie konfligo po stronie mojeje (wczesniej wzignallem zmian po stronie orginalengo
+----
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ git pull origin test-branch-1
+From https://github.com/tzkrak/hello-world
+ * branch            test-branch-1 -> FETCH_HEAD
+Updating 221d047..4066f9f
+Fast-forward
+ 20190304_gitpowtorka.txt |   20 +++++++++++++++++++-
+ 20190311_gaznik.txt      |   32 ++++++++++++++++++++++++++++++++
+ 2 files changed, 51 insertions(+), 1 deletion(-)
+ create mode 100644 20190311_gaznik.txt
+---
+
+git push --all 
+----
+
+code review i wysalanie notyfikacji
+----
+WAZNA SPRWA PORZADKI Z BRANCHAMI NP;;;;
+--- o moim branchu nie musi ktos wiedziec (kommity w branchac nie sa potrzenbne)
+--- pytanie podstawowe
+
+PO CO COMMITY I CZY MOZNA SIE COFNAC - JAK COFAC ZMIANY ?????
+--- BRANCHE I PULL REQUSTY ZARZADZANIE BRANCZHMI ::: POMIETAJ ZE USWANIE BRANCHA TRZEBA ROBIC RECZNIE DOMYSLNE KOMMNEDTY
+--- MARGOWANIE ZMIAN 
