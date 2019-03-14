@@ -1,0 +1,122 @@
+wtf - wath the fucku
+--
+wyrazenia lamda
+---
+do pewnogo stoponia perl, java scirpt
+---
+java *
+throw : raise : zglaszanie wyjatku
+---
+rachunek lamda z typami
+
+----
+funkcje anonimowe - z programowania funkcjjnego
+---
+alfa-konwersji
+----
+rachunek lamda z typami : programowanie funkcyujne:
+----
+skad sie wziela lambda:: -> uczenie odzielic warto odzielic w uczeniu wartstwy
+----
+lampda z typoami
+lp,p - . -> zapis funkcji 
+----
+funkcja aninimowa - paradoks skod popularnosc anonimowych
+lisp jak - funcja anonimowa, jezyki oparte o maszyne wietualna javy
+----
+standard produkcyjne
+
+----
+jakas mieszanka (kurwa musze sie z tego wyrwac)
+---
+miszanka html-a z jakims dziwnymi wstawkiami do tego jeszcze ten perl
+---
+programowanie funkcujne
+
+public class Apple {}; - klasa pusta kontrakt z konstruktoami reszte olac
+
+this supper(pamietaj o kodzie i stercie)
+--- 	
+kolekcje na sterydach (duplikacja w kodzie)
+
+new BoxOnSteroids - () pominiecie klasy
+----
+T exteend powoduje ze mozna urzywac interejsu E	, cos moze cos nie moze i tak w kolo
+macieja 
+---
+<? extedn, ? super> - spodziewane kompiltaora
+
+(degradacja komputera) - mentore na drodze do programowania
+----
+wymazywanie typow -typy genereyczen () czytanie kodu wyrazenia lamda : zostaw na pozniej
+---
+
+String pool "" + objecty wywylanie toString().
+String buffer - (praca nad kodem) sigedav
+
+===
+sterta referencja + equql hash codce
+----
+enumy - zapomnialem 
+wzorce projektowe
+testy jednostkowe
+adnotacje
+programowanie watkowe : wypisac  (muzyka trasowa)
+eclips srodowkis (kompilator)
+
+intaliIdea - live tamplates
+czytanie pliku (jak czytac plik) - walidacja regexpy (rower i kodowanie)
+
+stos wywylan - (wywoluja sie nawzwjem)
+
+| rozszerzenie skladniowe 
+DOBRE PRAKTYKI PRZY PRACY Z WYJATKAMI
+finnaly
+---
+mina srajacego kota 
+---
+napinacz rozrzadu zaraz klekotal  - napinac rozrzad  l silnik (niakcptowalny)
+---
+toyota
+---
+zwalanianie i maszyna wirtualna javy
+---
+wazna jest eksplatacja i zmiana oleju (wczoraj czytalem o maszynie wirtualnej i stacie zarzedzaniu maszyna i bledach
+----
+1.0  fsi - gowniany slilnik 1.0 wypadaja dziury w tlokach
+----
+bajt kod
+---
+samochod w rozliczeniu 3000 ys
+---
+dwustrefowa klimatayzajca
+---
+rabata opje znizki
+----
+
+nie boj sie obiektowo ()
+zmienne trzymane sa na stosie (cala doba) - stos sterta pamietaj
+raferencja sa trzymane na STOSIE - niszczone, OutOffMemoryError - rzuczanie wyjatkami
+---
+enum specjalna klasa - jedzenie
+---
+enum z autamut leci public static final (enum typ wyliczeniowy)
+
+----
+jutro musze to dokodowac :: domyslne typ wyliczeniowy dosteje final
+---
+konstruktor ma domyslne private - instacje typu wyliczniowego w klasie
+konsurkotey i metody abstakcujne
+
+boxing unboxing, cast - rzutowanie
+git, testyJednostkowe, moven
+----
+Unikac rzutowania ::: typy genereyczne interefjesy programowania na interafejsach
+----
+dzielenie calkowotokoczbowa autoBoxing - konwersje
+
+---
+kurs - przejde kurs programowania
+
+---
+o gitci	

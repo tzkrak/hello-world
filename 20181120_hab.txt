@@ -1,0 +1,70 @@
+3 godziny - m
+
+historey reinstalacja komputera
+---
+sudo dpkg -i google-chrome-stable_current_i386.deb
+---
+obsluga kuleczka - w edytorze nano
+----
+
+aplikacje werbowe
+----
+prosty angielski (okazuje sie ze daje rade) komp do kursu praca
+
+---
+podsumowanie instalacji telefonu 
+---
+odkurzyc nasmarowac garaz na godziny
+--
+stackoverflow :: 
+---
+praca na interfejsach - java script like code style
+---
+https://stackoverflow.com/questions/1061717/what-exactly-is-spring-framework-for
+---
+apple computere updata ::
+---
+zmiana modelu
+----
+PRACA NA JEDNEJ GALEZI - wiaze sie z 
+multitasking juz nie daje rady
+----
+nauka angilskiego pamlutku i do przedu
+
+REST (client enterers a REST --- thruw simple)
+---
+url i resors reprezentation returnet from web
+====
+http://bandrzejczak.com/hateoas-presentation/#/
+HATEOAS - Wikipedia
+====
+@andrzejczak , #tagi
+====
+
+aka - also know as -(HEATOS wsparcie laczenie alkacji, spring mvc ?)
+backbone angulare - laczenie bibliteki
+---
+js -
+---
+maven - z lini coment mint // mega wygodnie
+----
+text
+
+ml, m$ line wraping	
+----
+collectio (jezli sie pracuje na jednym branczu pojawiaja sie 
+MARGE PULLE - typu fast-forward : pojawiaja sie koomity dodtakowe, Scal
+----
+natomiast w gicie merge
+----
+ Merge branch 'master' of https://github.com/tzkrak/hello-world (z piatku
+    
+    Conflicts:
+    	konfiguracja_tel.txt
+    
+---- probowal sam to zrobic i zakomitowc ale pozniej mi kazal sprawdzic i poprawic
+----
+rewision control system
+
+---
+sprawdz gita :: 

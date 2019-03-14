@@ -1,0 +1,129 @@
+26 maj 2016
+----
+blockchain --- powtorzyc problrem z faktura ---
+(zalozyc firme czy jak) 
+
+---
+nabiera rozpedu
+--- juz trace rachybe
+
+---
+	vue.js --- serwer siede rendering --- olac to jutro pralakA
+	
+backadnd (scriptitn langure, functional langure , other languraue)
+---
+java devolopoer road map (stack tachnologila) skilka
+---
+ KONIEC NIE UCZE SIE JUZ - to jest koniec
+
+ podanie o prace przygotowac zapiasc haslo i finich (now)
+---
+	java stack developer (licza sie praktyczne umiejetnosci programowania)
+	hg, git mercularial
+---
+	odpiscaj
+---
+
+servis pogwarancyjny i nalicznie vat - october 30 
+
+---
+kupuje teczki i natatnik sprubuje porobic porzadki
+
+---
+OD DUPY STRONY DO PROGRAMOWANIA PODEJSCIE:
+PIERW TRZEBA SIE NAKIERUNKOWAC NA CO PO CO I CO ROBIC, A POZNIEJ UCZYC JAK - czyli jezyka.
+---
+PROGRAMOWANIE TO:
+	OBROBKA I OBSLUGA DANYCH
+	logki
+	REDNEROWANIE I PROGRAMOWANIE INTERFEJSOW I PRZEPLYWU
+---
+JUTRO MPW I MAREK
+---
+zaczelo sie od black barry
+gogle sync, acitve sync
+
+----
+android ma wbudownay microsoft echhance :: google android	
+RIM I BES
+
+kontakty , kalendarze, zadania ::: synchronizacja
+
+push e-mail
+web push
+
+google chrome webPUsh,
+andoid push -
+call-to-action
+ad - blooker (ciasteczka)
+----
+jak czesta i kiedy nadejdzie na strone
+---
+wysyp stron https - formularz gorna belak 
+---
+formularz top box
+
+----
+przechowywanie w skrzynce obiorczej 
+
+----
+powiadominia
+newsletter (webpush)
+
+----
+edge - (- jak to dziala urzedzenie przegladaraka sie rejestruje)
+---
+cgi push technology
+---
+java stack developoer - powiadomiania push
+---
+odcisk i blokada telefonu
+---
+tomcate
+log4j
+junit
+mavaen
+spring mvc : jsf (jaka roznica)
+---
+Vaadin ?? 
+
+----
+integracja messangera z sms ???
+----
+vadddin - java fremwlork (niezle to pokrecone wszystko)
+---- / najwazniejsze sa dane /--- serwer aplikacyjny
+
+0000 --- mobilne
+----
+renderowanie
+----
+vaddon flow - pozwala urzywac jawy do programowaniwe
+
+-----
+lania
+----
+vaadin 11 gradle integration
+
+routeing i endpoint - data bindin 
+
+----
+pytanie do czego potrzebuja tych programistowa
+----
+notacja ze strzalka
+model viev prezenter
+
+----
+file:///home/lukasz/Downloads/BStefaDski_pdi.pdf
+----
+dobra teraz robie brancza i pull riquesta
+
+11/12 vaadin - kurewa co to jest :: gwt :: co to serwer aplikacynyy
+====
+gruby cienki klinte tez istnieje
+szyna zdarzen programwanie zdarzeniowe
+
+----
+hyper sql : jetty apache tomacat kontener aplikakcji
+===
+czesl kodu jest kompilowany do javaScripta
+vaddin javaserver facessw spring booot

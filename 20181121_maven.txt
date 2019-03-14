@@ -1,0 +1,424 @@
+
+punkt zaczepienia - eclipse sts (mvc)
+----
+napisz uruchom
+---
+wirtualna maszyna javay
+----
+front controler : DISPATCHERSERVLET
+
+
+mvc-dispatcher - 
+web.xml - podstawowa konfiguracja aplikacji springa
+
+coc
+--- adnotacje dekoratory
+--- web.xml javaee  czesc specyfikcj -- servlety filtry listenry
+
+kuchnia
+pokoj
+telefon
+
+---
+aplicationContext
+rootAplicationContext
+
+--- nie idzie robota
+---
+spring security
+===
+
+ksiazke do springa - cell sprubuj urochomic ta piprzona aplikacjie
+
+--- widoki 
+viewresolwer - dostej nazwe widoku laczy z modelem
+ViewResolwer.resolveViewName - jedno metoda ())))
+
+---
+plan na piatek co kolwiek musze co kolwiek zrobic
+--- (zrobi sie cieplekj szyby poczyscic)
+---
+w domu obczaic
+---
+facebook i twirer
+----
+funkcje anonimowe - funkcje wyzszego rzedu
+()00 - wyzszego rzedu
+---
+zawieszenie i podloga
+----
+currring
+def, var, val scalaa --- java scriopt, wyrazanie posiadajace wartowsci
+val immutable
+
+if jako wyrazenie
+----
+dopasowanie wzorckow :: scalal dom
+--
+InternalResourceViewResolver - najprostrzy
+()
+----
+komputery w piwnici
+----
+.jsp - kontra rest
+----
+
+colllctio pisane pod eclipsem :: sprubuj wczytac :: uruchamianie poza
+
+<a href="">
+---
+kupujemy zawsze szablon na themoforest.net
+--- kontreoler (widok) laczy model
+///
+--- dzisiaj telefon - sprawdz z tym kontem gooogle
+
+---
+cechy aplikacji stworzynych w eclipsie
+() kuraw jezyk nie wazny wazny efket
+"'Wiedza jak pisać aplikacje webowe jest w dzisiejszych czasach kluczowa dla pracodawców. Jak się sama przekonasz, nie różnią się one tak bardzo od zwykłych aplikacji, a biblioteka Spring MVC tylko uprości nam zadanie.
+'
+
+serwer aplikacji - war aplikacja (deployowanie aplikacji)
+---
+jetty leki konteenre
+---
+Adres http://localhost:8080/kontekst1/cos
+---
+serwer aplikacjny + kontekst aplikacji konteks1.war
+/webapps
+/deplpoyment () pliki i zaleznosci
+---
+scrypty js - 
+----
+funkcjinalnosci aplikacji ::: obsluga telefonu jednym kciukiem
+===
+model baza danch
+====
+rozkracam biurko na balkon
+----
+podpiac sie do bazy i wyciagnac kod xml-a (delphi zniklo)
+---
+mvc - dochodza jeszcze serwisy
+---
+adnotacje - spring co to - diffy w kodzie
+
+----
+wstrzykiwanie zaleznosci IoC - sam laczy w calosci klasy i je incjuje i podpina
+--- (jutro warszawa) -- maven dochodzi
+nalezy kola zimowe -- podnosnik
+
+--- subkonto
+---
+To, co daje nam Spring to przede wszystkim kontener IoC (Inversion of Control) — oznacza to w uproszczeniu (i nie do końca w zgodzie z rzeczywistością — ale na potrzeby kursu możemy przyjąć że tak jest) że w przeciwieństwie do ‘standardowej’ sytuacji, w której to
+---
+"
+Spring MVC to ‘rozszerzenie’ Frameworka Spring o wsparcie dla aplikacji webowych (m.in obsługa adresów URL, przesyłania danych poprzez formularze itp) dzięki czemu tworzenie aplikacji webowej jest prostsze niż kiedykolwiek.
+"
+--
+
+(mieszkanie)
+
+---
+dispatche
+beany obiekty
+comnonent scan
+
+maven koty-webapp, spring mvc (spring mvc geting statrte
+----
+projekt billet - spring boot
+---
+@Autowired - js (DI - auto wired) - obsluga na klasach
+---
+
+controler - viewResolwer - autowired
+@RequestMapping
+
+---
+prefiksowane
+--
+model.addAttribute("message", "To jest jakaś super informacja");
+---
+model z kluczami
+${pobranie warosci}
+--
+${} - ekspresion languge
+--
+aplikacje webowe (destopowa aplikacja) byly proby ale nie doczkala sie reprodukcji
+---
+git widok
+---
+viewResower /WEB-INF/views prefix sufix
+---
+php - latwe hostowanie
+
+controlsr - autowiered  - dao repository
+----
+requste mapig url - resolwer @requsteMapping
+
+arteteka
+----
+HISTSIZE - HISTFILESIEZE - HISTFILE - HOSTNAME
+----
+catalomo
+
+koty-webapp
+koty-application
+
+---
+sekcja linki 14 i 18
+====
+artefakt
+archetyp - szablony
+stereotyp
+===
+pom.xml web.xml
+
+---
+moven repo
+
+guva, codehose i grovy
+----
+artefakt - przedmiot wykonny przez czlowieka
+--
+archetyp - pierwotny wzorzec
+
+groupId: artifactid (projekt modul) - cordintay
+dependecies
+
+--- centralne zarzadzanie numerami wersji dependency Mangagment
+
+grupid nazwa projektu com.costm.gom
+---
+eates
+
+17.15 lancud dmz
+
+17.17  (VIII stanowisko)
+19.10  (VI lancut - sarzyna)
+
+----
+logi katalina:
+---
+Nov 21, 2018 6:43:23 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/lib/jvm/java-7-oracle/jre/lib/i386/server:/usr/lib/jvm/java-7-oracle/jre/lib/i386:/usr/lib/jvm/java-7-oracle/jre/../lib/i386:/usr/lib/jvm/java-7-oracle/jre/lib/i386/client:/usr/lib/jvm/java-7-oracle/jre/lib/i386::/usr/java/packages/lib/i386:/lib:/usr/lib
+Nov 21, 2018 6:43:24 PM org.apache.tomcat.util.digester.SetPropertiesRule begin
+WARNING: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:1places' did not find a matching property.
+Nov 21, 2018 6:43:24 PM org.apache.tomcat.util.digester.SetPropertiesRule begin
+WARNING: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.j2ee.server:mvntest' did not find a matching property.
+Nov 21, 2018 6:43:24 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 21, 2018 6:43:24 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 21, 2018 6:43:24 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1968 ms
+Nov 21, 2018 6:43:24 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 21, 2018 6:43:24 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.41
+Nov 21, 2018 6:43:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Nov 21, 2018 6:43:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+18:43:32,520 INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+18:43:32,712 INFO  [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Wed Nov 21 18:43:32 CET 2018]; root of context hierarchy
+18:43:32,846 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [application-context.xml]
+18:43:33,956 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [config-context.xml]
+18:43:34,872 INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [config-default.properties]
+18:43:34,878 INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [config-developer.properties]
+18:43:34,879 WARN  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Could not load properties from class path resource [config-developer.properties]: class path resource [config-developer.properties] cannot be opened because it does not exist
+18:43:34,880 INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from URL [file:/opt/1places/config.properties]
+18:43:34,880 WARN  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Could not load properties from URL [file:/opt/1places/config.properties]: /opt/1places/config.properties (No such file or directory)
+18:43:34,881 INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from ServletContext resource [/#{systemProperties['configFileLocation']}]
+18:43:34,881 WARN  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Could not load properties from ServletContext resource [/#{systemProperties['configFileLocation']}]: Could not open ServletContext resource [/#{systemProperties['configFileLocation']}]
+18:43:35,083 INFO  [org.springframework.web.context.support.XmlWebApplicationContext] - Bean 'org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter#4023d7' of type [class org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+18:43:35,132 INFO  [org.springframework.web.context.support.XmlWebApplicationContext] - Bean 'dataSource' of type [class org.apache.commons.dbcp.BasicDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+18:43:35,172 INFO  [org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean] - Building JPA container EntityManagerFactory for persistence unit 'default'
+18:43:35,666 INFO  [org.hibernate.annotations.common.Version] - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+18:43:35,688 INFO  [org.hibernate.Version] - HHH000412: Hibernate Core {4.1.4.Final}
+18:43:35,694 INFO  [org.hibernate.cfg.Environment] - HHH000206: hibernate.properties not found
+18:43:35,698 INFO  [org.hibernate.cfg.Environment] - HHH000021: Bytecode provider name : javassist
+18:43:35,910 INFO  [org.hibernate.ejb.Ejb3Configuration] - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+18:43:36,884 INFO  [org.hibernate.service.jdbc.connections.internal.ConnectionProviderInitiator] - HHH000130: Instantiating explicit connection provider: org.hibernate.ejb.connection.InjectedDataSourceConnectionProvider
+18:43:38,414 INFO  [org.hibernate.dialect.Dialect] - HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+18:43:38,436 INFO  [org.hibernate.engine.jdbc.internal.LobCreatorBuilder] - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+18:43:38,462 INFO  [org.hibernate.engine.transaction.internal.TransactionFactoryInitiator] - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+18:43:38,477 INFO  [org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory] - HHH000397: Using ASTQueryTranslatorFactory
+18:43:38,600 INFO  [org.hibernate.validator.util.Version] - Hibernate Validator 4.2.0.Final
+18:43:39,467 INFO  [org.springframework.web.context.support.XmlWebApplicationContext] - Bean 'entityManagerFactory' of type [class org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+18:43:39,495 INFO  [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@134cc05: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,org.springframework.beans.factory.config.PropertyPlaceholderConfigurer#0,userLocationRepository,userRepository,accessTokenRepository,spotRepositoryImpl,spotRepository,org.springframework.data.repository.core.support.RepositoryInterfaceAwareBeanPostProcessor#0,org.springframework.dao.annotation.PersistenceExceptionTranslationPostProcessor#0,dataSource,entityManagerFactory,org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor#0,transactionManager,liquibase,jacksonMessageConverter,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,mailSender,preConfiguredMessage,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+INFO 11/21/18 6:43 PM:liquibase: Successfully acquired change log lock
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/001-create-db-schema.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/002-create-sequences.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/003-add-timestamp-to-spots.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/004-create-accessToken-table.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/005-add-unique-user-login.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/006-create-sequences-access_token.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/007-create-user-locations-table.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/008-add-flag-to-spots.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/009-add-spot-created-at-index.xml is using schema version 2.0 rather than version 3.0
+WARNING 11/21/18 6:43 PM:liquibase: Current XML parsers seems to not support EntityResolver2. External entities won't be correctly loaded
+INFO 11/21/18 6:43 PM:liquibase: classpath:dbchangelog/010-add-spot-location-index.xml is using schema version 2.0 rather than version 3.0
+INFO 11/21/18 6:43 PM:liquibase: Unknown default value: value 'nextval('user_location_id_seq'::regclass)' type bigserial (-5), assuming it is a function
+INFO 11/21/18 6:43 PM:liquibase: Reading from public.databasechangelog
+INFO 11/21/18 6:43 PM:liquibase: Reading from public.databasechangelog
+INFO 11/21/18 6:43 PM:liquibase: Successfully released change log lock
+18:43:47,804 INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 15283 ms
+Nov 21, 2018 6:43:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet '1places'
+18:43:47,853 INFO  [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet '1places': initialization started
+18:43:47,863 INFO  [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace '1places-servlet': startup date [Wed Nov 21 18:43:47 CET 2018]; parent: Root WebApplicationContext
+18:43:47,866 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/1places-servlet.xml]
+18:43:47,937 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [config-context.xml]
+18:43:48,339 INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [config-default.properties]
+18:43:48,340 INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [config-developer.properties]
+18:43:48,340 WARN  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Could not load properties from class path resource [config-developer.properties]: class path resource [config-developer.properties] cannot be opened because it does not exist
+18:43:48,340 INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from URL [file:/opt/1places/config.properties]
+18:43:48,340 WARN  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Could not load properties from URL [file:/opt/1places/config.properties]: /opt/1places/config.properties (No such file or directory)
+18:43:48,341 INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from ServletContext resource [/#{systemProperties['configFileLocation']}]
+18:43:48,341 WARN  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Could not load properties from ServletContext resource [/#{systemProperties['configFileLocation']}]: Could not open ServletContext resource [/#{systemProperties['configFileLocation']}]
+18:43:48,397 INFO  [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1c1e40d: defining beans [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer#0,userServiceImpl,userLocationServiceImpl,reportServiceImpl,spotServiceImpl,mailServiceImpl,frontendController,mailController,userController,userLocationController,spotController,controllerExceptionHandler,reportController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,mvcContentNegotiationManager,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.validation.beanvalidation.LocalValidatorFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,org.springframework.web.servlet.handler.MappedInterceptor#1,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@134cc05
+18:43:49,444 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/frontend/mobile],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.synaway.oneplaces.controller.FrontendController.getManifestForIOS()
+18:43:49,445 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/frontend],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.synaway.oneplaces.controller.FrontendController.index()
+18:43:49,449 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/mails],methods=[POST],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public void com.synaway.oneplaces.controller.rest.MailController.sendMobileAppReleaseMail(javax.servlet.http.HttpServletRequest,java.lang.Long) throws com.synaway.oneplaces.exception.UserException
+18:43:49,457 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users/auth],methods=[POST],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.model.AccessToken com.synaway.oneplaces.controller.rest.UserController.getToken(java.lang.String,java.lang.String) throws com.synaway.oneplaces.exception.UserException
+18:43:49,458 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users/{id}/locations],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.util.List<com.synaway.oneplaces.model.UserLocation> com.synaway.oneplaces.controller.rest.UserController.getUserLocations(java.lang.Long,java.lang.Integer,java.lang.Integer) throws com.synaway.oneplaces.exception.UserException
+18:43:49,458 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users/{id}],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.model.User com.synaway.oneplaces.controller.rest.UserController.getUser(java.lang.Long) throws com.synaway.oneplaces.exception.UserException
+18:43:49,459 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users/{id}/spots],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.util.List<com.synaway.oneplaces.model.Spot> com.synaway.oneplaces.controller.rest.UserController.getUserSpots(java.lang.Long,java.lang.Integer,java.lang.Integer) throws com.synaway.oneplaces.exception.UserException
+18:43:49,459 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.model.User com.synaway.oneplaces.controller.rest.UserController.addUser(com.synaway.oneplaces.model.User) throws com.synaway.oneplaces.exception.GeneralException,org.springframework.web.bind.MissingServletRequestParameterException
+18:43:49,459 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users/{id}],methods=[DELETE],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.synaway.oneplaces.model.User com.synaway.oneplaces.controller.rest.UserController.deleteSpot(java.lang.Long)
+18:43:49,460 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.util.List<com.synaway.oneplaces.model.User> com.synaway.oneplaces.controller.rest.UserController.getAllUsers()
+18:43:49,460 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users/me],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.model.User com.synaway.oneplaces.controller.rest.UserController.getCurrentUser()
+18:43:49,461 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/users],methods=[PUT],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.model.User com.synaway.oneplaces.controller.rest.UserController.updateUser(com.synaway.oneplaces.model.User) throws org.springframework.web.bind.MissingServletRequestParameterException
+18:43:49,462 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/locations/active],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.util.List<com.synaway.oneplaces.model.UserLocation> com.synaway.oneplaces.controller.rest.UserLocationController.getActiveLocations()
+18:43:49,467 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/spots],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.synaway.oneplaces.controller.rest.SpotController.getAllSpots(java.lang.Double,java.lang.Double,java.lang.Integer,java.lang.Double,java.lang.Double) throws org.springframework.web.bind.MissingServletRequestParameterException
+18:43:49,467 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/spots],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.model.Spot com.synaway.oneplaces.controller.rest.SpotController.addSpot(java.lang.String) throws org.springframework.web.bind.MissingServletRequestParameterException,com.synaway.oneplaces.exception.UserException,java.io.IOException
+18:43:49,468 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/spots/random],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.synaway.oneplaces.model.Spot com.synaway.oneplaces.controller.rest.SpotController.addSpot(java.lang.Double,java.lang.Double,java.lang.Double,java.lang.Double)
+18:43:49,468 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/spots/{id}/occupy],methods=[PUT],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.synaway.oneplaces.model.Spot com.synaway.oneplaces.controller.rest.SpotController.setOccupy(java.lang.Long)
+18:43:49,469 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/spots/datatable],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.synaway.oneplaces.controller.rest.SpotController.dataTablesSpot(java.lang.Long,java.lang.Long,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String)
+18:43:49,469 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/spots/{id}],methods=[DELETE],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.synaway.oneplaces.model.Spot com.synaway.oneplaces.controller.rest.SpotController.deleteSpot(java.lang.Long)
+18:43:49,470 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/spots],methods=[PUT],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.model.Spot com.synaway.oneplaces.controller.rest.SpotController.updateSpot(java.lang.String) throws java.io.IOException,org.springframework.web.bind.MissingServletRequestParameterException,com.synaway.oneplaces.exception.UserException
+18:43:49,470 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/spots/{id}],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.model.Spot com.synaway.oneplaces.controller.rest.SpotController.getSpot(java.lang.Long)
+18:43:49,474 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/reports/activity],methods=[POST],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.dto.ActivityReportDTO com.synaway.oneplaces.controller.rest.ReportController.activityReport(com.synaway.oneplaces.dto.ReportParamsDTO)
+18:43:49,475 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/reports/activity/map/counters/{zoom}/{x}/{y}.json],methods=[POST],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public com.synaway.oneplaces.dto.ActivityReportDTO com.synaway.oneplaces.controller.rest.ReportController.activityReportCountersMap(com.synaway.oneplaces.dto.ReportParamsDTO,int,int,int)
+18:43:49,476 INFO  [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/reports/activity/map/pins/{zoom}/{x}/{y}.json],methods=[POST],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.util.List<com.synaway.oneplaces.model.Spot> com.synaway.oneplaces.controller.rest.ReportController.activityReportPinMap(com.synaway.oneplaces.dto.ReportParamsDTO,int,int,int)
+18:43:49,751 INFO  [org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver] - Detected @ExceptionHandler methods in controllerExceptionHandler
+18:43:49,853 INFO  [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+18:43:49,895 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/frontend/mobile] onto handler 'frontendController'
+18:43:49,896 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/frontend/mobile.*] onto handler 'frontendController'
+18:43:49,896 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/frontend/mobile/] onto handler 'frontendController'
+18:43:49,896 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/frontend] onto handler 'frontendController'
+18:43:49,896 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/frontend.*] onto handler 'frontendController'
+18:43:49,896 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/frontend/] onto handler 'frontendController'
+18:43:49,897 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/mails] onto handler 'mailController'
+18:43:49,897 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/mails.*] onto handler 'mailController'
+18:43:49,897 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/mails/] onto handler 'mailController'
+18:43:49,905 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/auth] onto handler 'userController'
+18:43:49,905 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/auth.*] onto handler 'userController'
+18:43:49,905 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/auth/] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}/locations] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}/locations.*] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}/locations/] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}.*] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}/] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}/spots] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}/spots.*] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/{id}/spots/] onto handler 'userController'
+18:43:49,906 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/me] onto handler 'userController'
+18:43:49,907 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/me.*] onto handler 'userController'
+18:43:49,907 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/me/] onto handler 'userController'
+18:43:49,907 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users] onto handler 'userController'
+18:43:49,907 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users.*] onto handler 'userController'
+18:43:49,907 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/users/] onto handler 'userController'
+18:43:49,909 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/locations/active] onto handler 'userLocationController'
+18:43:49,909 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/locations/active.*] onto handler 'userLocationController'
+18:43:49,909 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/locations/active/] onto handler 'userLocationController'
+18:43:49,916 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/random] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/random.*] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/random/] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}/occupy] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}/occupy.*] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}/occupy/] onto handler 'spotController'
+18:43:49,917 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/datatable] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/datatable.*] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/datatable/] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}.*] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/{id}/] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots] onto handler 'spotController'
+18:43:49,918 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots.*] onto handler 'spotController'
+18:43:49,919 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/spots/] onto handler 'spotController'
+18:43:49,920 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/reports/activity] onto handler 'reportController'
+18:43:49,920 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/reports/activity.*] onto handler 'reportController'
+18:43:49,920 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/reports/activity/] onto handler 'reportController'
+18:43:49,921 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/reports/activity/map/counters/{zoom}/{x}/{y}.json] onto handler 'reportController'
+18:43:49,921 INFO  [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] - Mapped URL path [/reports/activity/map/pins/{zoom}/{x}/{y}.json] onto handler 'reportController'
+18:43:50,013 INFO  [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet '1places': initialization completed in 2159 ms
+Nov 21, 2018 6:43:51 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 21, 2018 6:43:51 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 21, 2018 6:43:51 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 26476 ms
+Nov 21, 2018 6:45:16 PM org.apache.jasper.compiler.TldLocationsCache tldScanJar
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+----
+
+lukasz@lukasz-Aspire-5560:~/workspace/collectio$ gradle build
+:compileJava
+Download http://repo1.maven.org/maven2/org/springframework/spring-tx/3.2.18.RELEASE/spring-tx-3.2.18.RELEASE.pom
+Download http://repo1.maven.org/maven2/org/springframework/spring-context/3.2.18.RELEASE/spring-context-3.2.18.RELEASE.pom
+Download http://repo1.maven.org/maven2/org/springframework/spring-beans/3.2.18.RELEASE/spring-beans-3.2.18.RELEASE.pom
+Download http://repo1.maven.org/maven2/org/springframework/spring-core/3.2.18.RELEASE/spring-core-3.2.18.RELEASE.pom
+Download http://repo1.maven.org/maven2/org/springframework/spring-expression/3.2.18.RELEASE/spring-expression-3.2.18.RELEASE.pom
+Download http://repo1.maven.org/maven2/org/springframework/spring-aop/3.2.18.RELEASE/spring-aop-3.2.18.RELEASE.pom
+Download http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+Download http://repo1.maven.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+Download http://repo1.maven.org/maven2/org/springframework/spring-context/3.2.18.RELEASE/spring-context-3.2.18.RELEASE.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-beans/3.2.18.RELEASE/spring-beans-3.2.18.RELEASE.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-core/3.2.18.RELEASE/spring-core-3.2.18.RELEASE.jar
+Download http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-tx/3.2.18.RELEASE/spring-tx-3.2.18.RELEASE.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-expression/3.2.18.RELEASE/spring-expression-3.2.18.RELEASE.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-aop/3.2.18.RELEASE/spring-aop-3.2.18.RELEASE.jar
+warning: [options] bootstrap class path not set in conjunction with -source 1.6
+Note: /home/lukasz/workspace/collectio/src/main/java/pl/ontia/collectio/test/printout/ArtworkFrontView.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 warning
+:processResources
+:classes
+:war
+:assemble
+:compileTestJava
+warning: [options] bootstrap class path not set in conjunction with -source 1.6
+1 warning
+:processTestResources UP-TO-DATE
+:testClasses
+:test
+:check
+:build
+
+BUILD SUCCESSFUL
+
+Total time: 1 mins 6.458 secs
+
+----
+gradle build UWAGA TO MOZE BYC APLIKACJA NAJETTY ---- SPRUBUJ Z JETY I CZEMU MI ECLIPSE NIE CHODIZ
+---
+SYNAWAY
+
+REBASE ON TOP OF - commmit weirer moze cos pokoduj

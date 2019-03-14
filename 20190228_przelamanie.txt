@@ -1,0 +1,100 @@
+aplikacje webowe to:
+	spring mvc
+----
+kontekst aplikacji
+
+/src/main/webapp - glowny katalgo pkilow weboweych
+/--- wydruki na jasper raport
+/--- wydruki na vellocity template engine
+
+mvc - trojpodzial aplikacji
+serwisy + microserwisy (nomenklatura)
+
+boilerplate code
+
+---
+scrany nazwy plikow
+model nasluchuje views
+boilerplate
+convention over configuration
+adnotacje
+
+IoC + DI - Odwocenie sterowanie to nam daje spring
+spring mvc = sprign 
+
+View resolverta -- klasa view resolwera (podstawa)
+Servlety, Listenery, Filtry
+
+--- podstawy (okreslony zasob programowania)
+// component steretyp // - caly czas sie obracalem w kolo ale
+
+// - projekt buliet jako spring boot
+
+--- sts sprint toll suite (zmiany w locie)
+--- projec ekslorer zwija pakiety / jest troche lepszy
+
+pom.xml
+web.xml
+gradle.
+
+m2e maven to eclipse
+
+paking type war
+web deploy assembly --- 
+
+gradle taks - lista taskow
+
+cleanEclipse - Cleans all Eclipse files.
+
+eclipse - Generates all Eclipse files.
+
+gradle build
+
+---- budowanie aplikacji :
+
+gradle clean
+gradle build
+
+---
+tomacat i aplikacja dziala
+
+----
+wczyteac kody obydwu collectio i porownac (cipka siedzie i koduje)
+laczenie z baza dancy
+
+DAO ArrayList - z elemntami enkapsukalcjui
+
+ralacja tabeala : raliationship : jakie sa ograniczenia na tabelach
+proces noramlizacji : normalizajca tabeli
+
+pisanie patchy na tabale - skrypty gdzies mialem takie skrypty patchujace i opaczujece
+---
+potrz dbconverter podnoszenie wersji aplikacji, 
+co w bazi mozna a co nie mozna !!! albo klopot
+
+----
+NoSQL to ogólna nazwa dla wszystkich baz danych, które odchodzą od modelu relacyjnego — rodzajów takich baz jest wiele (key-value store, column family itp), dlatego termin ten nie określa jakiego rodzaju jest dana baza danych, a raczej jakiego rodzaju nie jest
+---
+noSql - owa baza 
+
+BigData + DynamoDB , biulteny blue printyy
+
+--- OnePlaces
+NoSql - okresle jakiego rodzaju baza nie jest
+----
+
+mpw - warszawa podsumowanie
+--- co jakis czas jest uruchamianiay dbconvertere - sprawdz skrypty
+--- modelu webeksportu jest wdrozony :: raporty w postaci htmal i importy , kopie bazy danych
+
+---
+eclips java projekct ::: zastanwic sie w domu
+---
+przelamanie eclipse:
+
+----
+przed importem ustwic repozytoria : testowy import zrobic u sibie
+----
+GIT - to nie gitHub - git to , baza plikow rozposzona, baza comiitow baza branchy
+---- rodzaje branchy wykresy
+

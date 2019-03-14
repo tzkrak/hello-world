@@ -9,9 +9,11 @@ public class TestHello {
 	static String HELLO_MSG = "Hello\n";
 	private Vector strVect;
 
-	public static void main(String args[]){
+	public static void main(String[] args){
 		TestHello th = new TestHello();
 		System.out.println(HELLO_MSG);
+		ObjectVersusReference.main(new String[]{"test"});
+		ObjectVersusReference.exampleCompareStraightType();
 	}
 
 	public TestHello(){
@@ -35,10 +37,72 @@ public class TestHello {
 		return "v1.0";
 	};
 
-	private boolean getStatu(){
+	private boolean getStatus(){
 		return true;
 	};
-	private boolean getComflict(){
+	private boolean getConflict(){
 		// symulacja konfliktu po fast-forward merge
+		return false;
 	}
 }
+
+class ObjectVersusReference {
+    public static void main(String[] args) {
+        Object referenceToObjectX = new Object();
+        Object anotherReferenceToObjectX = referenceToObjectX;
+        Object refferenceToObjectY = new Object();
+
+        System.out.println(referenceToObjectX.toString());
+        System.out.println(anotherReferenceToObjectX.toString());
+        System.out.println(refferenceToObjectY.toString());
+    }
+    public static void testCode_1{
+    	// zmienna typu interafce programowanie na intaracke
+    	// samouczek programisty zastosowanie intarfajsow
+    	// po co one
+    	// java developoer na takie stanowisko chce
+    	// tree
+    	// is
+    	/*
+    api - interface programisty
+static przypisanie do klasy
+
+====
+git powtorek
+
+===
+wrzuc kod do gita/ domyslny bezparametrowy 
+----
+zaczac kodowac wodomu
+
+ctr-space , control - shif space
+czytani pliku hasmapowoani 
+git kluczowe pojecia
+			gownaniy skrykptach eorr i i dziekuje
+			domyslane enumy 
+    	*/
+    }
+
+    public static void exampleCompareStraightType(){
+    	System.out.println("10 == 10: " + (10 == 10));
+		System.out.println("10 != 10: " + (10 != 10));
+		System.out.println("true == true: " + (true == true));
+		System.out.println("true != true: " + (true != true));
+		System.out.println("'a' == 'a': " + ('a' == 'a'));
+		System.out.println("'a' != 'a': " + ('a' != 'a'));
+		System.out.println("500L == 500L: " + (500L == 500L));
+		System.out.println("500L != 500L: " + (500L != 500L));
+    }
+}
+
+// public static final
+// public static final (domyslne)
+// framworki tworzone
+// interejes tez dziedziczy do kompilatora
+// intarajace znacznikowa
+
+----
+kurs
+
+---
+

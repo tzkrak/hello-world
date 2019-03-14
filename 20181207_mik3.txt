@@ -1,0 +1,50 @@
+kompilacja
+
+gradle : slack w czym napisany
+
+
+porzdki z kodem	
+
+
+daty plikow :
+pamietaj o lampie i pamietaj o srubokracie 
+
+----
+baterie pralka i choinka / stojak i lampki
+----
+
+sarzyna porzadki
+
+(juz sobie przypominam - genaza javascriptu wywodzi sie od SmalTalk - )
+---- czyli to chodzi o small talk
+programowanie  ogolie mamy clsse, obiekt danej clasy, referencje - (typ referencji)
+
+obiekt alogkuje pamiec, refencja to zmienna , clasa - tez jest obietem
+
+w kontekscie js (poszukac skad to)
+----
+
+uwaga : git w ktalogu roboczym nie mozna polagac na dacie pliku jest rozna od ostatniej modyfikacji
+
+---
+jaki jezyk wyprac sa jezyki do kodowania i do ptototypowania - kacik kodowania
+----
+gradle build
+gradle eclipse
+gradle tesk
+
+----
+tylko kodowanie
+
+---
+artefacty i wzorce : wlozyc dwa projekty i potescic
+
+---
+na 9.30 - kodowanie co dalej () ++ // 1 stopien golf blotnik zlozyc gdzie sa wiertla
+---
+z ponidzialku
+http://jlaskowski.blogspot.com/2006/
+RESTowe Web Services w Grails - rozdział 9 z "Begi... (przespalem cala dekade programownia)
+collectio poszukaj
+
+(czyli wracamy do sedna co sie koduje zazwyaczej , podstawy to musi byc, warto znac wewnetrzen mechanizmy jak kod bajtowy zeby zrozumiec zawilkosci skaldniowe)
