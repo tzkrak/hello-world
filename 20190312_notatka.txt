@@ -1,0 +1,173 @@
+punkt zaczepienia rozwiazac knflikt
+
+globalna rozproszaona baza dancy 
+
+dns - rozproszaona baza danych --- statystyki mierzace popularnosc strony	
+
+xss -- zabezpiczone strony interentore
+
+port:zaptyanie
+
+sieci sematyczne : ontologia ::
+
+slowniki taksonomie
+----
+uwaga na wawel
+
+git checkout -b 'test-branch-1'
+
+====
+git cheatcode
+git checkout
+
+----
+semantyka:-> ontologia -> xml : seamtyka opis danych o danyuch
+---
+wazne wnioski o branchach - (branche to wskazniki na commity : 
+commity ukladaja sie w graf
+----
+1. Po przelaczeniu sie na brancha - pliki w working direktory moga znikanc
+2. Rozwiazyanie konfilorw miedzy branczhami - poprzez mergowanie brancha (tutaj wchodzi technika fetch, marge
+3. WAZNA UWAGA - po przelaczeniu sie na brancha wskaznik nie idzie dalej
+
+----
+Zalety stosowania branchy - (patrz pokazuje calosc zmian : mozna wykonac kode rewiowe)
+---
+Nazwy kommitow to Marge branch 'master' into 'nazwa-commitu'
+Marge pull request #4 from tzkrak/test-branch-1 (nazwa ficherara tagu)
+
+nazwy komitoow
+
+--- od dzisiaj pracujemy na branchach
+() --- czesami przed wrzuceniem zmian pull regeste jest potrzeba margowania
+--- trzeba pracowac tylko na branchach
+
+pytanie co robi pull :::
+
+changeset + patch to to samo
+
+---
+kolpak : podnosnik
+
+----
+update to this rewision ;; uwag praca na branchach
+---
+clik to wiew all margerd filee
+---
+www.jeudepaume.org 
+
+powtorka klasy sa ladowana na starcie programu ::: kody klasy
+obiekt to kopia klasy() - wazne zajmuje pamiec 
+
+;; zalezy na jaki poziom abstrakcji schodzimy
+----
+tablica to referncja : i zarazem obiket
+kontkrakt to chaxh
+
+----
+rachunki
+zapis bartka do szkoly (zebranie) - piniedze klasowe
+:: dzidizczenie na stosie kontkrutio bezparmatrowy uwaga
+super();
+this();
+---
+kontkrta na hashCode i Equlas
+
+----
+package pl.musnet.cats;
+
+public class Cat {
+	String name_s;
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((eage == null) ? 0 : eage.hashCode());
+		result = prime * result + ((name_s == null) ? 0 : name_s.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Cat other = (Cat) obj;
+		if (eage == null) {
+			if (other.eage != null)
+				return false;
+		} else if (!eage.equals(other.eage))
+			return false;
+		if (name_s == null) {
+			if (other.name_s != null)
+				return false;
+		} else if (!name_s.equals(other.name_s))
+			return false;
+		return true;
+	}
+
+	Integer eage;
+	
+	public Cat(String name, Integer eage) {
+		this.name_s = name;
+		this.eage = eage;
+	}
+}
+
+-----
+przyklad generacji :: pisanie kodu pod eclipsem - duzo asystty
+
+
+----
+rachunki zapis na dyzur do szkoly
+oplata wycieczkia
+powtorka do warszawa : sprawdz ftp:y 
+---
+
+koljna zagadak to sciaganie zmian (zmiany sciagamy a ponziej SPRAWDZAMy)
+
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ git pull
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), done.
+From https://github.com/tzkrak/hello-world
+   2341af4..bec7ea0  master     -> origin/master
+   221d047..4066f9f  test-branch-1 -> origin/test-branch-1
+Updating 2341af4..bec7ea0
+Fast-forward
+ 20190129_praca.txt        |   68 ++++++++++++++
+ 20190131-praca.txt        |  214 +++++++++++++++++++++++++++++++++++++++++++++
+ 20190208-praca.txt        |  134 ++++++++++++++++++++++++++++
+ 20190213_praca.txt        |   20 +++++
+ 20190227_git_powtorka.txt |  101 +++++++++++++++++++++
+ 20190304_gitpowtorka.txt  |    3 +-
+ musnet_podsumowanie.txt   |   53 +++++++++++
+ napoleon.xml              |    1 +
+ 8 files changed, 593 insertions(+), 1 deletion(-)
+ create mode 100644 20190129_praca.txt
+ create mode 100644 20190131-praca.txt
+ create mode 100644 20190208-praca.txt
+ create mode 100644 20190213_praca.txt
+ create mode 100644 20190227_git_powtorka.txt
+ create mode 100644 musnet_podsumowanie.txt
+ create mode 100644 napoleon.xml
+
+----
+
+
+To https://github.com/tzkrak/hello-world.git
+ ! [rejected]        test-branch-1 -> test-branch-1 (non-fast-forward)
+error: failed to push some refs to 'https://github.com/tzkrak/hello-world.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
+
+i mi sie zblikowalo wszystko ::::
+
+
+
