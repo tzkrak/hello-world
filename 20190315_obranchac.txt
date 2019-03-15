@@ -1,0 +1,171 @@
+po zamkniciu pull : regusta - brancha usuwamy
+
+branch to taki dynamiczny tag : kazdy komit przesuwa poprzeczke
+
+
+---
+kodowanie + rozczajanie
+
+---
+praca z gitem jest 90% skomplikowana niz centralne repozytorium
+
+---
+commity <- zarzadzanie komitami - (komit to migawka)
+---
+
+autor : autor date // czas na scigniecie czyjegos repo
+
+:: silniki Tce po latach eksplatacji : cewki na swiecach :: brak kabli zaplonowych
+--
+olej i filtry wplwaja na zywotnosc 
+3200 turbo 2000 tysciecy cewka 200 zloty
+
+sytacja taka ze jak :: najgorzej jak tam sam plik sie chyci
+
+CAPSLOOK - WAZNE ZEBY NIE PRACOWAC - NA BRANCZU GLOWNYM (PZY PULL GENERUJAS SIE
+MARGE TUPU FAST FORWARD
+---
+TO SAMO SIE DZIJE JAK SIE ZAPUZNIMY NA I JEST KONFLIGK - PULL CIAGNIE CALOSC zmian i robi marga
+---
+JUZ MI SIE ROZJASNIA KURS - pamietaj o idenyfikacji (praca na chmurze) 
+---
+powtorka (taraz apka mobilna)
+
+
+--- podapatrzenie czyjegos repozytorium (nie posiada branczow -- poczytec jeszcze o tych branchaczh
+
+--- paprota porwal sie na biznes
+---
+NAZWA Merge pull requst #4 from tzkrak/<nazawabranczha>
+
+---
+<code rewierw>
+
+----
+megan - siliki beznynowa (nissana silnik)
+----
+hiundai elantra - ktory samochod	
+
+sprubuj usunac branche-1 i branche-2
+--- ( i synchronizowac)
+
+--- message :: jesli wczesniej nie zrobimy pull 
+To https://github.com/tzkrak/hello-world.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/tzkrak/hello-world.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
+
+--- komunikat jak robimyh pull <- na zlym branchu
+remote: Enumerating objects: 10, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 10 (delta 4), reused 8 (delta 4), pack-reused 0
+Unpacking objects: 100% (10/10), done.
+From https://github.com/tzkrak/hello-world
+   bec7ea0..fe27091  master     -> origin/master
+You asked me to pull without telling me which branch you
+want to merge with, and 'branch.test-branch-2.merge' in
+your configuration file does not tell me, either. Please
+specify which branch you want to use on the command line and
+try again (e.g. 'git pull <repository> <refspec>').
+See git-pull(1) for details.
+
+If you often merge with the same branch, you may want to
+use something like the following in your configuration file:
+    [branch "test-branch-2"]
+    remote = <nickname>
+    merge = <remote-ref>
+
+    [remote "<nickname>"]
+    url = <url>
+    fetch = <refspec>
+
+See git-config(1) for details.
+
+REPOZYTORIUM CENTRALNE / NIE POSIADA 
+----
+  all
+  master
+  show
+  test-branch-1
+* test-branch-2
+  test-pull-req-branch
+  two
+  vaadinn-description
+----
+ukranice - 
+
+---- po przelaczeni na master komunikta --
+Switched to branch 'master'
+Your branch is behind 'origin/master' by 7 commits, and can be fast-forwarded.
+
+----
+
+podstawy sie nauczyc (framworki olac)
+
+
+UWAGA : PRZELACZANIE SIE BRANCZE --- ZMIENIA WORKING DIRECTORY ;;; WORKING - i branche 
+
+----
+# On branch master
+# Your branch is behind 'origin/master' by 7 commits, and can be fast-forwarded.
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	tmp/
+nothing added to commit but untracked files present (use "git add" to track)
+----
+
+efekt koncowy zaciagniecia pull requste
+----
+Fast-forward
+ 20181129_n.txt           |   34 +++++++++
+ 2019-egzamin-gimnazjum   |   41 +++++++++++
+ 20190312_notatka.txt     |  173 ++++++++++++++++++++++++++++++++++++++++++++++
+ 20190313-sesja-z-git.txt |   93 +++++++++++++++++++++++++
+ konfiguracja_tel.txt     |   10 ++-
+ 5 files changed, 350 insertions(+), 1 deletion(-)
+ create mode 100644 20181129_n.txt
+ create mode 100644 2019-egzamin-gimnazjum
+ create mode 100644 20190312_notatka.txt
+ create mode 100644 20190313-sesja-z-git.txt
+
+---- 
+
+marge branch master into 
+----
+
+PYTANIE USUWANIE BRANCHY I PRACA NA BRANCHACH OD DZISIAUJJ
+---
+
+OSTATECZNIE :: git pull / fech i marge ale odnoscnie brancza
+---- 
+
+$ git branch | grep -v "master" | xargs git branch -D 
+will delete all branches except master, replace master with branch you want to keep (will delete master)
+
+----
+uswanie branchy lolkanych --- to mnie nie obchdzi uwazaj tylk przy push all
+----
+
+
+
+POPATRZE NA RAPOZYTORIA INNYCH ;; JAK LECA (GENERALNIE BRANCHE NALEZ USUWAC BO I TAK NIKT O NICH NIE WIE POZA MNA
+----
+
+JEST TYLKO MASTER WAZNE SA KOMMITY
+
+(****)
+wytluscila sie 
+
+---- taraz jestem gotowy na tutorial----
+---- pomeczyc jave i isc na tutorial --- aplikacje webowe
+
+OK WSZYSKTO OK A TERAZ KLUCZOWE ZAGADNIENIA TO :
+---- tagowanie wersji 
+---- powrot do poprzedniej wersji (cofanie kommitow i zmian)
+
+ammend commit
