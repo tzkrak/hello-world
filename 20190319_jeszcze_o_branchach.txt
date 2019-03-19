@@ -1,0 +1,144 @@
+pul - request (interent of shit)
+
+2-ga polowa maja (zapisy na sierpien)
+----
+jutro magdzie zaplacic na wycieczke + terminy klasyfikacji:
+---
+sprawdzic dokladnie 
+
+---
+utulizacja komputera 
+
+----
+pull - requste po godzinie kodowania (zalozyc nowy projekt na git-ie)
+
+---
+sprawdzic inne projekty
+
+---(pralka naprawa + zaplacici za wycieczke)
+---(zapisac bartka do szkoly) - trzeba jeszcze isc zobaczyc do tej szkoly)
+
+---(jutro podjechac do kupna)
+
+fast-forward / branche nalezy usuwac / stach unstash/ stage
+----
+NAZWA Merge pull requst #4 from tzkrak/<nazawabranczha>
+---
+sciage z komend usuwanie brancha (origin/master) 
+---
+dobra praca na branchach ale mozna smialo usuwac CHYBA
+---
+nia mam dostepu do kodu jestem poza
+
+() --- wydrukowac liste ---  (cisan taplary)
+02/28 - przalamanie
+---
+umowa na upc :: (pralka) - sledzenie komitow 
+
+====
+STRATEGIA NAZYWANIA COMMITOW I BRANCHY -- fiat tipo szary
+
+----
+java core
+aplikacj webowe - no sql olac
+
+malowanie : aplikacje webowe ruszyc
+
+----
+po co jest marge commit
+---
+https://stackoverflow.com/questions/47089913/merge-commit-vs-normal-commit
+---
+szukac w internecie i czytac
+
+master : branch / develop : branch - roznica w histori	
+
+git commit -a -m 'opisa zmiany" - galaz przesuwa sie do przedu 
+---
+przelaczanie na galzie (zmienia katalalog roboczy)
+
+(schowek + zatwierdzenie zmian / konflik nie pozwoli
+----
+git checkout -b 'hotfix'
+---
+
+git merge hotfix :: margowanie zmian
+
+fast forward - przewijanie do przdu
+---
+$ git branch -d hotfix
+Deleted branch hotfix (3a0874c).
+---
+usuniecie galezi hotfix
+
+----
+git merge master - dodawanie zmian z galzi master
+
+thre way mage  : marge commit
+---
+kurs 
+
+c - kommit zestw zmian
+
+marge by recursiw - tworzenie i usuwanie branchyc
+
+===
+git pushh -all ryzykowne bo wszystkie branche poszly ::: mozna usuwac branchd
+----
+
+https://git-scm.com/book/pl/v1/Ga%C5%82%C4%99zie-Gita-Podstawy-rozga%C5%82%C4%99ziania-i-scalania
+---
+
+tu sa podstawy
+
+----
+poszukac felgi i kola zainwsotwc w opony
+
+----
+git status :: unmarget conflikt - (jestem na etepie branchy i magrowania konfilgow)
+
+--- system kontroli wersji
+--- git margetoll
+
+git add - (do poczkalni oznacza rozwiazanie konfliktu
+---
+Merge branch 'iss53'
+
+Conflicts:
+  index.html
+#
+# It looks like you may be committing a MERGE.
+# If this is not correct, please remove the file
+# .git/MERGE_HEAD
+# and try again.
+#
+
+----
+marge branch iss53 - 
+----
+Remote branches are references (pointers)
+----
+reference pointer
+----
+https://git-scm.com/book/pl/v1/Ga%C5%82%C4%99zie-Gita-Zarz%C4%85dzanie-ga%C5%82%C4%99ziami
+----
+o przesuwaniu wskasnikow
+
+"Ponieważ gałąź iss53 została już scalona, znalazła się ona na Twojej liście. Gałęzie znajdujące się na tej liście a niepoprzedzone znakiem * można właściwie bez większego ryzyka usunąć poleceniem git branch -d; wykonana na nich praca została już scalona do innej gałęzi, więc niczego nie stracisz."
+
+i to chodzi
+
+git branch -d
+---
+utrzymanie i scalanie zmian w galziech spososby pracy z galeziami
+prpposed next master
+
+galzie krotkowdystanoswae
+----
+marge oznaczony jest kwadratem
+
+----
+praca na lokalnych branchach :: praca na zdalnych branchac roznica
+
+----
+teraz prubuje zorbic loklanego brancha 
