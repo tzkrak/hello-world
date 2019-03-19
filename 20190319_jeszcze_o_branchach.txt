@@ -142,3 +142,5 @@ praca na lokalnych branchach :: praca na zdalnych branchac roznica
 
 ----
 teraz prubuje zorbic loklanego brancha 
+
+(teraz juz n galzi master)
