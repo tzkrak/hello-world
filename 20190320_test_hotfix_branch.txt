@@ -84,3 +84,23 @@ licza sie nazwy komiitow i nazwy branchy
 
 --- wyszlo szydlo
 schamat pracy tworzymy brancha lokalnego wypychamy do zdalnego czekamy na rawizje jesli ok margujemy i uswamy (w tan sposob nie robimy balaganu
+
+----
+ git push origin test-branch-3 ( -- opcja -u (nie wiem) wynick
+----
+Username for 'https://github.com': tzkrak
+Password for 'https://tzkrak@github.com': 
+remote: 
+remote: Create a pull request for 'hotfixx' on GitHub by visiting:
+remote:      https://github.com/tzkrak/hello-world/pull/new/hotfixx
+remote: 
+To https://github.com/tzkrak/hello-world.git
+ * [new branch]      hotfixx -> hotfixx
+----
+i juz mamy galaz sledzodzaca (rapozytoira moga sie roznic galeziami)
+----
+pozniej gosc marguje i usuwaga
+
+a. wysalalem zmiana przlaczam sie spoworotem na master
+(zmaiany sa w poczakalni)
+
