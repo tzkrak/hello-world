@@ -144,3 +144,17 @@ praca na lokalnych branchach :: praca na zdalnych branchac roznica
 teraz prubuje zorbic loklanego brancha 
 
 (teraz juz n galzi master)
+
+kasowanie zmian juz istnijacych :: slack :: ref: silosach
+
+(jednak praca na galeziach to wazne)
+
+---
+push wypychanie zmian, git fetch = git pull
+----
+
+galezie sledzace kolejna zgadka 
+
+git chekout --track
+---
+git jest bardzo intucjny i elastyczny
