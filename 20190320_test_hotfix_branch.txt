@@ -1,0 +1,106 @@
+fork, pach
+cloene 
+
+----
+punkt zaczepienia
+
+---
+instacja to same dane, KLASA to template i kod logiczny
+---
+aplikacj webowe
+programowanie funkcyjne
+
+---
+urochomic aplikacje
+---
+poczytac wyslac gosciowi
+---
+napisac maile
+---
+
+23 kod
+---
+kod jest kodem jak sie go napisze to inna kwestia
+----
+
+---- 
+galezie brancze (mimo wszystko pracujesz na galzei master)
+
+get fech - (SYNCHRONIZUJE WSKAZNIKI, COMMITY WSKAZNIKI WERSJE PLIKU)
+
+----
+WYPYCHANIE GALZEI TEMATYCZNEYCH
+---
+$ git checkout -b serverfix origin/serverfix
+---
+podlaczanie sie do zdalenej galzei serwerfix
+---
+galzei sledzoace git pull
+git push
+
+
+pull requste
+---
+
+PODSAOWA RUZNIACA TO TAKA
+--- PIERW SYNCHRNOZUUJEMY POZNIEJ SPRAWDZAMY + ROZWIAZYWANIE KONFLIKJTU
+--- SPOSOSBY PRAWCY
+
+git chet code (sedno prazy to pojecie galzi i grafu zmian)
+--- polecenia ::
+podstawa to pull : (zeby nie robic sobie konflikow) fast-forward (marge kommit)
+----
+marge i commity (harmonogram) 
+---
+pralka
+
+uswawanie branchy, synchronizacja branchy (iini nie beda widziec mich branchy dopiki im nie powiem)
+
+git push all (uwaga) 
+
+git pull
+git push
+git add, git commit -m 'message'
+
+ 1361  git clone https://github.com/tzkrak/hello-world.git
+ 1401  git config --global user.name "tzkrak"
+ 1403  git config --global user.email "t.zajac@interia.pl"
+
+
+---
+   2c19dbb..4ea4d89  master     -> origin/master
+ * [new branch]      test-branch-2 -> origin/test-branch-2
+ * [new branch]      vaadinn-description -> origin/vaadinn-description
+
+wyciagniecie zmian przez pull
+
+() - czyli wyciagnal mi branche zdalene a lokalne nie - w domu sprawdz
+---
+licza sie nazwy komiitow i nazwy branchy
+
+--- schmat pracy 
+
+--- BRANCZE TRZEBA UWAZAC NIE SA WAZNE I NIEZBEDNE --- RAWIZJA KODU ZAHOWANAOA NA GITHUBIE
+
+--- wyszlo szydlo
+schamat pracy tworzymy brancha lokalnego wypychamy do zdalnego czekamy na rawizje jesli ok margujemy i uswamy (w tan sposob nie robimy balaganu
+
+----
+ git push origin test-branch-3 ( -- opcja -u (nie wiem) wynick
+----
+Username for 'https://github.com': tzkrak
+Password for 'https://tzkrak@github.com': 
+remote: 
+remote: Create a pull request for 'hotfixx' on GitHub by visiting:
+remote:      https://github.com/tzkrak/hello-world/pull/new/hotfixx
+remote: 
+To https://github.com/tzkrak/hello-world.git
+ * [new branch]      hotfixx -> hotfixx
+----
+i juz mamy galaz sledzodzaca (rapozytoira moga sie roznic galeziami)
+----
+pozniej gosc marguje i usuwaga
+
+a. wysalalem zmiana przlaczam sie spoworotem na master
+(zmaiany sa w poczakalni)
+
