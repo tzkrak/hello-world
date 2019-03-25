@@ -104,3 +104,19 @@ pozniej gosc marguje i usuwaga
 a. wysalalem zmiana przlaczam sie spoworotem na master
 (zmaiany sa w poczakalni)
 
+----
+przalaczanie miedzy branczami jednak chroni nadpisywane pliki 
+stosownymi komunikatami
+---
+
+po przelaczeniu zmiany w branchu hotfix -- zniknely
+---
+przy prubie nadpisania (plikow) juz isniejacych
+error: The following untracked working tree files would be overwritten by merge:
+	20190320_test_hotfix_branch.txt
+Please move or remove them before you can merge.
+Aborting
+---
+
+kontroler : us :
+
