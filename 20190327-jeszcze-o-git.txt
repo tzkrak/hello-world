@@ -119,3 +119,20 @@ jechali z bartkiem
 find result -- zajebisty aplikacje generujace
 ----
 taraz java + porzadki
+----
+push branch to github
+
+git push -u origin future-branch-name
+----
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ git push -u origin issue-01 
+Username for 'https://github.com': tzkrak
+Password for 'https://tzkrak@github.com': 
+remote: 
+remote: Create a pull request for 'issue-01' on GitHub by visiting:
+remote:      https://github.com/tzkrak/hello-world/pull/new/issue-01
+remote: 
+To https://github.com/tzkrak/hello-world.git
+ * [new branch]      issue-01 -> issue-01
+Branch issue-01 set up to track remote branch issue-01 from origin.
+l
+---
