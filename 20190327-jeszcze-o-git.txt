@@ -1,0 +1,138 @@
+master -> master
+---
+nastepna na ogien pralka
+---
+pograzony sie panoszy
+
+---
+and
+maven
+grovvy
+
+---- prawdy zyciowe ----
+(jazda testowa :: i ogladanie ::)
+---
+
+caffe longo
+
+---
+clonowanie rapoytorium, czwartek targi pracy
+----
+Create a new branch for this commit and start a pull request. Learn more about pull requests.
+----
+stack tachnologiczny generowanie aplikacji 
+---
+cora api
+----
+
+delete commit
+---
+@Stateless
+@Path("/helloWorld")
+---
+ @GET
+    @Produces("text/html")
+---
+    @PUT
+    @Consumes("text/plain")
+---
+	podswietlanie kodu 
+---
+
+pralka porzadki z komputerem : folder tmp : klucze olac w dopie klucze :
+---
+spcjalizacja - dotarcie wymiana oleju godiznna dziennie
+---
+
+blob
+---
+/**
+ * REST Web Service
+ *
+ * @author mkuchtiak
+ */
+---
+net beens generator web serwice
+---
+net bens sigleton - wzorce objetkowe
+(olac to )
+---
+felgi i opony - pozniej sprzedam fluidol do drzwi konserwacje
+---
+git clone ;;; teste
+
+---
+  298  git clone git@gitrepo:server/1places.git
+  299  git clone lukasz.drozd@gitrepo:server/1places.git
+  307  git clone git[B@gitrepo:server/1places.git
+  313  git clone git@gitrepo:server/1places.git
+  315  git clone git@gitrepo:server/1places.git
+ 1352  git clone
+ 1361  git clone https://github.com/tzkrak/hello-world.git
+ 2189  git clone
+ 2190  git clone https://github.com/tzkrak/hello-world.git
+---
+	klonowanie
+	
+	https://github.com/tzkrak/hello-world.git
+---
+	kwadraciki to marge commity
+---
+	generowanie rozwizanie konfliktow : zarzadzani branczhami
+	branche lokalne, zdalne i sledzace
+---
+---- podstawo roznicza ze masz swoje repozyorium i commitujsz do swojego
+---- nowa rzecz to synchronizowanie
+---- narzedzia graficzne
+---- synchronizowanie margowanie i konfliky
+---- brancze istotne jako
+---- technika pracy : nazwy kommitow istotne
+
+// rebase + cherry peek - zostalo do 
+----
+fast-forward :: chery peek - internet koniec
+----
+graf pokzuje czy kommity wchodzily do requstu
+
+---
+poamietaj o pull, push sytauacja taka dlugo nie robolem pull
+wygenrowalem konflikt, sciagnal mi pliki zanaczyl jako nowe i dodale
+
+--- poamietaj o brancha ze sa niestotne i repo sklada sie z kilku czesci
+--- nazwy branchy mozna kojarzyc z poprawkami i ktos moze je odrzycic
+--- 
+(-- naeg w githuie synchronizowanie to jest pt. pull i and push)
+(wspomaganie nakladakiami do synchronizacji) 
+(praca na lokalnych rozni sie od pracy na centralnym i synchornizowaniu)
+---
+nie chcesz miec balaganiu kopiuj rapozytorium (scenariusz jakis)
+----
+
+scenariusz na branche scenariusz na commity scenariusz na projekt
+---
+tworzenie branchy przesuwanie wskaznika (limit danych w uni)
+----
+zloguj sie do bazy mongo - chodzi jako serwis - istotny plan
+---
+jechali z bartkiem 
+---
+find result -- zajebisty aplikacje generujace
+----
+taraz java + porzadki
+----
+push branch to github
+
+git push -u origin future-branch-name
+----
+lukasz@lukasz-Aspire-5560:~/HelloGit/hello-world$ git push -u origin issue-01 
+Username for 'https://github.com': tzkrak
+Password for 'https://tzkrak@github.com': 
+remote: 
+remote: Create a pull request for 'issue-01' on GitHub by visiting:
+remote:      https://github.com/tzkrak/hello-world/pull/new/issue-01
+remote: 
+To https://github.com/tzkrak/hello-world.git
+ * [new branch]      issue-01 -> issue-01
+Branch issue-01 set up to track remote branch issue-01 from origin.
+l
+---
