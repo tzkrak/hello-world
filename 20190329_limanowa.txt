@@ -1,0 +1,52 @@
+co
+
+no i co dalej
+----
+czytanie kodowanie (pozbieraj ftp-a)
+----
+
+zarwac nocke
+
+
+2.5 godziny (plan)
+	- klonuje repozytorium goscia
+---
+	kolekcje + () powtorka aplikacje webo
+---
+	truncate session; - zwolniklo sporo w bazie
+----
+	z komitow mozna wyczytac historie projektow
+----
+	run on serwer (deployowanie - mechanika aplikacji przyjdz jutro)
+
+----
+	collectio siedzie na bazie mongo
+----
+	apacha kode :
+	moven przebudowa aplikacji --- (rozczajenie aplikacji) - wyczytaj do sublimee 
+
+	onePlaces - na postgre i w net beanscha
+----
+	collecti na hg (sciagi)
+
+----
+	ftp: porzedki napoleon limanowa ::
+----
+
+	posciagac to wszystkow
+
+----ftp://napoleon@151.80.136.245/napoleon_update --- sprawdz zawartosc tego ftp - tutuaj jest mpw (i fragmenty z maszyny wirutalane windows 2012 serwer)
+
+---- (sprawedz jeszcze limanowa papiery wziac i porzedki)
+---- (Aji8 limanowa navigart ftp - nie wiem skad sie to wzielo wszystko)
+
+---- komenda opisujaca tabele mysql-a 
+
+---- limanowa odzyskanie --- (zrobic backup situ -- jade po krawedzi)
+02/21/2019 - 04:00 --- tu bylo ostatnie zadanie cron
+----
+02/21/2019 - 11:45 --- // zawieszenie serwisu nastapilo
+
+historia kodu ()
+----
+tortoise hg --- nakladki ---- backupy :: bez artworks :: / konfiguracja php
