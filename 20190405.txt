@@ -84,4 +84,33 @@ sensor magda
 
 https://github.com/lukasz-chojn/Kurs/tree/master/src - kody wyciagnac i przekompilowac
 
-alrady-up-to-date
+alrady-up-to-date :: komuniakty gita0- 
+git clone https://github.com/tzkrak/hello-world.git
+----
+fabryczne czujniki musza byc
+
+// dopisane
+bootstrap
+
+-- wygenerowac najprostrza aplikacje
+-- wygenerowac najprostrza strone
+
+<> kolekcje /
+
+4 opcje do wyboru
+2018 longu
+2019 easy + czujniki + klima + szyby
+2019 longe + szyby
+(kolor braz)
+
+---
+
+https://discovercracow.com/	
+
+---
+ceny urzywanych - first class - citazen
+(porownaj jeszcze wersje street)
+
+--- gdzie jest collectio 
+ftp://napoleon@151.80.136.245/collectio/collectio.zip
+--- url do cellectio

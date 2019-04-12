@@ -1,4 +1,4 @@
-import java.util.*;
+bimport java.util.*;
 
 public class TestHello {
 	// praca z branczhmi checkot - przelaczanie i wracanai zmian
@@ -56,7 +56,7 @@ class ObjectVersusReference {
         System.out.println(anotherReferenceToObjectX.toString());
         System.out.println(refferenceToObjectY.toString());
     }
-    public static void testCode_1{
+    public static void testCode_1(){
     	// zmienna typu interafce programowanie na intaracke
     	// samouczek programisty zastosowanie intarfajsow
     	// po co one
@@ -71,15 +71,15 @@ static przypisanie do klasy
 git powtorek
 
 ===
-wrzuc kod do gita/ domyslny bezparametrowy 
+wrzuc kod do gita/ domyslny bezparametrowy
 ----
 zaczac kodowac wodomu
 
 ctr-space , control - shif space
-czytani pliku hasmapowoani 
+czytani pliku hasmapowoani
 git kluczowe pojecia
 			gownaniy skrykptach eorr i i dziekuje
-			domyslane enumy 
+			domyslane enumy
     	*/
     }
 
@@ -100,9 +100,3 @@ git kluczowe pojecia
 // framworki tworzone
 // interejes tez dziedziczy do kompilatora
 // intarajace znacznikowa
-
-----
-kurs
-
----
-
