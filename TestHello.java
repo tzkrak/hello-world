@@ -1,4 +1,4 @@
-bimport java.util.*;
+import java.util.*;
 
 public class TestHello {
 	// praca z branczhmi checkot - przelaczanie i wracanai zmian
@@ -14,6 +14,9 @@ public class TestHello {
 		System.out.println(HELLO_MSG);
 		ObjectVersusReference.main(new String[]{"test"});
 		ObjectVersusReference.exampleCompareStraightType();
+
+		PosiadaId iterator = new User();
+		iterator.setId("100");
 	}
 
 	public TestHello(){
@@ -100,3 +103,21 @@ git kluczowe pojecia
 // framworki tworzone
 // interejes tez dziedziczy do kompilatora
 // intarajace znacznikowa
+
+// 1. programowanie na interfejsach
+// 2. generyki jako typy paramtryzowane ograniczenia
+// 3. adnotacje i listy
+// 4. przed argumentami metod, formatowanie komputera wziac na swieta 
+----
+// kollekcjo caly kod beack -endu przegladnoac api javy //
+// spring boot -- baze 
+
+interface PosiadaId {
+	public String getId();
+	public void setId(String id);
+}
+
+class User implements PosiadaId {
+	public void setId(String id){};
+	public String getId(){ return "";};
+}
