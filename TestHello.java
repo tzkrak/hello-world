@@ -101,6 +101,8 @@ git kluczowe pojecia
     public static void testMap(){
     	// nizgodne nie mozan rzutowac na typy generyczne
     	// nikezgodne kod jest kode koniec uczenia
+
+    	//	OK poprawka tworzyc mozna 
   
     	List<String> lista = new ArrayList<String>();
     	lista.add("Grzesiek");
