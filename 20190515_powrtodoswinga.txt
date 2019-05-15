@@ -1,0 +1,125 @@
+dev-opssy
+--
+back-log (rzeczy do zrobienia)
+--
+historia o tym jak to diabel tkwi w szczegolach
+--
+gosciu pisz pisze
+
+---
+nasadka sczepce drut zaznaczyc punktakiem mocowanie kierownicy do walka : odczpic ta cholerna oslone
+----
+skrzynka bezpiecznikow : budowa jak dawniaj
+---
+klasa : jest tworzona / 
+obikety : oprocz statycznych i opracz metod tyko pola
+referencja - abastrakacje
+mongo db, mysql
+api javy kolekcje
+
+
+nazewnictwo komitoow, nazewnictwo branch (synchronizacja branchy) - szukanie pracy
+---
+baza rownia sie : commity, synchronizacja konfliktow,
+
+
+I PAMIETEAJ KOD TO KOD JAK SIE GO NAPISZE NIEWAZNE
+----
+programowanie funkcyjne, js, wyrazenia lamana, niemutowalne
+----
+obiekty w js - nie maja wogolene odniesienia nie programowanie naturalne
+kodoeanie nie jest kodowaniem
+
+razniece miedzy javami ( w apI)
+
+faktorayzacja kody  (czytalnosc kodu)
+
+kolekcje interfejsy , implementacje, sposob obslutgi
+
+Set :: liste referencji
+
+---
+kontrakty na toString, equel, oraz kontruktry
+---
+ograniczenia generykow (zaczac od nowa)
+
+praca z wyjatakmi  
+
+
+----
+strony internetowe przedszkoli
+-----
+sobota linka
+
+----
+aplikaca w mavenie koty
+
+
+
+generyki i adnotacje ( abstrakcje uzywane tylko przez kompilator)
+
+web.xml
+pom.xml
+
+net beans i eclipse (kwestia nastawienia)
+auto
+
+---
+clasy zarzadzane przez adnotacje (
+model - dao
+view - jsp, velocity , faces, albo angular (czyli js) - miks
+(tag liby + ekspresion langue)
+
+
+poszukaj jak sie laczy anglular z jsp (jsp - musi byc) - 
+
+----
+node apliacjie mobilen
+
+
+// luzne notatki obsluga branczy // :: () 
+git checkout -b issue-02
+ 3859  git branch
+ 3860  git status
+ 3861  git add 20190405.txt
+ 3862  git commit -m 'kolejny test branch'
+ 3863  git status
+ 3864  git push -u origin issue-02 
+---
+sekwencja stworzenia i wyslania branczha -b issue-2 (projekt dla warszawy)
+---
+podanie jutro " podjechac na lilli wenedy" - sprawdz strony podjechac do mechanbika
+
+---
+automatyczne tworzenie pull-requstow (uczestnictwo w projekcie scieganie zmian z git-a :: 
+---
+podwojne spodnie i kurtka 
+
+UWAGA : pushowanie branchy : branche sa przypisne do konkrektengo repozytorium
+====
+limanowa renimacje :: warszawa 
+
+---- ograniczenia generykow (np. rzutowania ) informacja jest usuwana
+--- programowanie na interfejsach
+
+---- diagram aktywnosci
+
+MVC + SERWISY + ENDPOINTY () SERWISY CZYTAJ MIEDZY WIERSZAMI
+
+DI DEPEDENCY INJECTION - ladowania zaleznosci
+----
+model and viwer (viwe resolver)
+---
+sprigboot :: na pocztku pomecz sie racznie pozniej spring boot
+====
+viewresover
+
+webSerwicy : uslugi 
+
+(core javay, api framworkkow, architektura)
+
+REST - jako zwykly contorell SPRINGOWY i tak wlasnie sie laczy angulare z SPRINGIEM EUROKGA + MONGO
+
+API TESTING postman
+---
+z drugiej strony js-kod
