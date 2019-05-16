@@ -1,0 +1,156 @@
+https://medium.com/arteia/interview-with-marek-zabicki-cto-of-arte%C3%AFa-8be2566ce61d?fbclid=IwAR1QwDt7rVYUL5Gh4i5XWjtdbFHzbMuLTA4cB2jguB0WwLlmRuIySPoTuRk
+
+wywiad rzeka z markiem zabickm
+pompidou
+picasou muserum
+
+visual art biggest
+
+---
+I decided to develop a new kind of art management system using state-of-the-art web and mobile technologies. It took me about a year to find partners and investors and finally in August 2016 Arteïa was born. Two years later Arteïa’s first product, the art management platform Arteïa Collect, became production ready.
+---
+wywiad rzeka
+
+--- poboczne znaczenia
+--- niemutowalnosc danych - podejscie zdrowie
+
+(sacurity i niemutowalnosc
+
+decentalized control in larga sceale system
+
+clud beassad art colllect
+
+
+I decided to develop a new kind of art management system using state-of-the-art web and mobile technologies. It took me about a year to find partners and investors and finally in August 2016 Arteïa was born. Two years later Arteïa’s first product, the art management platform Arteïa Collect, became production ready.
+
+
+sosfware ass serwice arteria collect)
+
+----
+assets liquidity - plynnosc aktywowo
+
+pusujesz tylko 99%  --- tylko jesli cos dziala puszujeszc
+
+telegram shanel
+----
+autyd kodu (nikt tak nie pisze (co moge zrobic - asian lidership - umowa zlecenie
+CEO
+CTO))
+
+watek issue-03 kod
+(wzorce projektowe) 
+(kontrakt hashkode)
+(kontrakt string)
+(kontrakt konstruktore)
+(wzorce projektowe to pisanie minnymi czystego kodu)
+
+(pewnie tez kulki)
+-- polprodukty rozwiaznia GoF - design paterns -21 pazdziernik
+-- czysty kod (wzorce projektowe) 
+
+
+typy parametryczne
+sofware angireing
+
+spring (fasada, controler), kod multiarcha co z tym kodem, kompilacja - co miesiac zrobic kompilacje
+
+---
+kwestia utilizacji komputerow (idiotyczna robota i ciezka mozemy sie umowic na oplata - zakladam dzialanosc)
+
+---
+pies, kot , pojazd furmanka i cos tam - musze cos zakodowac
+
+FASADA
+FABRYKA - zwraca ukryty obiekt z interfejsem (twardy zawodnik)
+
+stadndardowa uczelnaniania implementacja ::
+
+---- wazna uwaga ----
+wielewatkowa i rozposzona (aplikacje webowe specyfika protlkolu http) - protokol
+---
+le jego implementacja rodem z uczelnianych slajdów ma swoje miejsce na śmietniku historii i jednowątkowych aplikacji.
+---
+wzorzec strategia
+----
+na smietniku histori ok (to jeszcze testy jednostkowe)
+(testy jednostkowe + mockowanie) - 
+
+---
+scenariusz (tzw. Happy case / happy path), ale także nieoczekiwane elementy – np. błędne dane jako atrybuty metod, brak danych itp. Dobrze napisany test to taki, ktory zaskoczył programistę piszacego kod, który testujemy :)
+---
+
+ok moge pisac testy jesli o przyniesie wartowsc dodana
+
+src/test/java (dlaczego tak wazne sa przyklady) - junit + maven
+--- 
+testy jednostkowe wielowatkowasc i security
+----
+sprzetanie po testach /pokrycie kodu/
+
+70-85 pokrycia kodu patalogia 100 40 zly sygnal
+
+root-context.xml (kontekst sprngina)
+
+Dobrym podejściem pisania testów jest zasada given-when-then. Warto by o niej wspomnieć ;)
+
+---
+trzymanie plikow na serwerze to zle wyjscie
+
+ladne kontrolki
+
+----
+java 8, java 7 roznice (zatrudniednie korpo) 
+aplicationContext.xml - kontekst glowny 
+
+----
+UUID uuid = UUID.randomUUID();
+---- losowa nazwa pliku ---
+---- mime type ----
+
+Pytanie tylko gdzie zapisujemy te informacje? Najlepszym miejscem jest baza danych. Tworzymy klasę o nazwie np. Attachment, która posiada wszystkie te pola i przesyłając plik (i zapisując go na dysku) tworzymy taki właśnie rekord równocześnie z samym plikiem.
+----
+tansze szybsze miejsce jakim jeste baza : mozna pliki trzymac w bazie : musnet trzyma pliki na serwerze
+
+----
+security (model obslugi serwisow) w chmurze pozbyli sie calkowicie sprzetu (dyski na smietnik)
+----
+histori
+
+metoda Controlrera (kontroler --- zabezpieczenia w kodzie)
+
+lista stanowisk : programistycznych java architekte - przechowywanie w chmurze to dobra praktyka
+
+---
+elementy springa : caly czass masz kod kolektio
+---
+praca z plikami na dysku klpoty ,  spring i upload plikow
+----
+nowa jakos wizerunki klasy  koty
+
+----
+dropbox - to uslaga s3 (kasuj nie rozczulaj sie trzeba nocki zarwac)
+----
+API do usług Amazona jest dostępne w formie artefaktu Maven (com.amazonaws:aws-java-sdk). Dodajmy go do naszego projektu jako zależność do modułu services.
+----
+
+Content Delivery Network --- conntet delivery network cdn - specjalizowanie do kontetnu stataycznego : npl obrazki i ikony : clud front - konkretna osba zatrudniamy
+
+---
+eraz wiesz już, jak możesz zarówno przesyłać pliki od użytkowników za pomocą API jak i umożliwiać ich pobranie. Zachęcam do przetestowania tej metody z innymi publicznie dostępnymi API – np. Do pobierania pogody (wheather.yahoo.com) czy też zwracającymi współrzędne geograficzne adresu (Google Maps API). Możliwości są nieograniczone, a umiejętność korzystania z zewnętrznego API będzie Ci potrzebna nieraz.
+
+--- zewneterzen api
+
+web-context.xml / konfiguracja springa
+
+:: najwazniejsz pratkyczna informacja to / np moduł.kontroler.widok.nazwaFrazy stosotwanie nazw kluczy
+
+<%@taglib uri="http://www.springframework.org/tags" prefix="spring"%>
+<spring:message code="web.layout.top.title" /> = [podamiana tekastu na taki] 
+utf8 utf16 nie sa warta
+
+aplikacja koty
+
+zabezpiczenia
+
+----
+<user serwice>
