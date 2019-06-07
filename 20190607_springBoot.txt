@@ -1,0 +1,176 @@
+unset - kasowanie zmiennej
+
+export ustawianie globalnej
+----
+interpreter powloki
+
+pom-/war 
+
+
+deplpyred resorus (deplomenty typu war)
+
+front controler : dispatcher s
+
+servlet
+----
+
+servlet-name/servlet-class/init-param - contextConfigLocation
+
+web.xml
+applicationContext.xml (dowolna nazwa albo tak jak serwlet)
+rootApplicationContext.xml - uruchamiene przed
+
+Widoki / viewresolver - 
+
+widok otrzymuje model - i wyswieltal i sie kraci
+
+---
+org.springframework.web.servlet.DispatcherServlet
+org.springframework.web.context.ContextLoaderListener
+org.springframework.web.servlet.view.InternalResourceViewResolver .jsp (po nazwie) <prefix, sufix>
+--- /konfigurujemy/ --- czyli wyciagami .jsp-ki po nazwie
+
+@Component / @Service / @Controller / @Repository — stereotypy
+
+import org.springframework.stereotype.Controller @Component, @Service, @Repository, @Controller
+
+---
+szczotki i silnik (wymiana szczotek)
+---
+controler - obsluguje zapytania
+service - pomosnicza
+repository - warstwa dao
+
+IoC + DI - dependency injection
+
+@Autowired - jedna instancja danego typu
+kotDao - jest zarzadzane przez springa i tworzone w locie
+
+import org.springframework.stereotype.Repository;
+
+KotDao
+
+----
+ok ide szukac pracy - pierwszy czlon to nazwa kontekstekstu aplikacji
+----
+
+Controlller roziwja zapytanie i przekzuje modele do widokow
+
+---
+przekazywanie danych do widku ${} - expression languge
+
+wysylanie formularaez metod GET --- kontekst lepiej
+
+kolejna elemmente @PathVariable("id")
+
+metoda?a=1&b=2 - @ReguestParam("a") - 
+
+400 : BadRequst - param
+
+defaultValue="0" value = "b" - adnotacje kolejene g
+
+GET POST - rozbijanie zaptyan
+
+jstl - java statandar tag liblary
+----
+formularze obsluga :: bardzo wazne 
+
+jstl/core
+
+listener
+
+context
+
+${koda java} ekspresion lenguge odwoalnia do modelu
+
+jstl :: to znowsu skladnia ala xml html 000 wazne 
+
+--- ${kolekcja}
+
+BindingResult - @Valid adnotacja
+
+@Controller - sampleConroler
+
+DTO - data transfer objec - DAO - data acces ombiekt	
+
+tagLib from, tagLib c.
+----
+eurega mamy tak liby obsluga formularzy ::: ramka z bledami formularza
+
+---
+tutorial springa / gradle 4+ or Maven 3.2+
+----
+STS import
+IntaliJ IEAS
+
+---
+porwnujac to springa, rasta taka aplikacja Musnet
+
+---
+Zanam easy anglisz na poziomie toturiali , git spring,
+
+----
+ok oram komputery :: maven i gradle () : coworking : ponosze koszty : porada prawna
+
+
+???? co to jest @SpringBootApplication - jakos adnotacja co pomija serwer aplikacyjny ???
+
+th:each - thymlear
+----
+
+Jeśli chcesz integrować Springa z JSF to możesz od razu napisać testament. Thymeleaf, Javascript albo oba. JSF jest trudne w używaniu nawet w połączeniu z Javą EE - to o wiele bardziej złożona i nieintuicyjna technologia od TL.
+----
+
+opinie w interncie
+
+flamowe flamwer 
+
+---
+Może nie równoważne, ale bardzo podobne. Szczegóły zależą od konkretnego serwera. Ogólnie robienie frontendu i w JEE i w Springu należy unikać bo są do tego lepsze technologie: HTML, CSS i JS/TS. Ale jak chcesz zrobić na szybko GUI to można klepnąć CRUD-a w JSF w parę minut bez konieczności wystawiania REST-a co jest fajne. - margor90 2017-02-11 16:06
+----
+JS/TS
+---
+angular/JS
+
+---
+przy okazji taj aplikacji otarem sie o poejcie ale nie mam praktczneki prawie zadnej
+----
+
+w podaniu napisac, na podstawi fremwokrku Musent otarlem si o to i tamtoo
+robilem to i to 
+i stanolem na tym ze trzeba cos z tym zrobic
+
+===
+dane niektyryteczne 
+
+----
+Ja nie wiem czy taki Themaleaf to nie jest takie samo bagno, albo gorzej. Jak robiłbym coś nowoczesnego to bym poszedł w React albo Angular z TypeScript. Jak ma być korpo JEE z dużą liczbą tabelek PrimeFaces + JSF daję radę bardzo dobrze. I będzie działać bez problemu za 15 lat (łatwo się to migruje). - margor90 2017-02-10 23:48
+Chyba, że firma ma frontend developerów (nie fullstacków). Wtedy JSF jest bez sensu. To substytut dla braku frontend developerów. - margor90 2017-02-10 23:49
+ClojureScript or bust - caer 2017-02-11 02:04
+----
+@jarekr000000 wydaje mi się, że JSF jest tak samo zły jak GWT, Vaadin, czyli technologie, które powstały bo to, aby programiści nie musieli uczyć się frontendu. A z całej trójki jest najpopularniejszy i roboty w tym jest strasznie dużo. Ma sens jak nie masz dedykowanych frontend developerów albo jak GUI jest po prostu zwykłą tabelką (księgowość itp) dla kolejnej korpo apki. Niech ludzie się nie uczą będzie więcej roboty za dobre stawki (jak w COBOL-u za y2k). - margor90 2017-02-10 23:53
+----
+
+ok nie ma sensu 
+
+----
+pytanie o angulara i spring jak sie laczy
+---
+
+uzycie jakich technologi bedziemy pisac (co umiesz) - ok test (ok sprubujemy) nie wiem
+
+----
+projekt billet#0 - aplikacja biznesowa - a wiec obsluga i programowanie aplikacji to moje chobhby
+
+----
+aplikacja do rekrutacji (dom) dodac do git-a :: ostatni doswiwadczenia to praca w chmurze
+----
+mailchimp elastic search
+
+--- nie ucze sie juz tego ide do pracy
+
+--- w stawienie endpointa
+
+ostatnie osigniecia to chmura + 
+
+NIE MA SENSU UCZYC SIE TAGO I OWEGO ;; wartao interent warto p[odaata

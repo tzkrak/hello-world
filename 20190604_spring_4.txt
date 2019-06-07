@@ -1,0 +1,76 @@
+mvn -- clean, install
+---
+
+tajemnice pliku pom
+
+mvn clean install - tajemnice pliku pom
+
+dark mode
+---
+ok udalo sie
+
+---
+pralka naprawic kupic
+
+---
+[INFO] Aplikacja kursu kobietydokodu.pl
+[INFO] koty-domain
+[INFO] koty-application
+
+przy pierwszym - / zdrowy tryb rzycia silosy z betonem i krzysywem ii iinnymi badziewiamia
+
+
+projekt eksplorere i navigator :: rozniece (artefact id sprign mvc)
+----
+dotychczasowe kroki to import aplikcj do eclipsa
+uruchomienie maven cel z poziomu eclipsa (wstepne zapozananie sie z aplikacjami typu mvn) mvn ;; repozytorium eclipsa
+
+martin flower --- front kontroler
+
+src/main/webapp/WEB-INF ::: web.xml (traficarr)
+
+front conteroler :: webxml :: jeden zarzadca DispatcherServer	
+
+spring-web 3.2.0 relese jar, database eksploere
+
+8080 domyslny port aplikacji webowych
+
+
+w huj i jescze troche jest / jes w huj i jescze troche takich gosci
+
+----
+
+- plik war nalezy umiescic w odpowienim katalgou
+
+./webaps
+/deployment
+
+---
+
+katalog glowny 
+/WEB-INF
+
+urzywa sie pojecia serwisow czyli kontrolerow /
+
+Building
+web.xml - web-inf/spring/collectio-dispatcher-servlet.xml
+        - web-inf/spring/application-context.xml
+        - web-inf/log4j.xml
+        
+----
+
+spring-data (monGO)
+	src/main/resorurese/scripts - skrypty do bazy
+	
+web.xml- glowny plik
+/WEB-INF/web.xml  - pliki aplikacji specyficzne ustawienia
+---
+
+jutro przedszkol
+
+---
+ok problem sie troche rozwiazal (mialem zle zrodla i zle skonfiguraowany)
+----
+zagadka zrodkel czyscenia tomakacta i uruchamia aplikacji do rozwiazania jest
+----
+web.xml. application contex.xml
