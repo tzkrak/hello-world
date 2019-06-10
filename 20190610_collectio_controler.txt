@@ -1,0 +1,139 @@
+-- eureka wyzwolenie nie musi wyzwolenie w programowaniu (zaczac od zera)
+-- ref nie musi byc paramtryzowane
+-- adnotacje ta dodatkowe atrybuty kodu (w mechanizmie refleksji wykorzystane)
+
+--
+	uczenie bez wzorcow i bez mentora
+
+--
+	znam angielski na poziomie toturialu do gite
+
+	// aplikacja spring boot
+
+	// zapisac sie na warsztaty
+
+
+	<IntegraWebPanel ---> endPointy restowe>
+
+
+	// qgit
+
+	// czyli to co sie uczylem to byl troche kit (polowa ludzi sie meczy drugo polowa wymysla technologie)
+
+	-- na pol dziko
+	(*** pogrupowal aplikacje poziom wyzej ***)
+	---
+	(*** zamiast biegow dom porobic porzadki *** / malowanie
+
+	// --- koordynaty rodzica
+
+	log/mylogfile.log
+
+	interfejs aplikacji
+	/lista
+	/kot-0
+	/kot-1
+	/dodaj
+
+
+INFO: Mapped URL path [/dodaj/] onto handler 'kotyController' - handler na koty kontroler
+(anty przyklad + boot strap)
+
+--
+springboot, spring , b2b umowa o prace, e-podroznik.pl (teroplann)
+---
+vanillia java developer, signity (pomietaj ostatnie
+
+
+luxsoft, hays it)  --- hascco (havy monday)
+
+---
+	@RequestMapping("/kot-{id}")
+	public String szczegolyKota(@PathVariable("id") Integer id, Model model) {
+		model.addAttribute("kot", dao.getKotById(id));
+		return "szczegoly";
+	}
+--- troche niejasne powizanie modelu ale okg
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="prefix">
+			<value>/WEB-INF/views/</value>
+		</property>
+		<property name="suffix">
+			<value>.jsp</value>
+		</property>
+	</bean>
+
+---
+	powiazanie kody
+===
+
+/ -> mvc-dispatcher - cale przekierowanie ruchu na stronie
+/ koty-webapp
+/ koty domaina
+
+---- collectio (eclipse ladnie roziwja, grovvy tomcat mongo db
+
+/rest/* -> Collectio
+
+----
+<servlet>
+	    <servlet-name>Collectio</servlet-name>
+	    <servlet-class>
+	        org.springframework.web.servlet.DispatcherServlet
+	    </servlet-class>
+	    <init-param>
+	        <param-name>contextConfigLocation</param-name>
+	        <param-value>/WEB-INF/spring/collectio-dispatcher-servlet.xml</param-value>
+	    </init-param> 
+	    <load-on-startup>2</load-on-startup>
+	</servlet>
+----
+.js (panel)
+
+---
+colletio tez ma serwlete maping
+
+adnotacje + sterowanie xml-a / index + i tutaj wchodzi angular
+-----
+anglular pyta sie backandu po rescie ??? (webapp angular)
+
+---
+<import resource="spring-security.xml" />
+--- aplication contex 4 pliki xml
+
+
+---- serce backandu
+<context:component-scan base-package="pl.ontia.collectio.controller"/>
+--- i doszlismy do sedna
+
+---
+contaroler cala api zdefiniowa  / lacz sie z mongo db / seciurtyi
+
+----
+//TODO move logic to service - move logic to serwer
+
+
+----
+DO ZBADANIE POLACZENIE Z BAZA DANYCH - !!!
+
+---
+problemy wyszukiwanie - podpinanie grafik
+----
+
+klasyczna aplikacja kodowanie (--- mam kody ale nie musze znac)
+
+
+@Serwice
+@Autowired
+
+---
+getServiec
+----
+
+i do tego gochodzi Angular ()
+====
+poczytac jeszcze SpringBoot - spring-mvc :: relizacja dospte do bazy :: collection namierzec dostep do bazy
+
+====
+corre java powtorze, podanie i final git commit : praca z branchami :: 
