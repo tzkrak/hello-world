@@ -1,0 +1,61 @@
+dodanie
+
+javax.sql.DataSource - bean
+
+---
+@Autowired private DataSource dataSource;
+
+---
+Factory wzorzec - jbo wzorzec
+---
+
+aplikacje produkcyje operauja (na puli polaczen)
+boilerplate kode : polykanie wyjatkow
+
+--
+Microservices with hazelcast imdg and spring boot
+---
+
+projekct architekt
+
+--
+https://github.com/kolardia...
+
+---
+rozwiazanie zadanai
+
+---- konfiguracja hibernate --- (przyklad) 
+jpa -- to tylko specyfikacja
+---
+EntityManager SessionManager( Hibernate to specyfikacja) xml - plik konfiguracji springa
+---
+implementacja wzoraca fabryki (automatycznie tworzy wzorce obiektow)
+
+jsp (expression languge) tagi
+
+----
+warstwa widku to kody jsp
+
+---
+jsp - przeszlo do lamusa
+---
+ejb - przeszlao do lamusa
+----
+faces przeszlo do lamusa
+
+---
+korzystanie z plikow xml, i adnotacji
+;;;
+doszlismy do springData
+---
+
+
+pom.xml - dodawanie zaleznosci (lista kotow --- rozwizanie zadania)
+
+<%@ taglib :::: - meteoda obslugi widokow ::: na tag libach
+<%@ taglib :::: - prefix="fn"
+${ - el (ekspression languge)
+
+spring mvc (widok model controler
+
+uporzadkowac troche sprign data,spring mvc spring jpa

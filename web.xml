@@ -1,0 +1,68 @@
+web.xml
+	wdrozenie
+.pom - kontroler
+
+zaleznosci w springu
+
+FrontControler (nadzorca dispatcherServldt - servlet podstawowa struktura)
+
+spring - CoC - konwencjont over configuration
+servlety
+filtry
+listenery
+
+oddajemy kontrole do springa
+aplicationContext.xml  - zostawiamy wpis ::
+---
+<context:component-scan base-package="pl.ontia.collectio.controller"/> <!-- ktore klasy nalezy skanowa steortypy-->
+
+chuja napisal springa
+widoki + resolver
+
+View  org.springframework.web.servlet.ViewResolver.resolveViewName(String) string 
+
+-- wyswietlic liste kotow (lista kotow)
+
+(org.springframework.web.servlet.view.InternalResourceViewResolver - tego bedziemy uzywac
+
+	apache tiles
+	apache velocity
+
+prefix sufix
+---
+	<bean id="multipartResolver"
+		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+		<property name="maxUploadSize" value="268435456" /> <!-- 256 megs -->
+	</bean>
+---
+
+CommonsMultipartResolver - 
+Configuracja , Stereotypy i walidacjie
+
+====
+artefakty
+
+---- przyklad java standar liblarty --- (przekazywanie zmiennych do widoku)
+<c:forEach var="i" begin="1" end="5"> Element ${i}<br /> </c:forEach>
+
+<%@      %>
+tagi maja atrybuty <tag atrt1="fasklfjasdf"
+---
+jsp + Expression Languge, jstl + El czyli jspiki 
+----
+tomcata i jetyyt contenter 1999 wypuszzone podobnie do php dynamiczne strony
+
+jsp - to jest noamlnie jako wiedok mozna urzywac, taki skturk dodatc do tego struktsy jako controler (fsdfa)
+-----
+jsp strutesy krytuwane i zastapiione apachace velocigty ana Tea
+
+---
+ale za to porzenione ze springiem
+
+valocity : dobra separacje w model view controler (bardzo dobra separacja)
+
+valocity anakia i webMacro projket - konserwacja podwozia na czysta blachde
+
+widoki to jsp-iki + elmy
+
+czyli mamy tu odmianie spring MVC, - colecctio to jest co innego to jest springa angular <>

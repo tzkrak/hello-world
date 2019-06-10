@@ -1,0 +1,88 @@
+jspiki
+
+polowa rzeczy sie generuje sama
+
+----
+najprostrza aplikacja lista kotow wyswietl
+
+glowny.jsp - <h1> jest w glownej bazie koto </h1>
+
+anglura wlozony : sprubuj z ta baza kotow
+
+List<Role> - startujemy od zera nie ma kawalaera
+app.jsp
+
+contreler
+resolver
+sevice - dispatcher
+
+---
+spring boot 
+---
+urochomic aplikacje
+
+---- przyklad controlerya na RESTCIE 
+pl.ontia.collectio.controler
+
+
+toatalny kryzys konfiguracyjny
+
+
+@Controller
+@RequestMapping("/treeDictionary")
+public class TreeDictionaryController {
+	
+	@Autowired
+	private TreeDictionaryService service;
+	
+	@RequestMapping(method = RequestMethod.GET, produces = "application/json")
+    @ResponseBody
+    public List<TreeDictionary> getByCriteria(TreeDictionarySearchCriteria criteria){
+		List<TreeDictionary> findByVariousCriteria = service.findByVariousCriteria(criteria);
+		return findByVariousCriteria;
+    }
+}
+---
+
+viewResolver - konfigurowany przez klasy
+---
+
+kompleks handlowy ribitwh
+krakow plaszow (port rzeczny na wisle)
+
+----
+@Controller
+@Serwice
+@Reposiotory
+@Component
+----
+start on Tomcat :: logi na konsoli
+
+[DispatcherServlet] -- w logach wystepuje
+
+[DI, IoC @Autowired
+
+(adnotacja do pola zarzadzanie przez springa)
+@Autowired private KotDAO kotDao;
+
+---
+
+@Repository public class KotDAO { ...
+
+---
+aby wyświetlić przekazaną przez model informację. Składnia ${…} jest zdefiniowana w standardzie ExpressionLanguage
+---
+skladnia ${messages}
+---
+czyli wracamy do javyEE i java Serwer Pages
+
+---
+zapytanai i walidacja dodawanie walidacji
+
+tag libs Expression Langugae
+---
+tuatj mamy jspiki - poszukac w domu jak 
+----
+w domu poszuakac ksiazki jevaEE + (springBoot) aplikacja lista kotow
+
+

@@ -1,0 +1,116 @@
+struktura aplikacji :: aplikacja webowa
+
+src/main/java
+	..controler
+	..document
+	..repository
+	..service
+src/main/webapp
+	css
+	js
+
+aplikacje webowe, formatowanie komputera
+----
+
+piniadze uciekaja :: uciekaja piniadze blabala bala
+
+cheary - peek
+--- integrowanie galezi
+$ git remote add jessica git://github.com/jessica/myproject.git
+$ git fetch jessica
+$ git checkout -b rubyclient jessica/ruby-client
+
+--- nazwy branczy :: (tz / przesmarowanie tz/)
+
+--- aplikacja restowa
+:: disributed even if your workflow inst
+
+---
+https://www.tipo-klub.pl/temat-instrukcja-obslugi-tipo-online
+====
+u connnet 5" wybrac (zobacz lpg) + czujniki parkowania w wersji kombi skladaja sie siedzenia, zjazd z autostrady trudne warunki urzytkowania
+
+
+(relingi, radio 5'', (na czym polega laczenie z anrodidem), w kombi sklada sie kanapa, kolor granatowy najwazniejsze czujniki parkowania fabryczne, gniazdo 12 v bagaznik)
+
+
+=== lukasz rapozitory , startowa aplikacja webowa, --- sluchawki / zarwac nocke
+
+wyswietla sie komentarz brancha / marge commit / najwazniejsze sa komity i historia zmian
+// troche to rozbierzen powtarzam o 
+
+// open form pl / logi administracja i zarzadzanie logami
+// delete commit
+
+// mam wrazenie ze krece sie w kolko //
+() co to jest spring - pracuj pl
+
+---
+lamusowania krakow
+---
+inter autor -- jasnogorksa (dystrybutor innych samochodow)
+---
+
+// taski i zadania - 
+----
+CZUJNIK WENTYLATORA CHŁODNICY FIAT TIPO UNO
+
+EPS 1.850.031, KW 550 031
+.. doczytac do konca -- kreski i 
+----
+czytanie logow gita - (wyciaganie poprzedniej wersja, aplikacja startowa)
+
+FIRMA: VERNET
+---- dodac i skasowac open space 6 gram / na 100 milimlitrow 96 stopni 2 minuta
+---- waga skalowania
+---- aeropress/eksporesso
+
+29 czujnik rurowy : plyn do chlodnicy
+---- kuty nasadowy ---
+
+sensor magda
+
++ kawa (2 filtry jedene filtr)  ---- aeropress + 
+
+//++++++++++++++++//
+	trzy rzeczy:
+		1. ostatni stan z musnetu
+		2. kody collectio sprubuj obczaic (ala aplikacja webowa)
+		3. kody javy probowac uruchamiac (repozytorium lukasz)
+		4. probuj z edytorme sublime
+		5. nocka formatowanie komputera
+		6. rebease cherry pik - totorial pracy z kodem, i conflikty jeszcze popruboj
+//+ uswaz z dysku cos zostaw slad +//
+
+https://github.com/lukasz-chojn/Kurs/tree/master/src - kody wyciagnac i przekompilowac
+
+alrady-up-to-date :: komuniakty gita0- 
+git clone https://github.com/tzkrak/hello-world.git
+----
+fabryczne czujniki musza byc
+
+// dopisane
+bootstrap
+
+-- wygenerowac najprostrza aplikacje
+-- wygenerowac najprostrza strone
+
+<> kolekcje /
+
+4 opcje do wyboru
+2018 longu
+2019 easy + czujniki + klima + szyby
+2019 longe + szyby
+(kolor braz)
+
+---
+
+https://discovercracow.com/	
+
+---
+ceny urzywanych - first class - citazen
+(porownaj jeszcze wersje street)
+
+--- gdzie jest collectio 
+ftp://napoleon@151.80.136.245/collectio/collectio.zip
+--- url do cellectio

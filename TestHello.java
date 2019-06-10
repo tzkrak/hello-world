@@ -14,6 +14,10 @@ public class TestHello {
 		System.out.println(HELLO_MSG);
 		ObjectVersusReference.main(new String[]{"test"});
 		ObjectVersusReference.exampleCompareStraightType();
+
+		PosiadaId iterator = new User();
+		iterator.setId("100");
+		ObjectVersusReference.testMap();
 	}
 
 	public TestHello(){
@@ -56,7 +60,7 @@ class ObjectVersusReference {
         System.out.println(anotherReferenceToObjectX.toString());
         System.out.println(refferenceToObjectY.toString());
     }
-    public static void testCode_1{
+    public static void testCode_1(){
     	// zmienna typu interafce programowanie na intaracke
     	// samouczek programisty zastosowanie intarfajsow
     	// po co one
@@ -71,15 +75,15 @@ static przypisanie do klasy
 git powtorek
 
 ===
-wrzuc kod do gita/ domyslny bezparametrowy 
+wrzuc kod do gita/ domyslny bezparametrowy
 ----
 zaczac kodowac wodomu
 
 ctr-space , control - shif space
-czytani pliku hasmapowoani 
+czytani pliku hasmapowoani
 git kluczowe pojecia
 			gownaniy skrykptach eorr i i dziekuje
-			domyslane enumy 
+			domyslane enumy
     	*/
     }
 
@@ -93,6 +97,24 @@ git kluczowe pojecia
 		System.out.println("500L == 500L: " + (500L == 500L));
 		System.out.println("500L != 500L: " + (500L != 500L));
     }
+
+    public static void testMap(){
+    	// nizgodne nie mozan rzutowac na typy generyczne
+    	// nikezgodne kod jest kode koniec uczenia
+
+    	//	OK poprawka tworzyc mozna 
+  
+    	List<String> lista = new ArrayList<String>();
+    	lista.add("Grzesiek");
+    	lista.add("Tomek");
+    	lista.add("Janek");
+    	lista.add(200);
+    	for (int i = 0; i <= 100; i++){
+    		lista.add("Item" + i);
+    	}
+    	for (String elem : lista)
+    		System.out.println(elem);
+    };
 }
 
 // public static final
@@ -101,8 +123,21 @@ git kluczowe pojecia
 // interejes tez dziedziczy do kompilatora
 // intarajace znacznikowa
 
-----
-kurs
+// 1. programowanie na interfejsach
+// 2. generyki jako typy paramtryzowane ograniczenia
+// 3. adnotacje i listy
+// 4. przed argumentami metod, formatowanie komputera wziac na swieta 
+// ----
+// kollekcjo caly kod beack -endu przegladnoac api javy //
+// spring boot -- baze 
+// kolekcje
 
----
+interface PosiadaId {
+	public String getId();
+	public void setId(String id);
+}
 
+class User implements PosiadaId {
+	public void setId(String id){};
+	public String getId(){ return "";};
+}

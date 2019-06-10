@@ -1,0 +1,51 @@
+web2.xml
+
+przyklad definowania klas poza kodem:
+
+<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+    <property name="driverClassName" value="com.mysql.jdbc.Driver" />
+    <property name="url" value="jdbc:mysql://localhost:3306/koty" />
+    <property name="username" value="login" />
+    <property name="password" value="haslo" />
+</bean>
+
+Od tej pory możemy korzystać z naszego DS tak samo jak z każdego innego beana, np. dodając w naszej klasie DAO:
+@Autowired
+private DataSource dataSource;
+
+tylko jaki plik xml-a chodzi
+----
+czasami pracujemy na starch projektach i stare podejscia so istotne
+----
+REST - (architekura edndpointow wykorzystania protoklolu HTTP do komunikacji)
+
+-- stwierdzenie ze tak sie nie pisze aplikcji
+
+c3p0 - biblioteka do korzystania z bazy danych 
+
+---
+ność a jedynie jest potrzebny w tym przypadku do wykonywania czynności ‘dookoła’ (tzw. boilerplate code). W kolejnych lekcjach zobaczymy jak zrobić to łatwiej i przyjemniej.
+--- kod dokola na podaniu o prace :: zaznaczyc
+
+(polykanie wyjatkow w boiler plate kodzie ? = placeholder w zapytaniu)
+
+--- jesli hodzi o terie informatyki to pare przedmiotow mialem ale nawet sql-a nie mialem
+--- koty aplication sprubuj dodac do git huba
+
+--- opearacje na stringach w bazie (zaptahnbia sql) - baza danch (raczne i tworzenie z automatu, aplikkacja mobilna)
+? - place holdery 
+
+pom.xml
+----
+dependency
+
+
+Autowired - co to jest
+---
+WEB-INF (aplication context)
+
+40 ahead/ 3 behind
+---
+https://github.com/kolardia/service-science/branches
+----
+skopij to rozwiazanie angulara zostaw
