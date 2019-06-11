@@ -1,0 +1,260 @@
+urochamianie aplikacji webowych
+---
+spring-core
+spring-webmvc
+
+--- o springumvc --- dziala jak front controler - nadzorca dispatcherServlet - przkierownie do kontrolerea :: (konfiguracja w pliku web.xml
+
+web.xml --- (serwlety) (listenery) (filtry)
+	- przyjmujemy najprostrza postac
+
+webapp/WEB-INF/web.xml
+
+mvc-dispatcher - / - caly roch do apllicationContex.xml - przekierowany
+
+	wlaczamy adnotacje i package scan
+
+(nie ucz sie do konca tego wszystkiego)
+
+---
+nazwa taka jak serwlet
+
+---
+zasada dzialania angulara !!! kodowanie, DZone
+
+componnte scan (sam stworzy beanay) --- danotation-config
+
+rootApplicationContext
+
+----
+contreler
+viewResolver - zwraca nazwe widoku ktory otrzymuje model
+---
+typy widokow::
+---
+najprogstrzy typo widoku --- komercujne projekty mvc-disptacher - kieryje do kontroleroe - kontrolre wize model z widokiem i zwraca nazwe widoku
+
+---- to trafia do view razoslwer prefiz.*.jsp sufix
+
+---- kaze zapytanie przevhodzi przez servlet
+
+1 krok to statczna stroan 
+
+@Component - bean springa
+@Service - 
+
+---
+node.js - (odpowidniek java spring)
+
+----
+wszystko dziala podobnie kodowanie i pasiania z racji analitycznego umyslu widoki mi nie leza
+
+widoki na java scripcie
+---
+liczniki rowerower jutro jade - otarlem sie ale bylem z boku (oterelm sie o rozne aplikacje webowe ale bylem z boku) co i jak mam zrobic
+
+---
+http://wrower.pl/porady/jaki-wybrac-rozmiar-kola,5676.html
+----
+cala prawda o kolach
+---
+http://wrower.pl/sprzet/czyszczenie-i-smarowanie-lancucha,3378.html
+---
+cala prawda o smarowaniu
+----
+http://wrower.pl/sprzet/zapiecia-linki-i-blokady-rowerowe,6388.html
+---
+zapiecia linki i blogkady - 450 kryptinite
+@ controler , @repository , @service
+@ Autowired - wstrzykiwanie zaleznosci - (jedna instancja)
+
+new KodDAO() - nie wskazane
+java nie jest scisle typowanea (bez wzrokowe pisanie na klawiaturze)
+@KodDAO - typu repository
+
+--- html - perl bash - shell
+---
+protolko http json 
+---
+
+dekorator linka i pedaly ;; switlo nizej
+
+return glowny.jsp - nazwa metody
+---
+ModelAndViwe - lub sam model model.AddAtribute ,
+
+----
+widok jsp (dosteje sie do danych  przez 	EXPRWSION LANGUJRE )  ${} - ekspresion langujre
+
+----
+EXPRASION LANGUEGE I PATCH VERIABLE /kot/{imie} @PathVeriable("imie") String imieKOta	
+
+---
+dodaj moja metoda : dostac sie do bazy
+----
+BadRequeste - jesli zla metodoa
+@*** - metoda szybka requestParam
+
+
+----
+mechanika aplikacji (wytwarzanie oprogramowanie) - pieprzc ich lamigowki i pit stop
+
+---
+nastepny hit TagLiby + adnotacje kolejny hory kontkrat
+
+----
+springBoot - i;m not big footbaool fan
+
+----
+/
+
+<%@  @> - procent malapa 20 
+
+---
+formularze (*** wzorzec obslugi formularzy obiekty transferowe ***)
+---
+zapytanie przechodze przez dispatcher / -> kierowan sa do 
+
+widok formularz :: rediarect fomrularaz
+redairect:/poFromularzu
+
+DTO - data trasfert object
+---
+org.hibernate:hibernate-validator
+---
+dodawanie zaleznosci
+
+<form:form/> - obsluga formularzy
+---
+(<%@ taglib prefix=“form” uri=“http://www.springframework.org/tags/form”%>)
+---
+je just the moment
+---
+.jsp - iki kto obsluguje (serwer aplikacji pisanie taglibow)
+----
+<%@ taglib prefix="form" + DTO / data transfer object)
+
+// rozwiazanie zadania - firma do obierania mieszkania, naprawiwac // strzal w dzisiatke
+----
+
+WARNING: No mapping found for HTTP request with URI [/koty-webapp/lista] 
+
+---
+laczenie do bazy - instaluje sie lokalnie
+----
+
+progkol http na logach widac jak leci logowanie : laczenie z baza danych : piwko olac
+
+---
+klimatyzator lg (cos zrobic)
+---
+
+<%@ taglib prefix="c"
+---
+
+taglib prefix="c"
+
+----
+NOWE ELEMENTY W PROGRAMOWANIU TAGLIBY + EXPRESION langure
+----
+
+ksiazke jeszcze poczytaj
+
+PODSUMOWANIE:
+PRACOWALEM NA APLIKACJI TYPU FRAMWORK - potrafilem tam wiele rzeczy zrobic prawie wszystko, pisania racznie.
+Znam na poziomie kursy, i strony
+
+----
+https://aero7.pl/public/product-files/1400/instrukcja-obslugi-lg-standard-p12en.pdf
+----
+
+w domu baza dancych dostep
+---
+uczesniczylem w aplikacji logika biznosowa polegala i otarem sie o rozne podejsci do webowej aplikacji
+---
+epizosd z aplikacja ejb i swingiem
+----
+
+ok - napisze to wszystko w cw - startuje na mlodszego progmiste java
+----
+podlaczenie do bazy JPA i adnotacje ::
+
+klucz oczkowy 29 - zalatwic - szybkie prototypowanie --- zalatwic taki klucz
+
+EntityManager
+----
+
+kontekts aplikacji gruby klinta oprecja na bazie komonukiacja z baza
+----
+
+REST - ENDPINTY - JAK COLLECTIO GADA Z ANAGULAREM
+
+JPQL , HQL - KSIAZKA APLIAKCJA BILET
+----
+i tak dobilem z aplikac kody do sciany (na etepie laczenia z baza)
+---
+
+cala aplikacja i i WAZNE I KONFIGURACJA APLIKACJI OPARTA BYLA O PLIKI XML-owe tak jak spring
+----
+stawianie bazy instalacji :: konwersje danych :: (olacj java
+
+<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">     <property name="driverClassName" value="com.mysql.jdbc.Driver" />     <property name="url" value="jdbc:mysql://localhost:3306/koty" />     <property name="username" value="login" />     <property name="password" value="haslo" /> </bean>)
+
+@Autowired private DataSource dataSource;
+
+--- paramatryzajc zapatyn deydykowane jezyki zapytac warstwa dostepowa do bazy danych
+
+---
+<mongo:mongo host="localhost" port="27017"> 
+  <mongo:options
+       connections-per-host="5"      
+       connect-timeout="30000"
+       max-wait-time="10000"      
+       write-number="1"
+       write-timeout="0"
+       write-fsync="true"/>
+ </mongo:mongo>
+ 
+ <mongo:db-factory dbname="test" mongo-ref="mongo"/>
+ 
+  	<mongo:repositories base-package="pl.ontia.collectio.repository" />
+   
+ <bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
+     <constructor-arg ref="mongo"/><constructor-arg name="databaseName" value="test"/></bean>
+</be
+---
+polaczenie z baza mongo security 
+
+---
+ja pwiem co umiem / a Pan czego oczekuje / i ewentulanie pozniej testy
+
+----
+https://www.baeldung.com/spring-boot-angular-web
+
+----
+In this tutorial, we’ll use Spring Boot for implementing a RESTful backend, and Angular for creating a JavaScript-based frontend.
+---
+RESTfULL BackaAnd - Sprign BackAnd laczenie aplikacji
+----
+node.js + angulara
+node.js + reackt
+
+----
+dostanie konto do kodow, czy w ciemno , co mam robic, jakich narzedzi urzywac i czego oczkujecie bo juz nie bede sprazatacl
+
+MEAN sTACK
+REACT STACK - rozwiaznia produkcyjne
+
+--- aplikacje webowe ----
+--- apliakcje mobilne ??? --- jak ise pisze
+
+()praca w chmurze narzedzia do pracy grupowej :: kody :: komentowanie poprawkik
+-- powloka unix
+
+Druga część zadania to modyfikacja istniejącej aplikacji w taki sposób, żeby wszystkie operacje związane z obiektem kot (dodawanie, usuwanie, pobieranie, edycja, pobieranie wszystkich) były dostępne także za pomocą API restowego (pod adresem /rest/koty )
+
+
+JAK SIE PISZE APLIKACJE MOBILNE
+---
+
+PROGRAMOWANIE FUNKCYJNE [ -- nie mutowalne wjataki], brak certyfikatowe, i takie tam
