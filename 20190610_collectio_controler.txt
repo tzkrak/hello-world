@@ -137,3 +137,6 @@ poczytac jeszcze SpringBoot - spring-mvc :: relizacja dospte do bazy :: collecti
 
 ====
 corre java powtorze, podanie i final git commit : praca z branchami :: 
+
+-----
+your branch is by commit and be fast-forwarded
