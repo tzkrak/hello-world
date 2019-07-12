@@ -1,0 +1,39 @@
+pracuj pl /
+info praca / - rozumiem nie umieme ale moge - potrzebuje w miare dobrze platnego zajecia 
+
+
+
+todo:
+-----
+	m2 - repozytorium mowena
+	
+obszary w ktorech sie poruszasz:
+	porzadki :: komputery szafki piwnica (dywan)
+	dom remonty: kuchnia, okna pokuj, lodowk, pralka, opiekacz
+	wyjazda kompletowanie rzeczy: papiery wybrac dowod
+	samochody : porzadki
+	gac i sarzyny : porzadkowanie spraw garaz
+	
+	piorytety:
+		duzy pokoj malowanie, malowanie pokoj magdy
+		praca i gac
+		swiadectwo pracy i ubezpieczenie
+		
+---	
+	git powtorka z kodu
+	klucze do garazu
+--- (gdzies tam czytalem o bashu) --- jest bogaty ma telewizor --- kluca
+mysqldump -u root -p --add-drop-database limanowa > limanowa_20180129.sql
+
+mysqldump -u root -p --add-drop-database limanowa > limanowa_20180129.sql
+
+unzip -l koszalin100_20161014.zip 
+  101  unzip -h
+  102  unzip -v koszalin100_20161014.zip -d /var/www/
+  105  
+  
+  zip limanowa_20180129.sql.zip limanowa_20180129.sql
+   zip limanowa_20180129.sql.zip limanowa_20180129.sql
+   
+.httacces - konfiguracja apacza api restowe
+  
