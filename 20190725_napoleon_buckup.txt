@@ -1,0 +1,111 @@
+NAP-FILES01 - tak sie nazywa serwe
+---
+wyzwaolenie kronow:
+http://51.254.200.38/napoleon/navigart/select/all
+
+widocznosc stroney:
+http://51.254.200.38/napoleon/navigart/select/all
+
+-- adressy cronow
+
+---
+administrator
+91.134.143.205
+splpths!
+---
+
+690 220 101 do laski - polaczenie tmv do baby
+
+1. zatrzymujemy crony x
+1a. zatrzymac apaczcha x
+2. czyscimy tabele x
+3. restrart mysql-a x
+4. backap baz x
+5. backup zrodel bez grafik x
+
+---
+przekierowania eksportu 
+[Ftp]
+FTP_PORT=21
+FTP_HOST=51.254.200.38
+FTP_USER_NAME=ftpnapoleon
+FTP_PASSWORD=##lomtjjz##
+FTP_PASSIVE=True
+---
+albo
+
+---
+[Ftp]
+FTP_PORT=21
+FTP_HOST=51.254.200.38
+FTP_USER_NAME=ftpnapoleon
+FTP_PASSWORD=##lomtjjz##
+FTP_PASSIVE=True
+---
+lub : sftp://napoleon@151.80.136.245/home/napoleon/nap_upd_2
+---
+show tables;
+truncate watchdog;
+select * from watchdog;
+truncate session;
+---
+
+proba na ftp-a, jak bedzie dlugo szlo, to na dysk, i dac namiary na ftp-a
+(ustawic na przyszlosc)
+
+mysqldump -u root -p --add-drop-database limanowa > limanowa_20180129.sql
+zip limanowa_20180129.sql.zip limanowa_20180129.sql
+zip -r archiwum zrodlo
+
+koszalin   2.2 GB ????
+napoleon   0.5 GB (0.4 GB - zajmuja grafiki)
+wawel      1.1 GB
+
+udalo sie urwac 300 MB truncate sessions
+
+podsumowanie zip jest w /napoleont wazy 90 MB
+---
+zrodkla nawigata 200 MB
+---
+
+
+
+
+
+---
+cel molowanie duzego pokoju
+
+---
+
+piprzec - podkladki gumowa - podnosnik, dzielenie kanap
+---
+springcontroler :: jakas ksiazke wziac :: budapeszt :: wsteczny
+---
+
+biograd:
+	kamp bakuja
+https://www.campbakija.com/where-we-are
+	malo cienia ceny podobne do luki (maty sloneczne)
+---
+http://www.kamp-ljutic.hr/gallery.html (cena 50 euro z lodowka doba)
+---
+https://www.campsoline.com/en/prices-brochures (35 - 40 euro) doba 62 euro doba
+---
+kamm jadre kamp sandy
+----
+dardin - jechac miejscowosciami i cenami
+---
+drage:
+	85 euro
+---
+dalej od drage:
+	https://www.kampoaza.net/en/pricelist (34 euro/day)
+	
+	zero cinia i przy drodze troche masakra
+---
+	https://www.rivijera.hr/en/camps/ !!! jakas strona z kampami	
+
+---
+	price list + contact / galery
+---
+		
