@@ -1,0 +1,21 @@
+git status
+git chekout -b 'issue-05' : silnik (wyciga i tworzy nowego brancha)
+
+
+4 commit ahead master
+---
+checkout master - przalaczanie sie midyz branchami
+
+---
+pull, push - synchronizacja branczy
+
+----
+uwag brancze sie ni sycnfhozuja samie - nazwa komiita
+
+commit -am plik 'comentara
+
+git branch -d usuwanie
+git branch -all
+
+git clone
+git push origin
