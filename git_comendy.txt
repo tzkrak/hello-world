@@ -19,3 +19,17 @@ git branch -all
 
 git clone
 git push origin
+
+---
+narzedzia graficzne olac
+
+git branch -d <name>
+--- -D frow away
+
+--- comity, workflow praca z branchami ---
+--- clonowanie projektu --- 5G mi uruchomili
+
+---
+pole wyliczeniowe  - w accesie dostepne (file zilla)
+
+/ branch is pointer to commits
