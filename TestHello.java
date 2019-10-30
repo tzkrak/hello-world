@@ -1,11 +1,7 @@
 import java.util.*;
 
 public class TestHello {
-	// praca z branczhmi checkot - przelaczanie i wracanai zmian
-	// przelaczania sie na galeze
-	// po margowaniu
-	// robimy na dwa razy  commit i pull
-	// przypomnienie commitowania praca na branchach + scenariusze
+	// testowa klasa
 	static String HELLO_MSG = "Hello\n";
 	private Vector strVect;
 
@@ -99,16 +95,12 @@ git kluczowe pojecia
     }
 
     public static void testMap(){
-    	// nizgodne nie mozan rzutowac na typy generyczne
-    	// nikezgodne kod jest kode koniec uczenia
-
-    	//	OK poprawka tworzyc mozna 
-  
+    	
     	List<String> lista = new ArrayList<String>();
     	lista.add("Grzesiek");
     	lista.add("Tomek");
     	lista.add("Janek");
-    	lista.add(200);
+    	// lista.add(200);
     	for (int i = 0; i <= 100; i++){
     		lista.add("Item" + i);
     	}
