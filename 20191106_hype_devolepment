@@ -1,0 +1,152 @@
+wiedza jak pisac aplikacje webowe kluczowa dla pracodawcow
+----
+konfiguratory :: czemu nie chce bo musi byc w pakiecie
+----
+zdeplpyowa - zrobic debpoly na dowolnym serwerze (webLogic) - przyklad serwera aplikacji
+---
+pau art architektua:
+	collectio : spring , angular, mongodb, wyszukiwanie tekstowe pauart
+----
+zasady convention-over-configuration - zasada konwesjn over konfiguratio	
+----
+wstrzykiwanie i zaleznoci IoC - odworcenie sterowania
+---
+uwaga SpringMVC =! Spring
+Model
+Controler
+Servisy
+ViewResolvery
+
+bean - obiekt zarzodzany !!! kod zarzadzany
+komponnet i stareotpy zarzadany	
+
+----
+uwaga nie trzba znac 
+----
+napisz uruchom poczekaj :: pythob :: scala
+----
+SPRING MVC -> wystepuje jak wzorzefront controler -> 'nadzorca' 
+zarzadca' -> DispatcherServletr 
+---
+Servlet to aplet wykonywany po stronie serweiraw
+
+web.xml - konfiguracja (napisali od porzatku)
+---
+web.xml - konriguracj springowa
+	Servlety - MY TYLKO dajemy DispatcherServlet
+	Filtry
+	Listenery
+/src/main/webapp/WEB-INF
+
+web.xml -> aplicationContext.xml (jak najweicej / wlaczamy adnotacje)
+
+kolejne pojecie ViewResolver
+====
+apach tiles
+apache velocity
+.jsp + servlre (je spiki)
+----
+DAO - data acess object (retquest maping)
+----
+schamat mechnika dzialania aplikacji jakis rysunek
+---
+mastersztyk dla muzeum warszawy
+----
+publikacja aplikacji w interenecie::
+----
+Irlandia tansza na Aws
+----
+SQL SERVER DEDYKOWANY W INTERNECIE :: TELEFON
+---
+my - sql silnik
+----
+virtual private cloud - na chmurze	
+
+----
+EUREKA MYSQL WORKBANCZH - mozna sie do sieciowej bazy podpiac
+----
+Miej to na uwadze w swojej przyszłej pracy — na potrzeby aplikacji, która nie ma dużego znaczenia biznesowego, a dane w niej zawarte nie są wrażliwe, użyte podejście móże być wystarczające. Pamiętaj jednak, że pewne rzeczy można poprawić.
+---
+
+RESTJS - laczony z springkem :: serwisem RESTOWYM TO JESZCZE REST sprawdz
+----
+
+Angular i Spring to Spring Boot - jesZcz jedno badziewie
+--- CRUD aplication angular i spring BOOT
+
+--- pralka i telefon i gac
+
+
+jobs for geek : SPRING BOOT
+
+----
+https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.en2k12epn
+----
+https://devenv.pl/angular-podstawowe-informacje/
+
+
+REST - laczenie technloli restem 
+
+RxJS - niestebilne rozwiaznai
+web 2.0 katagoria
+
+social new media aggregation
+---
+
+sprawd opony : social news : digg.com
+
+----
+api dig slash / agragtor trasci
+
+----
+slashdot - efekte slashdotak
+
+webservice czyli suslugik
+
+web bo hhtp serwice bo cos udestepnia
+
+rest kartaka pocztaowa soap - list w foli bobelkowej
+=====
+PRZYKLAD API RESTOWERGO ENDPOIINTO :: POSZUKAC PRZYKLADU API
+----
+serwis restowy jako zwykly kontroler
+
+---- masz mentora ---- czy masz juz mentora ---- a poamietasz gadu gadu
+
+GET — pobieranie (zarówno kolekcji, jak i pojedynczego elementu)
+POST — tworzenie (tylko kolekcji)
+PUT — aktualizacja (tylko pojedynczego elementu)
+DELETE — usuwanie (tylko pojedynczego elementu)
+
+--- przykladowa aplikacja stautsy HTTP
+
+serwis restowy przy urzyciu spritnga
+
+stac overflow driven development
+
+stos technologiczny - masz juz metora - wybrales juz chmure
+----
+The root of all evil seems to be social media — where new ideas spread much faster than they get tested. Much faster than people are able to understand their pros and cons.
+----
+
+nie czytam blogow
+----
+solid softwara engineering - psuaja szkolyu
+----
+
+cikawe jak taraz uczy sie programowania :: jezyki skryptowe perl
+
+medium.com - liczy sie raczej piniadze
+
+----
+WAZNA UWAGA NP. Z RECKTEM DUZA ILOSC EWNTOW NIE DO KAZDEJ APLIKACJI SIE NADAJE
+----
+
+to jesty chyba ladne podsumowanie calej zabawy:
+https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.en2k12epn
+----
+wez sie chlopie
+
+tortoise git nie kazdy kija ma dwa konce microsrwisy testowanie
+---
+homework, dayli spotkania 
