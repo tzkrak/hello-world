@@ -1,0 +1,208 @@
+plan:/ - krotka powtorak z angielskkiego
+git:/ - krotka powtorak git
+mapowanie:/ - krotka powtorka mapowanie
+java:/ - krotka powtorka java
+
+
+obciete wiersze
+raprty
+formularze
+
+---- wspomaganie
+3.4 - 4.1 - 3.2 - 
+
+---
+istnieje w nim wiele rozszerzeń, które pozwalają budować aplikacje webowe na bazie Java EE. 
+--- 
+pozwala na szybsze i prostsze skladanie aplikacji
+---
+interfejs strategi :: sprign
+
+---
+Jeśli chcesz, aby coś było drogie nazwij to enterprise” takimi słowami Jakub Nabrdalik opisał sposób myślenia architektów projektujących Jave w wersji Enterprise Edition.
+---
+
+fajnie
+----
+
+corrowe umijetnosci tworznie compilatorow i kodow
+
+----
+ejb rmii over iiop .. pozmienialo sie
+----
+ejb 3.0 encje jpa
+----
+kodowania logiki aplikacji po stronie klienta :: praktyczna informatyka
+
+---
+wyzwolic sie ze wszystkiego
+
+---
+zaznaczyc ze pracowalem przy aplikacji ejb
+---
+logika aplikacjia
+----
+na bazie siegedava powstal musnetng - troche zostal przekominowany na rzecz
+synchronizacji danych i poszlo do kosza/ rozniece swt + 
+---
+czy spring pozwala zrobic cienkiego klienta 
+
+--- 
+remote/ diestributeing - programowanie rozposzeone cortba
+budowanie interefejsu - budowanie aplikacji - 
+REST - zastapienie - biznesowe zastowsowania 
+
+----
+Spring w aplikacja webowych ok , 
+----
+
+systemy rozporoszene :: oprogramowanie posredniczocne
+
+----
+block chain (oprogramwaonie)
+
+----
+    gniazda (ang. sockets)
+    RPC (Remote Procedure Call)
+    DCE (Distributed Computing Environment)
+    CORBA (Common Object Request Broker Architecture)
+    DCOM (Distributed Component Object Model)
+    RMI (Remote Method Invocation)
+----
+
+ODRA SYSTEM ROZPOSZONY MAIN FRAME
+
+DCOM - mala siec komputerowa
+----
+
+rozproszeone laczenie sie z baza logika w aplikacji:
+
+----
+technoalogia: ODBC i FOLDEROW WSPOLDZIELONCYH - sprytna aplikacja
+---
+
+middlewera
+
+---
+bitTorrent - bitcoin network
+---
+network file system :: dolaczenie do sieci 
+---
+obliczenia rozproszone
+
+--- klient-serwer, peer-to-peer
+--- riad rodiznia 360 ibm
+--- imb system z9 jednostak
+
+--- db2 /adabas 20 30 instlalajia / linux one
+
+--- do tego doszly taraz aplikacje w chmurze obliczeoniowerj jak dziecko we mgle
+
+----
+spring a serwer aplikacyjny
+----
+orkiestracja roziazan 
+----
+do tego dochdza aplikacje mobilne
+
+--- chmura obiczonowe i mobilne
+--- pokaz mi jaki kod piszesz
+
+--- terminal przejely intenert i komputerey osobiste :: cyfronet
+--- aktulanie ejb i spring sie zacieraja
+
+---kileer featurem Srongia jest kontroler IoC 
+=== testowanie mockowania sutby :: tworzenie mockow : zmieljszenie liczbg powiazan 
+miedzy obiektami
+
+---
+Wstrzykiwanie zależności jest jednym ze sposobów realizacji IoC (mogą być to także eventy, czy programowanie aspektowe).
+----
+zastowanie akrchitowry model viev contlrelr i przniesienie logkiit
+
+wstrzykiwanie zaleznosci :: independyc tire
+
+---
+Spring
+----
+Skoro aplikacja web to AngularJS + Android to użycie REST jest jak najbardziej zasadne. Też niedawno robiłem aplikacje na takim stosie
+1) Trochę się męczyliśmy z androidem aby dobrze konsumował REST'a polecam HttpClient i Jackson
+2) AngularJS - syndrom F5
+---
+robienie aplikacji na stasie
+
+---
+SPRING - stos technologiczny mentora sturtup
+
+----
+Projekt skończyłem, jednak w innych technologiach niż początkowo zakładałem. Finalnie wybrałem stos MERN - Mongo Express.js React Node.js, w którym zrobiłem prostą appkę webową deployowaną na heroku. Prawdę mówiąc poszedłem trochę na łatwiznę, ponieważ core apki wziąłem z kursu, który robiłem na Udemy.
+Prawdopodobnie teraz wziąłbym technologie Springowe (Spring Boot, Security, MVC, Data - może Cloud) + Angular/React na froncie (ew. Thymeleaf).
+----
+
+PROGRAMOWANEI RECTYWENE STOS SPRING BOOT
+---
+
+NOWY HIT PROGRAMOWANIE REKTYWNE I STOS TECHNOLOGICZNY
+
+----
+
+https://www.callicoder.com/spring-boot-mongodb-angular-js-rest-api-tutorial/
+
+----
+aplikacja koty w kobiety do kodu tez ::: w domu przejsryzj 
+----
+hipsterskie vs sztampowe rozwiaziania , tolle devOps
+
+----
+consulting i doractwo (znajmosc jezyka) - ni chu chu / uwaga na zleznosci 
+no i tak to pokrotce bylo z tym musnetem - 
+
+----
+podanie :: sytlowanie
+----
+latwowsc revieweania apliakacji
+
+---
+
+sprign boot ma juz tomacata w sobie
+---
+node.js - czymu java scriopt
+
+----
+To jest framework który pozwala na tworzenie aplikacji webowych w stylu request-response. Poza tym niejako out-of-the-box pozwala też na wystawianie restowego interfejsu (więc tym samym można z powodzeniem stosować go razem z popularnymi ostatnio rozwiązaniami typu AngularJS).
+Można za jego pomocą tworzyć rozbudowane serwisy.
+Technologie zależą od konkretnego zastosowania. Zwykle minimum to Spring IoC+MVC+Data i JPA, ale może tego być znacznie więcej.
+
+--- 
+
+https://4programmers.net/Forum/Edukacja/258152-do_czego_sluzy_spring_mvc
+
+====
+php jako bakcken miliny biblioteke testowanie to porazka
+
+---
+bigteble
+
+---
+godien fuck, it so fakung stupied - nawigar logikia impolementacji 
+
+----
+podanie wypisac projekty i technologie urzyte w projektach
+---
+nie zapomnij o perlu
+
+---
+angulra js - stating projkece 
+----
+
+drupal i php - programowanie widokow logika apliakajic :: colletion ::
+
+----
+sciagnac kody readme i koniec
+
+framwork szkielet tworzenia aplikacji / przeniesieni na weba
+----
+ssystem hockow debagowani przez logowanie tysiecie linik kodu milinoy includow
+---
+cms z tysiaciami lini kodu i plikow typo3 dla pasjonaotowa :::  Cl, gickcms , wordpress
+
