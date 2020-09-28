@@ -219,22 +219,7 @@ stawianie bazy instalacji :: konwersje danych :: (olacj java
  
   	<mongo:repositories base-package="pl.ontia.collectio.repository" />
    
- <bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
-     <constructor-arg ref="mongo"/><constructor-arg name="databaseName" value="test"/></bean>
-</be
----
-polaczenie z baza mongo security 
-
----
-ja pwiem co umiem / a Pan czego oczekuje / i ewentulanie pozniej testy
-
-----
-https://www.baeldung.com/spring-boot-angular-web
-
-----
-In this tutorial, we’ll use Spring Boot for implementing a RESTful backend, and Angular for creating a JavaScript-based frontend.
----
-RESTfULL BackaAnd - Sprign BackAnd laczenie aplikacji
+ <bean id="mongoTemplate" class="org.springframework.data.mongodb.c`
 ----
 node.js + angulara
 node.js + reackt
@@ -258,3 +243,5 @@ JAK SIE PISZE APLIKACJE MOBILNE
 ---
 
 PROGRAMOWANIE FUNKCYJNE [ -- nie mutowalne wjataki], brak certyfikatowe, i takie tam
+----
+dobilem do sciany
